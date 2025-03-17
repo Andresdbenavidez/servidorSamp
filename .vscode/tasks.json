@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile Pawn",
+            "type": "shell",
+            "command": "C:\\Users\\Asus\\Downloads\\samp037_svr_R2-2-1_win32\\pawno\\pawncc.exe",
+            "args": [
+                "${file}",
+                "-o${fileDirname}\\${fileBasenameNoExtension}.amx",
+                "-d3"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "detail": "Compile Pawn script"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+[22:23:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[22:23:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[22:23:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[22:23:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[22:26:39] [WARNING] mysql_connect: no password specified
+[22:33:52] [WARNING] mysql_connect: no password specified
+[22:33:52] [WARNING] mysql_connect: no password specified
+[22:43:58] [WARNING] mysql_connect: no password specified
+[22:46:25] [WARNING] mysql_connect: no password specified
+[22:47:32] [ERROR] error #1054 while executing query "UPDATE usuarios SET pos_x=140.889465, pos_y=-168.172378, pos_z=1.578125 WHERE nombre='David'": Unknown column 'pos_x' in 'field list'
+[22:49:55] [WARNING] mysql_connect: no password specified
+[22:52:28] [ERROR] error #1054 while executing query "UPDATE usuarios SET pos_x=229.607376, pos_y=-124.068786, pos_z=1.429687 WHERE nombre='David'": Unknown column 'pos_x' in 'field list'
+[22:52:46] [WARNING] mysql_connect: no password specified
+[07:56:57] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:03:06] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:04:50] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:07:49] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:08:12] [ERROR] error #1054 while executing query "SELECT * FROM users WHERE nombre='David'": Unknown column 'nombre' in 'where clause' (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:40)
+[08:09:11] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:09:32] [ERROR] error #1054 while executing query "SELECT * FROM users WHERE nombre='David'": Unknown column 'nombre' in 'where clause' (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:40)
+[08:14:14] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:14:36] [ERROR] error #1054 while executing query "SELECT * FROM users WHERE nombre='David' LIMIT 1": Unknown column 'nombre' in 'where clause' (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:40)
+[08:20:55] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:21:18] [ERROR] error #1054 while executing query "SELECT * FROM users WHERE nombre='David' LIMIT 1": Unknown column 'nombre' in 'where clause' (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:40)
+[08:22:11] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:22:32] [ERROR] error #1054 while executing query "SELECT * FROM users WHERE nombre='David' LIMIT 1": Unknown column 'nombre' in 'where clause' (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:40)
+[08:37:15] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:37:39] [ERROR] error #1054 while executing query "SELECT * FROM users WHERE nombre='David' LIMIT 1": Unknown column 'nombre' in 'where clause' (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:39)
+[08:41:01] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[08:41:45] [ERROR] cache_get_value_name_float: field 'pos_x' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:85)
+[08:41:45] [ERROR] cache_get_value_name_float: field 'pos_y' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:86)
+[08:41:45] [ERROR] cache_get_value_name_float: field 'pos_z' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:87)
+[08:41:45] [ERROR] cache_get_value_name_int: field 'skin' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:88)
+[08:42:41] [ERROR] cache_get_value_name_float: field 'pos_x' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:85)
+[08:42:41] [ERROR] cache_get_value_name_float: field 'pos_y' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:86)
+[08:42:41] [ERROR] cache_get_value_name_float: field 'pos_z' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:87)
+[08:42:41] [ERROR] cache_get_value_name_int: field 'skin' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:88)
+[08:43:41] [ERROR] cache_get_value_name_float: field 'pos_x' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:85)
+[08:43:41] [ERROR] cache_get_value_name_float: field 'pos_y' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:86)
+[08:43:41] [ERROR] cache_get_value_name_float: field 'pos_z' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:87)
+[08:43:41] [ERROR] cache_get_value_name_int: field 'skin' not found (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:88)
+[08:58:23] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:18)
+[09:08:03] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[09:11:35] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[09:15:50] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:16)
+[09:40:32] [WARNING] mysql_connect: no password specified (C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\gamemodes\bare.pwn:23 -> C:\Users\Asus\Downloads\samp037_svr_R2-2-1_win32\pawno\include\sscanf2.inc:1065)

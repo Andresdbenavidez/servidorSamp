@@ -1,0 +1,3998 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:27] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:31:39] 
+[19:31:39] Server Plugins
+[19:31:39] --------------
+[19:31:39]  Loaded 0 plugins.
+
+[19:31:39] 
+[19:31:39] Filterscripts
+[19:31:39] ---------------
+[19:31:39]   Loading filterscript 'gl_actions.amx'...
+[19:31:39]   Loading filterscript 'gl_realtime.amx'...
+[19:31:39]   Loading filterscript 'gl_property.amx'...
+[19:31:39] 
+-----------------------------------
+[19:31:39] Grand Larceny Property Filterscript		
+[19:31:39] -----------------------------------
+
+[19:31:39]   Loading filterscript 'gl_mapicon.amx'...
+[19:31:39]   Loading filterscript 'ls_elevator.amx'...
+[19:31:39]   Loading filterscript 'attachments.amx'...
+[19:31:39]   Loading filterscript 'skinchanger.amx'...
+[19:31:39] 
+--Admin Player Skin Changer Loaded
+
+[19:31:39]   Loading filterscript 'vspawner.amx'...
+[19:31:39] 
+--Admin Vehicle Spawner Loaded
+
+[19:31:39]   Loading filterscript 'ls_mall.amx'...
+[19:31:39]   Loading filterscript 'ls_beachside.amx'...
+[19:31:39] 
+
+[19:31:39]   |---------------------------------------------------
+[19:31:39]   |--- LS BeachSide Filterscript
+[19:31:39]   |--  Script v1.03
+[19:31:39]   |--  19th April 2015
+[19:31:39]   |---------------------------------------------------
+[19:31:39]   |--  LS BeachSide Building Elevator created
+[19:31:39]   |---------------------------------------------------
+[19:31:39]   Loaded 10 filterscripts.
+
+[19:31:39] Loaded 3 vehicles from: vehicles/trains.txt
+[19:31:39] Loaded 3 vehicles from: vehicles/pilots.txt
+[19:31:39] Loaded 15 vehicles from: vehicles/lv_law.txt
+[19:31:39] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[19:31:39] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[19:31:39] Loaded 38 vehicles from: vehicles/sf_law.txt
+[19:31:39] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[19:31:39] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[19:31:39] Loaded 24 vehicles from: vehicles/ls_law.txt
+[19:31:39] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[19:31:39] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[19:31:39] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[19:31:39] Loaded 71 vehicles from: vehicles/whetstone.txt
+[19:31:39] Loaded 168 vehicles from: vehicles/bone.txt
+[19:31:39] Loaded 61 vehicles from: vehicles/flint.txt
+[19:31:39] Loaded 96 vehicles from: vehicles/tierra.txt
+[19:31:39] Loaded 96 vehicles from: vehicles/red_county.txt
+[19:31:39] Total vehicles from files: 1781
+[19:31:39] Reading File: blank
+[19:31:39] Reading File: properties/houses.txt
+[19:31:39] Reading File: properties/businesses.txt
+[19:31:39] Reading File: properties/banks.txt
+[19:31:39] Reading File: properties/police.txt
+[19:31:39] 
+---------------------------------------
+[19:31:39] Running Grand Larceny - by the SA-MP team
+
+[19:31:39] ---------------------------------------
+
+[19:31:39] Number of vehicle models: 173
+[19:34:31] [connection] incoming connection: 127.0.0.1:51881 id: 0
+[19:34:31] [join] David has joined the server (0:127.0.0.1)
+[19:52:12] [part] David has left the server (0:1)
+Console input: restart
+Console input: sd
+Console input: exit
+[19:57:59] --- Server Shutting Down.
+[19:57:59]   |--  LS BeachSide Building Elevator destroyed
+[19:57:59]   |---------------------------------------------------
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:58:07] 
+[19:58:07] Server Plugins
+[19:58:07] --------------
+[19:58:07]  Loaded 0 plugins.
+
+[19:58:07] 
+[19:58:07] Filterscripts
+[19:58:07] ---------------
+[19:58:07]   Loading filterscript 'gl_actions.amx'...
+[19:58:07]   Loading filterscript 'gl_realtime.amx'...
+[19:58:07]   Loading filterscript 'gl_property.amx'...
+[19:58:07] 
+-----------------------------------
+[19:58:07] Grand Larceny Property Filterscript		
+[19:58:07] -----------------------------------
+
+[19:58:07]   Loading filterscript 'gl_mapicon.amx'...
+[19:58:07]   Loading filterscript 'ls_elevator.amx'...
+[19:58:07]   Loading filterscript 'attachments.amx'...
+[19:58:07]   Loading filterscript 'skinchanger.amx'...
+[19:58:07] 
+--Admin Player Skin Changer Loaded
+
+[19:58:07]   Loading filterscript 'vspawner.amx'...
+[19:58:07] 
+--Admin Vehicle Spawner Loaded
+
+[19:58:07]   Loading filterscript 'ls_mall.amx'...
+[19:58:07]   Loading filterscript 'ls_beachside.amx'...
+[19:58:07] 
+
+[19:58:07]   |---------------------------------------------------
+[19:58:07]   |--- LS BeachSide Filterscript
+[19:58:07]   |--  Script v1.03
+[19:58:07]   |--  19th April 2015
+[19:58:07]   |---------------------------------------------------
+[19:58:07]   |--  LS BeachSide Building Elevator created
+[19:58:07]   |---------------------------------------------------
+[19:58:07]   Loaded 10 filterscripts.
+
+[19:58:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:58:07] Reading File: blank
+[19:58:07] Reading File: properties/houses.txt
+[19:58:07] Reading File: properties/businesses.txt
+[19:58:07] Reading File: properties/banks.txt
+[19:58:07] Reading File: properties/police.txt
+[19:58:07] 
+----------------------------------
+[19:58:07]   Bare Script
+
+[19:58:07] ----------------------------------
+
+[19:58:07] Number of vehicle models: 0
+[19:58:33] [connection] incoming connection: 127.0.0.1:64153 id: 0
+[19:58:33] [join] David has joined the server (0:127.0.0.1)
+[19:58:59] [part] David has left the server (0:1)
+Console input: exit
+[20:21:52] --- Server Shutting Down.
+[20:21:52]   |--  LS BeachSide Building Elevator destroyed
+[20:21:52]   |---------------------------------------------------
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:22:04] 
+[20:22:04] Server Plugins
+[20:22:04] --------------
+[20:22:04]  Loading plugin: sscanf.so
+[20:22:04]   Failed.
+[20:22:04]  Loaded 0 plugins.
+
+[20:22:04] 
+[20:22:04] Filterscripts
+[20:22:04] ---------------
+[20:22:04]   Loading filterscript 'gl_actions.amx'...
+[20:22:04]   Loading filterscript 'gl_realtime.amx'...
+[20:22:04]   Loading filterscript 'gl_property.amx'...
+[20:22:04] 
+-----------------------------------
+[20:22:04] Grand Larceny Property Filterscript		
+[20:22:04] -----------------------------------
+
+[20:22:04]   Loading filterscript 'gl_mapicon.amx'...
+[20:22:04]   Loading filterscript 'ls_elevator.amx'...
+[20:22:04]   Loading filterscript 'attachments.amx'...
+[20:22:04]   Loading filterscript 'skinchanger.amx'...
+[20:22:04] 
+--Admin Player Skin Changer Loaded
+
+[20:22:04]   Loading filterscript 'vspawner.amx'...
+[20:22:04] 
+--Admin Vehicle Spawner Loaded
+
+[20:22:04]   Loading filterscript 'ls_mall.amx'...
+[20:22:04]   Loading filterscript 'ls_beachside.amx'...
+[20:22:04] 
+
+[20:22:04]   |---------------------------------------------------
+[20:22:04]   |--- LS BeachSide Filterscript
+[20:22:04]   |--  Script v1.03
+[20:22:04]   |--  19th April 2015
+[20:22:04]   |---------------------------------------------------
+[20:22:04]   |--  LS BeachSide Building Elevator created
+[20:22:04]   |---------------------------------------------------
+[20:22:04]   Loaded 10 filterscripts.
+
+[20:22:04] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:22:04] Reading File: blank
+[20:22:04] Reading File: properties/houses.txt
+[20:22:04] Reading File: properties/businesses.txt
+[20:22:04] Reading File: properties/banks.txt
+[20:22:04] Reading File: properties/police.txt
+[20:22:04] 
+----------------------------------
+[20:22:04]   Bare Script
+
+[20:22:04] ----------------------------------
+
+[20:22:04] Number of vehicle models: 0
+Console input: exit
+[20:23:30] --- Server Shutting Down.
+[20:23:30]   |--  LS BeachSide Building Elevator destroyed
+[20:23:30]   |---------------------------------------------------
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:23:47] 
+[20:23:47] Server Plugins
+[20:23:47] --------------
+[20:23:47]  Loading plugin: sscanf
+[20:23:48] 
+[20:23:48]  ===============================
+[20:23:48] 
+[20:23:48]       sscanf plugin loaded.     
+[20:23:48] 
+[20:23:48]          Version: 2.13.8
+[20:23:48] 
+[20:23:48]    (c) 2022 Alex "Y_Less" Cole  
+[20:23:48] 
+[20:23:48]  ===============================
+[20:23:48] 
+[20:23:48]   Loaded.
+[20:23:48]  Loaded 1 plugins.
+
+[20:23:48] 
+[20:23:48] Filterscripts
+[20:23:48] ---------------
+[20:23:48]   Loading filterscript 'gl_actions.amx'...
+[20:23:48]   Loading filterscript 'gl_realtime.amx'...
+[20:23:48]   Loading filterscript 'gl_property.amx'...
+[20:23:48] 
+-----------------------------------
+[20:23:48] Grand Larceny Property Filterscript		
+[20:23:48] -----------------------------------
+
+[20:23:48]   Loading filterscript 'gl_mapicon.amx'...
+[20:23:48]   Loading filterscript 'ls_elevator.amx'...
+[20:23:48]   Loading filterscript 'attachments.amx'...
+[20:23:48]   Loading filterscript 'skinchanger.amx'...
+[20:23:48] 
+--Admin Player Skin Changer Loaded
+
+[20:23:48]   Loading filterscript 'vspawner.amx'...
+[20:23:48] 
+--Admin Vehicle Spawner Loaded
+
+[20:23:48]   Loading filterscript 'ls_mall.amx'...
+[20:23:48]   Loading filterscript 'ls_beachside.amx'...
+[20:23:48] 
+
+[20:23:48]   |---------------------------------------------------
+[20:23:48]   |--- LS BeachSide Filterscript
+[20:23:48]   |--  Script v1.03
+[20:23:48]   |--  19th April 2015
+[20:23:48]   |---------------------------------------------------
+[20:23:48]   |--  LS BeachSide Building Elevator created
+[20:23:48]   |---------------------------------------------------
+[20:23:48]   Loaded 10 filterscripts.
+
+[20:23:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:23:48] Reading File: blank
+[20:23:48] Reading File: properties/houses.txt
+[20:23:48] Reading File: properties/businesses.txt
+[20:23:48] Reading File: properties/banks.txt
+[20:23:48] Reading File: properties/police.txt
+[20:23:48] 
+----------------------------------
+[20:23:48]   Bare Script
+
+[20:23:48] ----------------------------------
+
+[20:23:48] Number of vehicle models: 0
+Console input: exit
+[20:42:31] --- Server Shutting Down.
+[20:42:31]   |--  LS BeachSide Building Elevator destroyed
+[20:42:31]   |---------------------------------------------------
+[20:42:31] 
+[20:42:31]  ===============================
+[20:42:31] 
+[20:42:31]      sscanf plugin unloaded.    
+[20:42:31] 
+[20:42:31]  ===============================
+[20:42:31] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:42:44] 
+[20:42:44] Server Plugins
+[20:42:44] --------------
+[20:42:44]  Loading plugin: sscanf
+[20:42:44] 
+[20:42:44]  ===============================
+[20:42:44] 
+[20:42:44]       sscanf plugin loaded.     
+[20:42:44] 
+[20:42:44]          Version: 2.13.8
+[20:42:44] 
+[20:42:44]    (c) 2022 Alex "Y_Less" Cole  
+[20:42:44] 
+[20:42:44]  ===============================
+[20:42:44] 
+[20:42:44]   Loaded.
+[20:42:44]  Loaded 1 plugins.
+
+[20:42:44] 
+[20:42:44] Filterscripts
+[20:42:44] ---------------
+[20:42:44]   Loading filterscript 'gl_actions.amx'...
+[20:42:44]   Loading filterscript 'gl_realtime.amx'...
+[20:42:44]   Loading filterscript 'gl_property.amx'...
+[20:42:44] 
+-----------------------------------
+[20:42:44] Grand Larceny Property Filterscript		
+[20:42:44] -----------------------------------
+
+[20:42:44]   Loading filterscript 'gl_mapicon.amx'...
+[20:42:44]   Loading filterscript 'ls_elevator.amx'...
+[20:42:44]   Loading filterscript 'attachments.amx'...
+[20:42:44]   Loading filterscript 'skinchanger.amx'...
+[20:42:44] 
+--Admin Player Skin Changer Loaded
+
+[20:42:44]   Loading filterscript 'vspawner.amx'...
+[20:42:44] 
+--Admin Vehicle Spawner Loaded
+
+[20:42:44]   Loading filterscript 'ls_mall.amx'...
+[20:42:44]   Loading filterscript 'ls_beachside.amx'...
+[20:42:44] 
+
+[20:42:44]   |---------------------------------------------------
+[20:42:44]   |--- LS BeachSide Filterscript
+[20:42:44]   |--  Script v1.03
+[20:42:44]   |--  19th April 2015
+[20:42:44]   |---------------------------------------------------
+[20:42:44]   |--  LS BeachSide Building Elevator created
+[20:42:44]   |---------------------------------------------------
+[20:42:44]   Loaded 10 filterscripts.
+
+[20:42:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:42:44] Reading File: blank
+[20:42:44] Reading File: properties/houses.txt
+[20:42:44] Reading File: properties/businesses.txt
+[20:42:44] Reading File: properties/banks.txt
+[20:42:44] Reading File: properties/police.txt
+[20:42:44] 
+----------------------------------
+[20:42:44]   Bare Script
+
+[20:42:44] ----------------------------------
+
+[20:42:44] Number of vehicle models: 0
+Console input: exit
+[20:45:00] --- Server Shutting Down.
+[20:45:00]   |--  LS BeachSide Building Elevator destroyed
+[20:45:00]   |---------------------------------------------------
+[20:45:00] 
+[20:45:00]  ===============================
+[20:45:00] 
+[20:45:00]      sscanf plugin unloaded.    
+[20:45:00] 
+[20:45:00]  ===============================
+[20:45:00] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:45:15] 
+[20:45:15] Server Plugins
+[20:45:15] --------------
+[20:45:15]  Loading plugin: sscanf
+[20:45:15] 
+[20:45:15]  ===============================
+[20:45:15] 
+[20:45:15]       sscanf plugin loaded.     
+[20:45:15] 
+[20:45:15]          Version: 2.13.8
+[20:45:15] 
+[20:45:15]    (c) 2022 Alex "Y_Less" Cole  
+[20:45:15] 
+[20:45:15]  ===============================
+[20:45:15] 
+[20:45:15]   Loaded.
+[20:45:15]  Loading plugin: mysql
+[20:45:17]  >> plugin.mysql: R41-4 successfully loaded.
+[20:45:17]   Loaded.
+[20:45:17]  Loaded 2 plugins.
+
+[20:45:17] 
+[20:45:17] Filterscripts
+[20:45:17] ---------------
+[20:45:17]   Loading filterscript 'gl_actions.amx'...
+[20:45:17]   Loading filterscript 'gl_realtime.amx'...
+[20:45:17]   Loading filterscript 'gl_property.amx'...
+[20:45:17] 
+-----------------------------------
+[20:45:17] Grand Larceny Property Filterscript		
+[20:45:17] -----------------------------------
+
+[20:45:17]   Loading filterscript 'gl_mapicon.amx'...
+[20:45:17]   Loading filterscript 'ls_elevator.amx'...
+[20:45:17]   Loading filterscript 'attachments.amx'...
+[20:45:17]   Loading filterscript 'skinchanger.amx'...
+[20:45:17] 
+--Admin Player Skin Changer Loaded
+
+[20:45:17]   Loading filterscript 'vspawner.amx'...
+[20:45:17] 
+--Admin Vehicle Spawner Loaded
+
+[20:45:17]   Loading filterscript 'ls_mall.amx'...
+[20:45:17]   Loading filterscript 'ls_beachside.amx'...
+[20:45:17] 
+
+[20:45:17]   |---------------------------------------------------
+[20:45:17]   |--- LS BeachSide Filterscript
+[20:45:17]   |--  Script v1.03
+[20:45:17]   |--  19th April 2015
+[20:45:17]   |---------------------------------------------------
+[20:45:17]   |--  LS BeachSide Building Elevator created
+[20:45:17]   |---------------------------------------------------
+[20:45:17]   Loaded 10 filterscripts.
+
+[20:45:17] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:45:17] Reading File: blank
+[20:45:17] Reading File: properties/houses.txt
+[20:45:17] Reading File: properties/businesses.txt
+[20:45:17] Reading File: properties/banks.txt
+[20:45:17] Reading File: properties/police.txt
+[20:45:17] 
+----------------------------------
+[20:45:17]   Bare Script
+
+[20:45:17] ----------------------------------
+
+[20:45:17] Number of vehicle models: 0
+Console input: exit
+[21:04:33] --- Server Shutting Down.
+[21:04:33]   |--  LS BeachSide Building Elevator destroyed
+[21:04:33]   |---------------------------------------------------
+[21:04:33] 
+[21:04:33]  ===============================
+[21:04:33] 
+[21:04:33]      sscanf plugin unloaded.    
+[21:04:33] 
+[21:04:33]  ===============================
+[21:04:33] 
+[21:04:33] plugin.mysql: Unloading plugin...
+[21:04:33] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:04:39] 
+[21:04:39] Server Plugins
+[21:04:39] --------------
+[21:04:39]  Loading plugin: sscanf
+[21:04:39] 
+[21:04:39]  ===============================
+[21:04:39] 
+[21:04:39]       sscanf plugin loaded.     
+[21:04:39] 
+[21:04:39]          Version: 2.13.8
+[21:04:39] 
+[21:04:39]    (c) 2022 Alex "Y_Less" Cole  
+[21:04:39] 
+[21:04:39]  ===============================
+[21:04:39] 
+[21:04:39]   Loaded.
+[21:04:39]  Loading plugin: mysql
+[21:04:39]  >> plugin.mysql: R41-4 successfully loaded.
+[21:04:39]   Loaded.
+[21:04:39]  Loaded 2 plugins.
+
+[21:04:40] 
+[21:04:40] Filterscripts
+[21:04:40] ---------------
+[21:04:40]   Loading filterscript 'gl_actions.amx'...
+[21:04:40]   Loading filterscript 'gl_realtime.amx'...
+[21:04:40]   Loading filterscript 'gl_property.amx'...
+[21:04:40] 
+-----------------------------------
+[21:04:40] Grand Larceny Property Filterscript		
+[21:04:40] -----------------------------------
+
+[21:04:40]   Loading filterscript 'gl_mapicon.amx'...
+[21:04:40]   Loading filterscript 'ls_elevator.amx'...
+[21:04:40]   Loading filterscript 'attachments.amx'...
+[21:04:40]   Loading filterscript 'skinchanger.amx'...
+[21:04:40] 
+--Admin Player Skin Changer Loaded
+
+[21:04:40]   Loading filterscript 'vspawner.amx'...
+[21:04:40] 
+--Admin Vehicle Spawner Loaded
+
+[21:04:40]   Loading filterscript 'ls_mall.amx'...
+[21:04:40]   Loading filterscript 'ls_beachside.amx'...
+[21:04:40] 
+
+[21:04:40]   |---------------------------------------------------
+[21:04:40]   |--- LS BeachSide Filterscript
+[21:04:40]   |--  Script v1.03
+[21:04:40]   |--  19th April 2015
+[21:04:40]   |---------------------------------------------------
+[21:04:40]   |--  LS BeachSide Building Elevator created
+[21:04:40]   |---------------------------------------------------
+[21:04:40]   Loaded 10 filterscripts.
+
+[21:04:40] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:04:40] Reading File: blank
+[21:04:40] Reading File: properties/houses.txt
+[21:04:40] Reading File: properties/businesses.txt
+[21:04:40] Reading File: properties/banks.txt
+[21:04:40] Reading File: properties/police.txt
+[21:04:40] 
+----------------------------------
+[21:04:40]   Bare Script
+
+[21:04:40] ----------------------------------
+
+[21:04:40] Number of vehicle models: 0
+[21:05:14] [connection] incoming connection: 127.0.0.1:63088 id: 0
+[21:05:14] [join] David has joined the server (0:127.0.0.1)
+[21:08:43] [part] David has left the server (0:1)
+Console input: exit
+[21:08:55] --- Server Shutting Down.
+[21:08:55]   |--  LS BeachSide Building Elevator destroyed
+[21:08:55]   |---------------------------------------------------
+[21:08:55] 
+[21:08:55]  ===============================
+[21:08:55] 
+[21:08:55]      sscanf plugin unloaded.    
+[21:08:55] 
+[21:08:55]  ===============================
+[21:08:55] 
+[21:08:55] plugin.mysql: Unloading plugin...
+[21:08:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:09:02] 
+[21:09:02] Server Plugins
+[21:09:02] --------------
+[21:09:02]  Loading plugin: sscanf
+[21:09:02] 
+[21:09:02]  ===============================
+[21:09:02] 
+[21:09:02]       sscanf plugin loaded.     
+[21:09:02] 
+[21:09:02]          Version: 2.13.8
+[21:09:02] 
+[21:09:02]    (c) 2022 Alex "Y_Less" Cole  
+[21:09:02] 
+[21:09:02]  ===============================
+[21:09:02] 
+[21:09:02]   Loaded.
+[21:09:02]  Loading plugin: mysql
+[21:09:02]  >> plugin.mysql: R41-4 successfully loaded.
+[21:09:02]   Loaded.
+[21:09:02]  Loaded 2 plugins.
+
+[21:09:02] 
+[21:09:02] Filterscripts
+[21:09:02] ---------------
+[21:09:02]   Loading filterscript 'gl_actions.amx'...
+[21:09:02]   Loading filterscript 'gl_realtime.amx'...
+[21:09:02]   Loading filterscript 'gl_property.amx'...
+[21:09:02] 
+-----------------------------------
+[21:09:02] Grand Larceny Property Filterscript		
+[21:09:02] -----------------------------------
+
+[21:09:02]   Loading filterscript 'gl_mapicon.amx'...
+[21:09:02]   Loading filterscript 'ls_elevator.amx'...
+[21:09:02]   Loading filterscript 'attachments.amx'...
+[21:09:02]   Loading filterscript 'skinchanger.amx'...
+[21:09:02] 
+--Admin Player Skin Changer Loaded
+
+[21:09:02]   Loading filterscript 'vspawner.amx'...
+[21:09:02] 
+--Admin Vehicle Spawner Loaded
+
+[21:09:02]   Loading filterscript 'ls_mall.amx'...
+[21:09:02]   Loading filterscript 'ls_beachside.amx'...
+[21:09:02] 
+
+[21:09:02]   |---------------------------------------------------
+[21:09:02]   |--- LS BeachSide Filterscript
+[21:09:02]   |--  Script v1.03
+[21:09:02]   |--  19th April 2015
+[21:09:02]   |---------------------------------------------------
+[21:09:02]   |--  LS BeachSide Building Elevator created
+[21:09:02]   |---------------------------------------------------
+[21:09:02]   Loaded 10 filterscripts.
+
+[21:09:02] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:09:02] Reading File: blank
+[21:09:02] Reading File: properties/houses.txt
+[21:09:02] Reading File: properties/businesses.txt
+[21:09:02] Reading File: properties/banks.txt
+[21:09:02] Reading File: properties/police.txt
+[21:09:02] 
+----------------------------------
+[21:09:02]   Bare Script
+
+[21:09:02] ----------------------------------
+
+[21:09:02] Number of vehicle models: 0
+[21:09:26] [connection] incoming connection: 127.0.0.1:50596 id: 0
+[21:09:26] [join] David has joined the server (0:127.0.0.1)
+[21:11:04] [part] David has left the server (0:1)
+Console input: exit
+[21:11:32] --- Server Shutting Down.
+[21:11:32]   |--  LS BeachSide Building Elevator destroyed
+[21:11:32]   |---------------------------------------------------
+[21:11:32] 
+[21:11:32]  ===============================
+[21:11:32] 
+[21:11:32]      sscanf plugin unloaded.    
+[21:11:32] 
+[21:11:32]  ===============================
+[21:11:32] 
+[21:11:32] plugin.mysql: Unloading plugin...
+[21:11:32] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:11:37] 
+[21:11:37] Server Plugins
+[21:11:37] --------------
+[21:11:37]  Loading plugin: sscanf
+[21:11:37] 
+[21:11:37]  ===============================
+[21:11:37] 
+[21:11:37]       sscanf plugin loaded.     
+[21:11:37] 
+[21:11:37]          Version: 2.13.8
+[21:11:37] 
+[21:11:37]    (c) 2022 Alex "Y_Less" Cole  
+[21:11:37] 
+[21:11:37]  ===============================
+[21:11:37] 
+[21:11:37]   Loaded.
+[21:11:37]  Loading plugin: mysql
+[21:11:37]  >> plugin.mysql: R41-4 successfully loaded.
+[21:11:37]   Loaded.
+[21:11:37]  Loaded 2 plugins.
+
+[21:11:37] 
+[21:11:37] Filterscripts
+[21:11:37] ---------------
+[21:11:37]   Loading filterscript 'gl_actions.amx'...
+[21:11:37]   Loading filterscript 'gl_realtime.amx'...
+[21:11:37]   Loading filterscript 'gl_property.amx'...
+[21:11:37] 
+-----------------------------------
+[21:11:37] Grand Larceny Property Filterscript		
+[21:11:37] -----------------------------------
+
+[21:11:37]   Loading filterscript 'gl_mapicon.amx'...
+[21:11:37]   Loading filterscript 'ls_elevator.amx'...
+[21:11:37]   Loading filterscript 'attachments.amx'...
+[21:11:37]   Loading filterscript 'skinchanger.amx'...
+[21:11:37] 
+--Admin Player Skin Changer Loaded
+
+[21:11:37]   Loading filterscript 'vspawner.amx'...
+[21:11:37] 
+--Admin Vehicle Spawner Loaded
+
+[21:11:37]   Loading filterscript 'ls_mall.amx'...
+[21:11:37]   Loading filterscript 'ls_beachside.amx'...
+[21:11:37] 
+
+[21:11:37]   |---------------------------------------------------
+[21:11:37]   |--- LS BeachSide Filterscript
+[21:11:37]   |--  Script v1.03
+[21:11:37]   |--  19th April 2015
+[21:11:37]   |---------------------------------------------------
+[21:11:37]   |--  LS BeachSide Building Elevator created
+[21:11:37]   |---------------------------------------------------
+[21:11:37]   Loaded 10 filterscripts.
+
+[21:11:37] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:11:37] Reading File: blank
+[21:11:37] Reading File: properties/houses.txt
+[21:11:37] Reading File: properties/businesses.txt
+[21:11:37] Reading File: properties/banks.txt
+[21:11:37] Reading File: properties/police.txt
+[21:11:37] 
+----------------------------------
+[21:11:37]   Bare Script
+
+[21:11:37] ----------------------------------
+
+[21:11:37] Number of vehicle models: 0
+[21:12:03] [connection] incoming connection: 127.0.0.1:58181 id: 0
+[21:12:03] [join] David has joined the server (0:127.0.0.1)
+[21:13:02] [part] David has left the server (0:1)
+Console input: exit
+[21:13:18] --- Server Shutting Down.
+[21:13:18]   |--  LS BeachSide Building Elevator destroyed
+[21:13:18]   |---------------------------------------------------
+[21:13:18] 
+[21:13:18]  ===============================
+[21:13:18] 
+[21:13:18]      sscanf plugin unloaded.    
+[21:13:18] 
+[21:13:18]  ===============================
+[21:13:18] 
+[21:13:18] plugin.mysql: Unloading plugin...
+[21:13:18] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:13:26] 
+[21:13:26] Server Plugins
+[21:13:26] --------------
+[21:13:26]  Loading plugin: sscanf
+[21:13:26] 
+[21:13:26]  ===============================
+[21:13:26] 
+[21:13:26]       sscanf plugin loaded.     
+[21:13:26] 
+[21:13:26]          Version: 2.13.8
+[21:13:26] 
+[21:13:26]    (c) 2022 Alex "Y_Less" Cole  
+[21:13:26] 
+[21:13:26]  ===============================
+[21:13:26] 
+[21:13:26]   Loaded.
+[21:13:26]  Loading plugin: mysql
+[21:13:26]  >> plugin.mysql: R41-4 successfully loaded.
+[21:13:26]   Loaded.
+[21:13:26]  Loaded 2 plugins.
+
+[21:13:26] 
+[21:13:26] Filterscripts
+[21:13:26] ---------------
+[21:13:26]   Loading filterscript 'gl_actions.amx'...
+[21:13:26]   Loading filterscript 'gl_realtime.amx'...
+[21:13:26]   Loading filterscript 'gl_property.amx'...
+[21:13:26] 
+-----------------------------------
+[21:13:26] Grand Larceny Property Filterscript		
+[21:13:26] -----------------------------------
+
+[21:13:26]   Loading filterscript 'gl_mapicon.amx'...
+[21:13:26]   Loading filterscript 'ls_elevator.amx'...
+[21:13:26]   Loading filterscript 'attachments.amx'...
+[21:13:26]   Loading filterscript 'skinchanger.amx'...
+[21:13:26] 
+--Admin Player Skin Changer Loaded
+
+[21:13:26]   Loading filterscript 'vspawner.amx'...
+[21:13:26] 
+--Admin Vehicle Spawner Loaded
+
+[21:13:26]   Loading filterscript 'ls_mall.amx'...
+[21:13:26]   Loading filterscript 'ls_beachside.amx'...
+[21:13:26] 
+
+[21:13:26]   |---------------------------------------------------
+[21:13:26]   |--- LS BeachSide Filterscript
+[21:13:26]   |--  Script v1.03
+[21:13:26]   |--  19th April 2015
+[21:13:26]   |---------------------------------------------------
+[21:13:26]   |--  LS BeachSide Building Elevator created
+[21:13:26]   |---------------------------------------------------
+[21:13:26]   Loaded 10 filterscripts.
+
+[21:13:26] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:13:26] Reading File: blank
+[21:13:26] Reading File: properties/houses.txt
+[21:13:26] Reading File: properties/businesses.txt
+[21:13:26] Reading File: properties/banks.txt
+[21:13:26] Reading File: properties/police.txt
+[21:13:26] 
+----------------------------------
+[21:13:26]   Bare Script
+
+[21:13:26] ----------------------------------
+
+[21:13:26] Number of vehicle models: 0
+[21:13:59] [connection] incoming connection: 127.0.0.1:64996 id: 0
+[21:13:59] [join] David has joined the server (0:127.0.0.1)
+Console input: exit
+[21:14:31] --- Server Shutting Down.
+[21:14:31]   |--  LS BeachSide Building Elevator destroyed
+[21:14:31]   |---------------------------------------------------
+[21:14:31] [part] David has left the server (0:0)
+[21:14:31] 
+[21:14:31]  ===============================
+[21:14:31] 
+[21:14:31]      sscanf plugin unloaded.    
+[21:14:31] 
+[21:14:31]  ===============================
+[21:14:31] 
+[21:14:31] plugin.mysql: Unloading plugin...
+[21:14:31] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:16:24] 
+[21:16:24] Server Plugins
+[21:16:24] --------------
+[21:16:24]  Loading plugin: sscanf
+[21:16:24] 
+[21:16:24]  ===============================
+[21:16:24] 
+[21:16:24]       sscanf plugin loaded.     
+[21:16:24] 
+[21:16:24]          Version: 2.13.8
+[21:16:24] 
+[21:16:24]    (c) 2022 Alex "Y_Less" Cole  
+[21:16:24] 
+[21:16:24]  ===============================
+[21:16:24] 
+[21:16:24]   Loaded.
+[21:16:24]  Loading plugin: mysql
+[21:16:24]  >> plugin.mysql: R41-4 successfully loaded.
+[21:16:24]   Loaded.
+[21:16:24]  Loaded 2 plugins.
+
+[21:16:24] 
+[21:16:24] Filterscripts
+[21:16:24] ---------------
+[21:16:24]   Loading filterscript 'gl_actions.amx'...
+[21:16:24]   Loading filterscript 'gl_realtime.amx'...
+[21:16:24]   Loading filterscript 'gl_property.amx'...
+[21:16:24] 
+-----------------------------------
+[21:16:24] Grand Larceny Property Filterscript		
+[21:16:24] -----------------------------------
+
+[21:16:24]   Loading filterscript 'gl_mapicon.amx'...
+[21:16:24]   Loading filterscript 'ls_elevator.amx'...
+[21:16:24]   Loading filterscript 'attachments.amx'...
+[21:16:24]   Loading filterscript 'skinchanger.amx'...
+[21:16:24] 
+--Admin Player Skin Changer Loaded
+
+[21:16:24]   Loading filterscript 'vspawner.amx'...
+[21:16:24] 
+--Admin Vehicle Spawner Loaded
+
+[21:16:24]   Loading filterscript 'ls_mall.amx'...
+[21:16:24]   Loading filterscript 'ls_beachside.amx'...
+[21:16:24] 
+
+[21:16:24]   |---------------------------------------------------
+[21:16:24]   |--- LS BeachSide Filterscript
+[21:16:24]   |--  Script v1.03
+[21:16:24]   |--  19th April 2015
+[21:16:24]   |---------------------------------------------------
+[21:16:24]   |--  LS BeachSide Building Elevator created
+[21:16:24]   |---------------------------------------------------
+[21:16:24]   Loaded 10 filterscripts.
+
+[21:16:24] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:16:24] Reading File: blank
+[21:16:24] Reading File: properties/houses.txt
+[21:16:24] Reading File: properties/businesses.txt
+[21:16:24] Reading File: properties/banks.txt
+[21:16:24] Reading File: properties/police.txt
+[21:16:24] 
+----------------------------------
+[21:16:24]   Bare Script
+
+[21:16:24] ----------------------------------
+
+[21:16:24] Number of vehicle models: 0
+[21:16:50] [connection] incoming connection: 127.0.0.1:56090 id: 0
+[21:16:50] [join] David has joined the server (0:127.0.0.1)
+[21:18:20] [part] David has left the server (0:1)
+Console input: exit
+[21:18:26] --- Server Shutting Down.
+[21:18:26]   |--  LS BeachSide Building Elevator destroyed
+[21:18:26]   |---------------------------------------------------
+[21:18:26] 
+[21:18:26]  ===============================
+[21:18:26] 
+[21:18:26]      sscanf plugin unloaded.    
+[21:18:26] 
+[21:18:26]  ===============================
+[21:18:26] 
+[21:18:26] plugin.mysql: Unloading plugin...
+[21:18:26] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:29] 
+[21:18:29] Server Plugins
+[21:18:29] --------------
+[21:18:29]  Loading plugin: sscanf
+[21:18:29] 
+[21:18:29]  ===============================
+[21:18:29] 
+[21:18:29]       sscanf plugin loaded.     
+[21:18:29] 
+[21:18:29]          Version: 2.13.8
+[21:18:29] 
+[21:18:29]    (c) 2022 Alex "Y_Less" Cole  
+[21:18:29] 
+[21:18:29]  ===============================
+[21:18:29] 
+[21:18:29]   Loaded.
+[21:18:29]  Loading plugin: mysql
+[21:18:29]  >> plugin.mysql: R41-4 successfully loaded.
+[21:18:29]   Loaded.
+[21:18:29]  Loaded 2 plugins.
+
+[21:18:29] 
+[21:18:29] Filterscripts
+[21:18:29] ---------------
+[21:18:29]   Loading filterscript 'gl_actions.amx'...
+[21:18:29]   Loading filterscript 'gl_realtime.amx'...
+[21:18:29]   Loading filterscript 'gl_property.amx'...
+[21:18:29] 
+-----------------------------------
+[21:18:29] Grand Larceny Property Filterscript		
+[21:18:29] -----------------------------------
+
+[21:18:29]   Loading filterscript 'gl_mapicon.amx'...
+[21:18:29]   Loading filterscript 'ls_elevator.amx'...
+[21:18:29]   Loading filterscript 'attachments.amx'...
+[21:18:29]   Loading filterscript 'skinchanger.amx'...
+[21:18:29] 
+--Admin Player Skin Changer Loaded
+
+[21:18:29]   Loading filterscript 'vspawner.amx'...
+[21:18:29] 
+--Admin Vehicle Spawner Loaded
+
+[21:18:29]   Loading filterscript 'ls_mall.amx'...
+[21:18:29]   Loading filterscript 'ls_beachside.amx'...
+[21:18:29] 
+
+[21:18:29]   |---------------------------------------------------
+[21:18:29]   |--- LS BeachSide Filterscript
+[21:18:29]   |--  Script v1.03
+[21:18:29]   |--  19th April 2015
+[21:18:29]   |---------------------------------------------------
+[21:18:29]   |--  LS BeachSide Building Elevator created
+[21:18:29]   |---------------------------------------------------
+[21:18:29]   Loaded 10 filterscripts.
+
+[21:18:29] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:18:29] Reading File: blank
+[21:18:29] Reading File: properties/houses.txt
+[21:18:29] Reading File: properties/businesses.txt
+[21:18:29] Reading File: properties/banks.txt
+[21:18:29] Reading File: properties/police.txt
+[21:18:29] 
+----------------------------------
+[21:18:29]   Bare Script
+
+[21:18:29] ----------------------------------
+
+[21:18:29] Number of vehicle models: 0
+Console input: exit
+[21:18:36] --- Server Shutting Down.
+[21:18:36]   |--  LS BeachSide Building Elevator destroyed
+[21:18:36]   |---------------------------------------------------
+[21:18:36] 
+[21:18:36]  ===============================
+[21:18:36] 
+[21:18:36]      sscanf plugin unloaded.    
+[21:18:36] 
+[21:18:36]  ===============================
+[21:18:36] 
+[21:18:36] plugin.mysql: Unloading plugin...
+[21:18:36] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:49] 
+[21:18:49] Server Plugins
+[21:18:49] --------------
+[21:18:49]  Loading plugin: sscanf
+[21:18:49] 
+[21:18:49]  ===============================
+[21:18:49] 
+[21:18:49]       sscanf plugin loaded.     
+[21:18:49] 
+[21:18:49]          Version: 2.13.8
+[21:18:49] 
+[21:18:49]    (c) 2022 Alex "Y_Less" Cole  
+[21:18:49] 
+[21:18:49]  ===============================
+[21:18:49] 
+[21:18:49]   Loaded.
+[21:18:49]  Loading plugin: mysql
+[21:18:49]  >> plugin.mysql: R41-4 successfully loaded.
+[21:18:49]   Loaded.
+[21:18:49]  Loaded 2 plugins.
+
+[21:18:49] 
+[21:18:49] Filterscripts
+[21:18:49] ---------------
+[21:18:49]   Loading filterscript 'gl_actions.amx'...
+[21:18:49]   Loading filterscript 'gl_realtime.amx'...
+[21:18:49]   Loading filterscript 'gl_property.amx'...
+[21:18:49] 
+-----------------------------------
+[21:18:49] Grand Larceny Property Filterscript		
+[21:18:49] -----------------------------------
+
+[21:18:49]   Loading filterscript 'gl_mapicon.amx'...
+[21:18:49]   Loading filterscript 'ls_elevator.amx'...
+[21:18:49]   Loading filterscript 'attachments.amx'...
+[21:18:49]   Loading filterscript 'skinchanger.amx'...
+[21:18:49] 
+--Admin Player Skin Changer Loaded
+
+[21:18:49]   Loading filterscript 'vspawner.amx'...
+[21:18:49] 
+--Admin Vehicle Spawner Loaded
+
+[21:18:49]   Loading filterscript 'ls_mall.amx'...
+[21:18:49]   Loading filterscript 'ls_beachside.amx'...
+[21:18:49] 
+
+[21:18:49]   |---------------------------------------------------
+[21:18:49]   |--- LS BeachSide Filterscript
+[21:18:49]   |--  Script v1.03
+[21:18:49]   |--  19th April 2015
+[21:18:49]   |---------------------------------------------------
+[21:18:49]   |--  LS BeachSide Building Elevator created
+[21:18:49]   |---------------------------------------------------
+[21:18:49]   Loaded 10 filterscripts.
+
+[21:18:49] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:18:49] Reading File: blank
+[21:18:49] Reading File: properties/houses.txt
+[21:18:49] Reading File: properties/businesses.txt
+[21:18:49] Reading File: properties/banks.txt
+[21:18:49] Reading File: properties/police.txt
+[21:18:49] 
+----------------------------------
+[21:18:49]   Bare Script
+
+[21:18:49] ----------------------------------
+
+[21:18:49] Number of vehicle models: 0
+[21:19:35] [connection] incoming connection: 127.0.0.1:49358 id: 0
+[21:19:35] [join] David has joined the server (0:127.0.0.1)
+Console input: exit
+[21:19:55] --- Server Shutting Down.
+[21:19:55]   |--  LS BeachSide Building Elevator destroyed
+[21:19:55]   |---------------------------------------------------
+[21:19:55] [part] David has left the server (0:0)
+[21:19:55] 
+[21:19:55]  ===============================
+[21:19:55] 
+[21:19:55]      sscanf plugin unloaded.    
+[21:19:55] 
+[21:19:55]  ===============================
+[21:19:55] 
+[21:19:55] plugin.mysql: Unloading plugin...
+[21:19:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:32:36] 
+[21:32:36] Server Plugins
+[21:32:36] --------------
+[21:32:36]  Loading plugin: sscanf
+[21:32:36] 
+[21:32:36]  ===============================
+[21:32:36] 
+[21:32:36]       sscanf plugin loaded.     
+[21:32:36] 
+[21:32:36]          Version: 2.13.8
+[21:32:36] 
+[21:32:36]    (c) 2022 Alex "Y_Less" Cole  
+[21:32:36] 
+[21:32:36]  ===============================
+[21:32:36] 
+[21:32:36]   Loaded.
+[21:32:36]  Loading plugin: mysql
+[21:32:36]  >> plugin.mysql: R41-4 successfully loaded.
+[21:32:36]   Loaded.
+[21:32:36]  Loaded 2 plugins.
+
+[21:32:36] 
+[21:32:36] Filterscripts
+[21:32:36] ---------------
+[21:32:36]   Loading filterscript 'gl_actions.amx'...
+[21:32:36]   Loading filterscript 'gl_realtime.amx'...
+[21:32:36]   Loading filterscript 'gl_property.amx'...
+[21:32:36] 
+-----------------------------------
+[21:32:36] Grand Larceny Property Filterscript		
+[21:32:36] -----------------------------------
+
+[21:32:36]   Loading filterscript 'gl_mapicon.amx'...
+[21:32:36]   Loading filterscript 'ls_elevator.amx'...
+[21:32:36]   Loading filterscript 'attachments.amx'...
+[21:32:36]   Loading filterscript 'skinchanger.amx'...
+[21:32:36] 
+--Admin Player Skin Changer Loaded
+
+[21:32:36]   Loading filterscript 'vspawner.amx'...
+[21:32:36] 
+--Admin Vehicle Spawner Loaded
+
+[21:32:36]   Loading filterscript 'ls_mall.amx'...
+[21:32:36]   Loading filterscript 'ls_beachside.amx'...
+[21:32:36] 
+
+[21:32:36]   |---------------------------------------------------
+[21:32:36]   |--- LS BeachSide Filterscript
+[21:32:36]   |--  Script v1.03
+[21:32:36]   |--  19th April 2015
+[21:32:36]   |---------------------------------------------------
+[21:32:36]   |--  LS BeachSide Building Elevator created
+[21:32:36]   |---------------------------------------------------
+[21:32:36]   Loaded 10 filterscripts.
+
+[21:32:36] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:32:36] Reading File: blank
+[21:32:36] Reading File: properties/houses.txt
+[21:32:36] Reading File: properties/businesses.txt
+[21:32:36] Reading File: properties/banks.txt
+[21:32:36] Reading File: properties/police.txt
+[21:32:36] 
+----------------------------------
+[21:32:36]   Bare Script
+
+[21:32:36] ----------------------------------
+
+[21:32:36] Number of vehicle models: 0
+[21:33:00] [connection] incoming connection: 127.0.0.1:49666 id: 0
+[21:33:00] [join] David has joined the server (0:127.0.0.1)
+[21:34:18] [part] David has left the server (0:1)
+Console input: exit
+[21:34:24] --- Server Shutting Down.
+[21:34:24]   |--  LS BeachSide Building Elevator destroyed
+[21:34:24]   |---------------------------------------------------
+[21:34:24] 
+[21:34:24]  ===============================
+[21:34:24] 
+[21:34:24]      sscanf plugin unloaded.    
+[21:34:24] 
+[21:34:24]  ===============================
+[21:34:24] 
+[21:34:24] plugin.mysql: Unloading plugin...
+[21:34:24] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:34:56] 
+[21:34:56] Server Plugins
+[21:34:56] --------------
+[21:34:56]  Loading plugin: sscanf
+[21:34:56] 
+[21:34:56]  ===============================
+[21:34:56] 
+[21:34:56]       sscanf plugin loaded.     
+[21:34:56] 
+[21:34:56]          Version: 2.13.8
+[21:34:56] 
+[21:34:56]    (c) 2022 Alex "Y_Less" Cole  
+[21:34:56] 
+[21:34:56]  ===============================
+[21:34:56] 
+[21:34:56]   Loaded.
+[21:34:56]  Loading plugin: mysql
+[21:34:56]  >> plugin.mysql: R41-4 successfully loaded.
+[21:34:56]   Loaded.
+[21:34:56]  Loaded 2 plugins.
+
+[21:34:56] 
+[21:34:56] Filterscripts
+[21:34:56] ---------------
+[21:34:56]   Loading filterscript 'gl_actions.amx'...
+[21:34:56]   Loading filterscript 'gl_realtime.amx'...
+[21:34:56]   Loading filterscript 'gl_property.amx'...
+[21:34:56] 
+-----------------------------------
+[21:34:56] Grand Larceny Property Filterscript		
+[21:34:56] -----------------------------------
+
+[21:34:56]   Loading filterscript 'gl_mapicon.amx'...
+[21:34:56]   Loading filterscript 'ls_elevator.amx'...
+[21:34:56]   Loading filterscript 'attachments.amx'...
+[21:34:56]   Loading filterscript 'skinchanger.amx'...
+[21:34:56] 
+--Admin Player Skin Changer Loaded
+
+[21:34:56]   Loading filterscript 'vspawner.amx'...
+[21:34:56] 
+--Admin Vehicle Spawner Loaded
+
+[21:34:56]   Loading filterscript 'ls_mall.amx'...
+[21:34:56]   Loading filterscript 'ls_beachside.amx'...
+[21:34:56] 
+
+[21:34:56]   |---------------------------------------------------
+[21:34:56]   |--- LS BeachSide Filterscript
+[21:34:56]   |--  Script v1.03
+[21:34:56]   |--  19th April 2015
+[21:34:56]   |---------------------------------------------------
+[21:34:56]   |--  LS BeachSide Building Elevator created
+[21:34:56]   |---------------------------------------------------
+[21:34:56]   Loaded 10 filterscripts.
+
+[21:34:56] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:34:56] Reading File: blank
+[21:34:56] Reading File: properties/houses.txt
+[21:34:56] Reading File: properties/businesses.txt
+[21:34:56] Reading File: properties/banks.txt
+[21:34:56] Reading File: properties/police.txt
+[21:34:56] 
+----------------------------------
+[21:34:56]   Bare Script
+
+[21:34:56] ----------------------------------
+
+[21:34:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:38:13] 
+[21:38:13] Server Plugins
+[21:38:13] --------------
+[21:38:13]  Loading plugin: sscanf
+[21:38:13] 
+[21:38:13]  ===============================
+[21:38:13] 
+[21:38:13]       sscanf plugin loaded.     
+[21:38:13] 
+[21:38:13]          Version: 2.13.8
+[21:38:13] 
+[21:38:13]    (c) 2022 Alex "Y_Less" Cole  
+[21:38:13] 
+[21:38:13]  ===============================
+[21:38:13] 
+[21:38:13]   Loaded.
+[21:38:13]  Loading plugin: mysql
+[21:38:13]  >> plugin.mysql: R41-4 successfully loaded.
+[21:38:13]   Loaded.
+[21:38:13]  Loaded 2 plugins.
+
+[21:38:13] 
+[21:38:13] Filterscripts
+[21:38:13] ---------------
+[21:38:13]   Loading filterscript 'gl_actions.amx'...
+[21:38:13]   Loading filterscript 'gl_realtime.amx'...
+[21:38:13]   Loading filterscript 'gl_property.amx'...
+[21:38:13] 
+-----------------------------------
+[21:38:13] Grand Larceny Property Filterscript		
+[21:38:13] -----------------------------------
+
+[21:38:13]   Loading filterscript 'gl_mapicon.amx'...
+[21:38:13]   Loading filterscript 'ls_elevator.amx'...
+[21:38:13]   Loading filterscript 'attachments.amx'...
+[21:38:13]   Loading filterscript 'skinchanger.amx'...
+[21:38:13] 
+--Admin Player Skin Changer Loaded
+
+[21:38:13]   Loading filterscript 'vspawner.amx'...
+[21:38:13] 
+--Admin Vehicle Spawner Loaded
+
+[21:38:13]   Loading filterscript 'ls_mall.amx'...
+[21:38:13]   Loading filterscript 'ls_beachside.amx'...
+[21:38:13] 
+
+[21:38:13]   |---------------------------------------------------
+[21:38:13]   |--- LS BeachSide Filterscript
+[21:38:13]   |--  Script v1.03
+[21:38:13]   |--  19th April 2015
+[21:38:13]   |---------------------------------------------------
+[21:38:13]   |--  LS BeachSide Building Elevator created
+[21:38:13]   |---------------------------------------------------
+[21:38:13]   Loaded 10 filterscripts.
+
+[21:38:13] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:38:13] Reading File: blank
+[21:38:13] Reading File: properties/houses.txt
+[21:38:13] Reading File: properties/businesses.txt
+[21:38:13] Reading File: properties/banks.txt
+[21:38:13] Reading File: properties/police.txt
+[21:38:13] 
+----------------------------------
+[21:38:13]   Bare Script
+
+[21:38:13] ----------------------------------
+
+[21:38:13] Number of vehicle models: 0
+[21:38:43] [connection] incoming connection: 127.0.0.1:53569 id: 0
+[21:38:43] [join] David has joined the server (0:127.0.0.1)
+[21:41:47] [part] David has left the server (0:1)
+Console input: exit
+[21:51:25] --- Server Shutting Down.
+[21:51:25]   |--  LS BeachSide Building Elevator destroyed
+[21:51:25]   |---------------------------------------------------
+[21:51:25] 
+[21:51:25]  ===============================
+[21:51:25] 
+[21:51:25]      sscanf plugin unloaded.    
+[21:51:25] 
+[21:51:25]  ===============================
+[21:51:25] 
+[21:51:25] plugin.mysql: Unloading plugin...
+[21:51:25] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:51:31] 
+[21:51:31] Server Plugins
+[21:51:31] --------------
+[21:51:31]  Loading plugin: sscanf
+[21:51:31] 
+[21:51:31]  ===============================
+[21:51:31] 
+[21:51:31]       sscanf plugin loaded.     
+[21:51:31] 
+[21:51:31]          Version: 2.13.8
+[21:51:31] 
+[21:51:31]    (c) 2022 Alex "Y_Less" Cole  
+[21:51:31] 
+[21:51:31]  ===============================
+[21:51:31] 
+[21:51:31]   Loaded.
+[21:51:31]  Loading plugin: mysql
+[21:51:31]  >> plugin.mysql: R41-4 successfully loaded.
+[21:51:31]   Loaded.
+[21:51:31]  Loaded 2 plugins.
+
+[21:51:31] 
+[21:51:31] Filterscripts
+[21:51:31] ---------------
+[21:51:31]   Loading filterscript 'gl_actions.amx'...
+[21:51:31]   Loading filterscript 'gl_realtime.amx'...
+[21:51:31]   Loading filterscript 'gl_property.amx'...
+[21:51:31] 
+-----------------------------------
+[21:51:31] Grand Larceny Property Filterscript		
+[21:51:31] -----------------------------------
+
+[21:51:31]   Loading filterscript 'gl_mapicon.amx'...
+[21:51:31]   Loading filterscript 'ls_elevator.amx'...
+[21:51:31]   Loading filterscript 'attachments.amx'...
+[21:51:31]   Loading filterscript 'skinchanger.amx'...
+[21:51:31] 
+--Admin Player Skin Changer Loaded
+
+[21:51:31]   Loading filterscript 'vspawner.amx'...
+[21:51:31] 
+--Admin Vehicle Spawner Loaded
+
+[21:51:31]   Loading filterscript 'ls_mall.amx'...
+[21:51:31]   Loading filterscript 'ls_beachside.amx'...
+[21:51:31] 
+
+[21:51:31]   |---------------------------------------------------
+[21:51:31]   |--- LS BeachSide Filterscript
+[21:51:31]   |--  Script v1.03
+[21:51:31]   |--  19th April 2015
+[21:51:31]   |---------------------------------------------------
+[21:51:31]   |--  LS BeachSide Building Elevator created
+[21:51:31]   |---------------------------------------------------
+[21:51:31]   Loaded 10 filterscripts.
+
+[21:51:31] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:51:31] Reading File: blank
+[21:51:31] Reading File: properties/houses.txt
+[21:51:31] Reading File: properties/businesses.txt
+[21:51:31] Reading File: properties/banks.txt
+[21:51:31] Reading File: properties/police.txt
+[21:51:31] 
+----------------------------------
+[21:51:31]   Bare Script
+
+[21:51:31] ----------------------------------
+
+[21:51:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:51:32] 
+[21:51:32] Server Plugins
+[21:51:32] --------------
+[21:51:32]  Loading plugin: sscanf
+[21:51:32] 
+[21:51:32]  ===============================
+[21:51:32] 
+[21:51:32]       sscanf plugin loaded.     
+[21:51:32] 
+[21:51:32]          Version: 2.13.8
+[21:51:32] 
+[21:51:32]    (c) 2022 Alex "Y_Less" Cole  
+[21:51:32] 
+[21:51:32]  ===============================
+[21:51:32] 
+[21:51:32]   Loaded.
+[21:51:32]  Loading plugin: mysql
+[21:51:32]  >> plugin.mysql: R41-4 successfully loaded.
+[21:51:32]   Loaded.
+[21:51:32]  Loaded 2 plugins.
+
+[21:51:32] 
+[21:51:32] Filterscripts
+[21:51:32] ---------------
+[21:51:32]   Loading filterscript 'gl_actions.amx'...
+[21:51:32]   Loading filterscript 'gl_realtime.amx'...
+[21:51:32]   Loading filterscript 'gl_property.amx'...
+[21:51:32] 
+-----------------------------------
+[21:51:32] Grand Larceny Property Filterscript		
+[21:51:32] -----------------------------------
+
+[21:51:32]   Loading filterscript 'gl_mapicon.amx'...
+[21:51:32]   Loading filterscript 'ls_elevator.amx'...
+[21:51:32]   Loading filterscript 'attachments.amx'...
+[21:51:32]   Loading filterscript 'skinchanger.amx'...
+[21:51:32] 
+--Admin Player Skin Changer Loaded
+
+[21:51:32]   Loading filterscript 'vspawner.amx'...
+[21:51:32] 
+--Admin Vehicle Spawner Loaded
+
+[21:51:32]   Loading filterscript 'ls_mall.amx'...
+[21:51:32]   Loading filterscript 'ls_beachside.amx'...
+[21:51:32] 
+
+[21:51:32]   |---------------------------------------------------
+[21:51:32]   |--- LS BeachSide Filterscript
+[21:51:32]   |--  Script v1.03
+[21:51:32]   |--  19th April 2015
+[21:51:32]   |---------------------------------------------------
+[21:51:32]   |--  LS BeachSide Building Elevator created
+[21:51:32]   |---------------------------------------------------
+[21:51:32]   Loaded 10 filterscripts.
+
+[21:51:32] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:51:32] Reading File: blank
+[21:51:32] Reading File: properties/houses.txt
+[21:51:32] Reading File: properties/businesses.txt
+[21:51:32] Reading File: properties/banks.txt
+[21:51:32] Reading File: properties/police.txt
+[21:51:32] 
+----------------------------------
+[21:51:32]   Bare Script
+
+[21:51:32] ----------------------------------
+
+[21:51:32] Number of vehicle models: 0
+[21:51:56] [connection] incoming connection: 127.0.0.1:58814 id: 0
+[21:51:56] [join] David has joined the server (0:127.0.0.1)
+[21:58:34] [part] David has left the server (0:1)
+Console input: exit
+[21:59:01] --- Server Shutting Down.
+[21:59:01]   |--  LS BeachSide Building Elevator destroyed
+[21:59:01]   |---------------------------------------------------
+[21:59:01] 
+[21:59:01]  ===============================
+[21:59:01] 
+[21:59:01]      sscanf plugin unloaded.    
+[21:59:01] 
+[21:59:01]  ===============================
+[21:59:01] 
+[21:59:01] plugin.mysql: Unloading plugin...
+[21:59:01] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:00:43] 
+[22:00:43] Server Plugins
+[22:00:43] --------------
+[22:00:43]  Loading plugin: sscanf
+[22:00:43] 
+[22:00:43]  ===============================
+[22:00:43] 
+[22:00:43]       sscanf plugin loaded.     
+[22:00:43] 
+[22:00:43]          Version: 2.13.8
+[22:00:43] 
+[22:00:43]    (c) 2022 Alex "Y_Less" Cole  
+[22:00:43] 
+[22:00:43]  ===============================
+[22:00:43] 
+[22:00:43]   Loaded.
+[22:00:43]  Loading plugin: mysql
+[22:00:43]  >> plugin.mysql: R41-4 successfully loaded.
+[22:00:43]   Loaded.
+[22:00:43]  Loaded 2 plugins.
+
+[22:00:43] 
+[22:00:43] Filterscripts
+[22:00:43] ---------------
+[22:00:43]   Loading filterscript 'gl_actions.amx'...
+[22:00:43]   Loading filterscript 'gl_realtime.amx'...
+[22:00:43]   Loading filterscript 'gl_property.amx'...
+[22:00:43] 
+-----------------------------------
+[22:00:43] Grand Larceny Property Filterscript		
+[22:00:43] -----------------------------------
+
+[22:00:43]   Loading filterscript 'gl_mapicon.amx'...
+[22:00:43]   Loading filterscript 'ls_elevator.amx'...
+[22:00:43]   Loading filterscript 'attachments.amx'...
+[22:00:43]   Loading filterscript 'skinchanger.amx'...
+[22:00:43] 
+--Admin Player Skin Changer Loaded
+
+[22:00:43]   Loading filterscript 'vspawner.amx'...
+[22:00:43] 
+--Admin Vehicle Spawner Loaded
+
+[22:00:43]   Loading filterscript 'ls_mall.amx'...
+[22:00:43]   Loading filterscript 'ls_beachside.amx'...
+[22:00:43] 
+
+[22:00:43]   |---------------------------------------------------
+[22:00:43]   |--- LS BeachSide Filterscript
+[22:00:43]   |--  Script v1.03
+[22:00:43]   |--  19th April 2015
+[22:00:43]   |---------------------------------------------------
+[22:00:43]   |--  LS BeachSide Building Elevator created
+[22:00:43]   |---------------------------------------------------
+[22:00:43]   Loaded 10 filterscripts.
+
+[22:00:43] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:00:43] Reading File: blank
+[22:00:43] Reading File: properties/houses.txt
+[22:00:43] Reading File: properties/businesses.txt
+[22:00:43] Reading File: properties/banks.txt
+[22:00:43] Reading File: properties/police.txt
+[22:00:43] 
+----------------------------------
+[22:00:43]   Bare Script
+
+[22:00:43] ----------------------------------
+
+[22:00:43] Number of vehicle models: 0
+[22:01:06] [connection] incoming connection: 127.0.0.1:53056 id: 0
+[22:01:07] [join] David has joined the server (0:127.0.0.1)
+[22:02:31] [part] David has left the server (0:1)
+Console input: exit
+[22:02:35] --- Server Shutting Down.
+[22:02:35]   |--  LS BeachSide Building Elevator destroyed
+[22:02:35]   |---------------------------------------------------
+[22:02:35] 
+[22:02:35]  ===============================
+[22:02:35] 
+[22:02:35]      sscanf plugin unloaded.    
+[22:02:35] 
+[22:02:35]  ===============================
+[22:02:35] 
+[22:02:35] plugin.mysql: Unloading plugin...
+[22:02:35] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:51] 
+[22:03:51] Server Plugins
+[22:03:51] --------------
+[22:03:51]  Loading plugin: sscanf
+[22:03:51] 
+[22:03:51]  ===============================
+[22:03:51] 
+[22:03:51]       sscanf plugin loaded.     
+[22:03:51] 
+[22:03:51]          Version: 2.13.8
+[22:03:51] 
+[22:03:51]    (c) 2022 Alex "Y_Less" Cole  
+[22:03:51] 
+[22:03:51]  ===============================
+[22:03:51] 
+[22:03:51]   Loaded.
+[22:03:51]  Loading plugin: mysql
+[22:03:51]  >> plugin.mysql: R41-4 successfully loaded.
+[22:03:51]   Loaded.
+[22:03:51]  Loaded 2 plugins.
+
+[22:03:51] 
+[22:03:51] Filterscripts
+[22:03:51] ---------------
+[22:03:51]   Loading filterscript 'gl_actions.amx'...
+[22:03:51]   Loading filterscript 'gl_realtime.amx'...
+[22:03:51]   Loading filterscript 'gl_property.amx'...
+[22:03:51] 
+-----------------------------------
+[22:03:51] Grand Larceny Property Filterscript		
+[22:03:51] -----------------------------------
+
+[22:03:51]   Loading filterscript 'gl_mapicon.amx'...
+[22:03:51]   Loading filterscript 'ls_elevator.amx'...
+[22:03:51]   Loading filterscript 'attachments.amx'...
+[22:03:51]   Loading filterscript 'skinchanger.amx'...
+[22:03:51] 
+--Admin Player Skin Changer Loaded
+
+[22:03:51]   Loading filterscript 'vspawner.amx'...
+[22:03:51] 
+--Admin Vehicle Spawner Loaded
+
+[22:03:51]   Loading filterscript 'ls_mall.amx'...
+[22:03:51]   Loading filterscript 'ls_beachside.amx'...
+[22:03:51] 
+
+[22:03:51]   |---------------------------------------------------
+[22:03:51]   |--- LS BeachSide Filterscript
+[22:03:51]   |--  Script v1.03
+[22:03:51]   |--  19th April 2015
+[22:03:51]   |---------------------------------------------------
+[22:03:51]   |--  LS BeachSide Building Elevator created
+[22:03:51]   |---------------------------------------------------
+[22:03:51]   Loaded 10 filterscripts.
+
+[22:03:51] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:03:51] Reading File: blank
+[22:03:51] Reading File: properties/houses.txt
+[22:03:51] Reading File: properties/businesses.txt
+[22:03:51] Reading File: properties/banks.txt
+[22:03:51] Reading File: properties/police.txt
+[22:03:51] 
+----------------------------------
+[22:03:51]   Bare Script
+
+[22:03:51] ----------------------------------
+
+[22:03:51] Number of vehicle models: 0
+[22:04:12] [connection] incoming connection: 127.0.0.1:63240 id: 0
+[22:04:12] [join] David has joined the server (0:127.0.0.1)
+Console input: exi
+Console input: exit
+[22:04:35] --- Server Shutting Down.
+[22:04:35]   |--  LS BeachSide Building Elevator destroyed
+[22:04:35]   |---------------------------------------------------
+[22:04:35] [part] David has left the server (0:0)
+[22:04:35] 
+[22:04:35]  ===============================
+[22:04:35] 
+[22:04:35]      sscanf plugin unloaded.    
+[22:04:35] 
+[22:04:35]  ===============================
+[22:04:35] 
+[22:04:35] plugin.mysql: Unloading plugin...
+[22:04:35] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:06:43] 
+[22:06:43] Server Plugins
+[22:06:43] --------------
+[22:06:43]  Loading plugin: sscanf
+[22:06:43] 
+[22:06:43]  ===============================
+[22:06:43] 
+[22:06:43]       sscanf plugin loaded.     
+[22:06:43] 
+[22:06:43]          Version: 2.13.8
+[22:06:43] 
+[22:06:43]    (c) 2022 Alex "Y_Less" Cole  
+[22:06:43] 
+[22:06:43]  ===============================
+[22:06:43] 
+[22:06:43]   Loaded.
+[22:06:43]  Loading plugin: mysql
+[22:06:43]  >> plugin.mysql: R41-4 successfully loaded.
+[22:06:43]   Loaded.
+[22:06:43]  Loaded 2 plugins.
+
+[22:06:43] 
+[22:06:43] Filterscripts
+[22:06:43] ---------------
+[22:06:43]   Loading filterscript 'gl_actions.amx'...
+[22:06:43]   Loading filterscript 'gl_realtime.amx'...
+[22:06:43]   Loading filterscript 'gl_property.amx'...
+[22:06:43] 
+-----------------------------------
+[22:06:43] Grand Larceny Property Filterscript		
+[22:06:43] -----------------------------------
+
+[22:06:43]   Loading filterscript 'gl_mapicon.amx'...
+[22:06:43]   Loading filterscript 'ls_elevator.amx'...
+[22:06:43]   Loading filterscript 'attachments.amx'...
+[22:06:43]   Loading filterscript 'skinchanger.amx'...
+[22:06:43] 
+--Admin Player Skin Changer Loaded
+
+[22:06:43]   Loading filterscript 'vspawner.amx'...
+[22:06:43] 
+--Admin Vehicle Spawner Loaded
+
+[22:06:43]   Loading filterscript 'ls_mall.amx'...
+[22:06:43]   Loading filterscript 'ls_beachside.amx'...
+[22:06:43] 
+
+[22:06:43]   |---------------------------------------------------
+[22:06:43]   |--- LS BeachSide Filterscript
+[22:06:43]   |--  Script v1.03
+[22:06:43]   |--  19th April 2015
+[22:06:43]   |---------------------------------------------------
+[22:06:43]   |--  LS BeachSide Building Elevator created
+[22:06:43]   |---------------------------------------------------
+[22:06:43]   Loaded 10 filterscripts.
+
+[22:06:43] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:06:43] Reading File: blank
+[22:06:43] Reading File: properties/houses.txt
+[22:06:43] Reading File: properties/businesses.txt
+[22:06:43] Reading File: properties/banks.txt
+[22:06:43] Reading File: properties/police.txt
+[22:06:43] 
+----------------------------------
+[22:06:43]   Bare Script
+
+[22:06:43] ----------------------------------
+
+[22:06:43] Number of vehicle models: 0
+[22:07:12] [connection] incoming connection: 127.0.0.1:55090 id: 0
+[22:07:12] [join] David has joined the server (0:127.0.0.1)
+Console input: exit
+[22:07:33] --- Server Shutting Down.
+[22:07:33]   |--  LS BeachSide Building Elevator destroyed
+[22:07:33]   |---------------------------------------------------
+[22:07:33] [part] David has left the server (0:0)
+[22:07:33] 
+[22:07:33]  ===============================
+[22:07:33] 
+[22:07:33]      sscanf plugin unloaded.    
+[22:07:33] 
+[22:07:33]  ===============================
+[22:07:33] 
+[22:07:33] plugin.mysql: Unloading plugin...
+[22:07:33] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:09:16] 
+[22:09:16] Server Plugins
+[22:09:16] --------------
+[22:09:16]  Loading plugin: sscanf
+[22:09:16] 
+[22:09:16]  ===============================
+[22:09:16] 
+[22:09:16]       sscanf plugin loaded.     
+[22:09:16] 
+[22:09:16]          Version: 2.13.8
+[22:09:16] 
+[22:09:16]    (c) 2022 Alex "Y_Less" Cole  
+[22:09:16] 
+[22:09:16]  ===============================
+[22:09:16] 
+[22:09:16]   Loaded.
+[22:09:16]  Loading plugin: mysql
+[22:09:16]  >> plugin.mysql: R41-4 successfully loaded.
+[22:09:16]   Loaded.
+[22:09:16]  Loaded 2 plugins.
+
+[22:09:16] 
+[22:09:16] Filterscripts
+[22:09:16] ---------------
+[22:09:16]   Loading filterscript 'gl_actions.amx'...
+[22:09:16]   Loading filterscript 'gl_realtime.amx'...
+[22:09:16]   Loading filterscript 'gl_property.amx'...
+[22:09:16] 
+-----------------------------------
+[22:09:16] Grand Larceny Property Filterscript		
+[22:09:16] -----------------------------------
+
+[22:09:16]   Loading filterscript 'gl_mapicon.amx'...
+[22:09:16]   Loading filterscript 'ls_elevator.amx'...
+[22:09:16]   Loading filterscript 'attachments.amx'...
+[22:09:16]   Loading filterscript 'skinchanger.amx'...
+[22:09:16] 
+--Admin Player Skin Changer Loaded
+
+[22:09:16]   Loading filterscript 'vspawner.amx'...
+[22:09:16] 
+--Admin Vehicle Spawner Loaded
+
+[22:09:16]   Loading filterscript 'ls_mall.amx'...
+[22:09:16]   Loading filterscript 'ls_beachside.amx'...
+[22:09:16] 
+
+[22:09:16]   |---------------------------------------------------
+[22:09:16]   |--- LS BeachSide Filterscript
+[22:09:16]   |--  Script v1.03
+[22:09:16]   |--  19th April 2015
+[22:09:16]   |---------------------------------------------------
+[22:09:16]   |--  LS BeachSide Building Elevator created
+[22:09:16]   |---------------------------------------------------
+[22:09:16]   Loaded 10 filterscripts.
+
+[22:09:16] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:09:16] Reading File: blank
+[22:09:16] Reading File: properties/houses.txt
+[22:09:16] Reading File: properties/businesses.txt
+[22:09:16] Reading File: properties/banks.txt
+[22:09:16] Reading File: properties/police.txt
+[22:09:16] 
+----------------------------------
+[22:09:16]   Bare Script
+
+[22:09:16] ----------------------------------
+
+[22:09:16] Number of vehicle models: 0
+[22:09:36] [connection] incoming connection: 127.0.0.1:57022 id: 0
+[22:09:36] [join] David has joined the server (0:127.0.0.1)
+[22:10:11] [part] David has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:23:47] 
+[22:23:47] Server Plugins
+[22:23:47] --------------
+[22:23:47]  Loading plugin: sscanf
+[22:23:47] 
+[22:23:47]  ===============================
+[22:23:47] 
+[22:23:47]       sscanf plugin loaded.     
+[22:23:47] 
+[22:23:47]          Version: 2.13.8
+[22:23:47] 
+[22:23:47]    (c) 2022 Alex "Y_Less" Cole  
+[22:23:47] 
+[22:23:47]  ===============================
+[22:23:47] 
+[22:23:47]   Loaded.
+[22:23:47]  Loading plugin: mysql
+[22:23:47]  >> plugin.mysql: R41-4 successfully loaded.
+[22:23:47]   Loaded.
+[22:23:47]  Loaded 2 plugins.
+
+[22:23:47] 
+[22:23:47] Filterscripts
+[22:23:47] ---------------
+[22:23:47]   Loading filterscript 'gl_actions.amx'...
+[22:23:47]   Loading filterscript 'gl_realtime.amx'...
+[22:23:47]   Loading filterscript 'gl_property.amx'...
+[22:23:47] 
+-----------------------------------
+[22:23:47] Grand Larceny Property Filterscript		
+[22:23:47] -----------------------------------
+
+[22:23:47]   Loading filterscript 'gl_mapicon.amx'...
+[22:23:47]   Loading filterscript 'ls_elevator.amx'...
+[22:23:47]   Loading filterscript 'attachments.amx'...
+[22:23:47]   Loading filterscript 'skinchanger.amx'...
+[22:23:47] 
+--Admin Player Skin Changer Loaded
+
+[22:23:47]   Loading filterscript 'vspawner.amx'...
+[22:23:47] 
+--Admin Vehicle Spawner Loaded
+
+[22:23:47]   Loading filterscript 'ls_mall.amx'...
+[22:23:47]   Loading filterscript 'ls_beachside.amx'...
+[22:23:47] 
+
+[22:23:47]   |---------------------------------------------------
+[22:23:47]   |--- LS BeachSide Filterscript
+[22:23:47]   |--  Script v1.03
+[22:23:47]   |--  19th April 2015
+[22:23:47]   |---------------------------------------------------
+[22:23:47]   |--  LS BeachSide Building Elevator created
+[22:23:47]   |---------------------------------------------------
+[22:23:47]   Loaded 10 filterscripts.
+
+[22:23:47] ? Error al conectar con MySQL
+[22:23:47] Reading File: blank
+[22:23:47] Reading File: properties/houses.txt
+[22:23:47] Reading File: properties/businesses.txt
+[22:23:47] Reading File: properties/banks.txt
+[22:23:47] Reading File: properties/police.txt
+[22:23:47] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:23:47] Number of vehicle models: 0
+[22:24:11] [connection] incoming connection: 127.0.0.1:61490 id: 0
+[22:24:11] [join] David has joined the server (0:127.0.0.1)
+[22:24:47] [part] David has left the server (0:1)
+Console input: exit
+[22:25:59] --- Server Shutting Down.
+[22:25:59]   |--  LS BeachSide Building Elevator destroyed
+[22:25:59]   |---------------------------------------------------
+[22:25:59] 
+[22:25:59]  ===============================
+[22:25:59] 
+[22:25:59]      sscanf plugin unloaded.    
+[22:25:59] 
+[22:25:59]  ===============================
+[22:25:59] 
+[22:25:59] plugin.mysql: Unloading plugin...
+[22:25:59] plugin.mysql: Plugin unloaded.
+Console input: exit
+[22:26:01] --- Server Shutting Down.
+[22:26:01]   |--  LS BeachSide Building Elevator destroyed
+[22:26:01]   |---------------------------------------------------
+[22:26:01] 
+[22:26:01]  ===============================
+[22:26:01] 
+[22:26:01]      sscanf plugin unloaded.    
+[22:26:01] 
+[22:26:01]  ===============================
+[22:26:01] 
+[22:26:01] plugin.mysql: Unloading plugin...
+[22:26:01] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:26:39] 
+[22:26:39] Server Plugins
+[22:26:39] --------------
+[22:26:39]  Loading plugin: sscanf
+[22:26:39] 
+[22:26:39]  ===============================
+[22:26:39] 
+[22:26:39]       sscanf plugin loaded.     
+[22:26:39] 
+[22:26:39]          Version: 2.13.8
+[22:26:39] 
+[22:26:39]    (c) 2022 Alex "Y_Less" Cole  
+[22:26:39] 
+[22:26:39]  ===============================
+[22:26:39] 
+[22:26:39]   Loaded.
+[22:26:39]  Loading plugin: mysql
+[22:26:39]  >> plugin.mysql: R41-4 successfully loaded.
+[22:26:39]   Loaded.
+[22:26:39]  Loaded 2 plugins.
+
+[22:26:39] 
+[22:26:39] Filterscripts
+[22:26:39] ---------------
+[22:26:39]   Loading filterscript 'gl_actions.amx'...
+[22:26:39]   Loading filterscript 'gl_realtime.amx'...
+[22:26:39]   Loading filterscript 'gl_property.amx'...
+[22:26:39] 
+-----------------------------------
+[22:26:39] Grand Larceny Property Filterscript		
+[22:26:39] -----------------------------------
+
+[22:26:39]   Loading filterscript 'gl_mapicon.amx'...
+[22:26:39]   Loading filterscript 'ls_elevator.amx'...
+[22:26:39]   Loading filterscript 'attachments.amx'...
+[22:26:39]   Loading filterscript 'skinchanger.amx'...
+[22:26:39] 
+--Admin Player Skin Changer Loaded
+
+[22:26:39]   Loading filterscript 'vspawner.amx'...
+[22:26:39] 
+--Admin Vehicle Spawner Loaded
+
+[22:26:39]   Loading filterscript 'ls_mall.amx'...
+[22:26:39]   Loading filterscript 'ls_beachside.amx'...
+[22:26:39] 
+
+[22:26:39]   |---------------------------------------------------
+[22:26:39]   |--- LS BeachSide Filterscript
+[22:26:39]   |--  Script v1.03
+[22:26:39]   |--  19th April 2015
+[22:26:39]   |---------------------------------------------------
+[22:26:39]   |--  LS BeachSide Building Elevator created
+[22:26:39]   |---------------------------------------------------
+[22:26:39]   Loaded 10 filterscripts.
+
+[22:26:39] ? Conectado a MySQL correctamente.
+[22:26:39] Reading File: blank
+[22:26:39] Reading File: properties/houses.txt
+[22:26:39] Reading File: properties/businesses.txt
+[22:26:39] Reading File: properties/banks.txt
+[22:26:39] Reading File: properties/police.txt
+[22:26:39] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:26:39] Number of vehicle models: 0
+[22:27:01] [connection] incoming connection: 127.0.0.1:55931 id: 0
+[22:27:01] [join] David has joined the server (0:127.0.0.1)
+[22:27:25] [part] David has left the server (0:1)
+Console input: exit
+[22:29:33] --- Server Shutting Down.
+[22:29:33]   |--  LS BeachSide Building Elevator destroyed
+[22:29:33]   |---------------------------------------------------
+[22:29:33] 
+[22:29:33]  ===============================
+[22:29:33] 
+[22:29:33]      sscanf plugin unloaded.    
+[22:29:33] 
+[22:29:33]  ===============================
+[22:29:33] 
+[22:29:33] plugin.mysql: Unloading plugin...
+[22:29:33] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:33:52] 
+[22:33:52] Server Plugins
+[22:33:52] --------------
+[22:33:52]  Loading plugin: sscanf
+[22:33:52] 
+[22:33:52]  ===============================
+[22:33:52] 
+[22:33:52]       sscanf plugin loaded.     
+[22:33:52] 
+[22:33:52]          Version: 2.13.8
+[22:33:52] 
+[22:33:52]    (c) 2022 Alex "Y_Less" Cole  
+[22:33:52] 
+[22:33:52]  ===============================
+[22:33:52] 
+[22:33:52]   Loaded.
+[22:33:52]  Loading plugin: mysql
+[22:33:52]  >> plugin.mysql: R41-4 successfully loaded.
+[22:33:52]   Loaded.
+[22:33:52]  Loaded 2 plugins.
+
+[22:33:52] 
+[22:33:52] Filterscripts
+[22:33:52] ---------------
+[22:33:52]   Loading filterscript 'gl_actions.amx'...
+[22:33:52]   Loading filterscript 'gl_realtime.amx'...
+[22:33:52]   Loading filterscript 'gl_property.amx'...
+[22:33:52] 
+-----------------------------------
+[22:33:52] Grand Larceny Property Filterscript		
+[22:33:52] -----------------------------------
+
+[22:33:52]   Loading filterscript 'gl_mapicon.amx'...
+[22:33:52]   Loading filterscript 'ls_elevator.amx'...
+[22:33:52]   Loading filterscript 'attachments.amx'...
+[22:33:52]   Loading filterscript 'skinchanger.amx'...
+[22:33:52] 
+--Admin Player Skin Changer Loaded
+
+[22:33:52]   Loading filterscript 'vspawner.amx'...
+[22:33:52] 
+--Admin Vehicle Spawner Loaded
+
+[22:33:52]   Loading filterscript 'ls_mall.amx'...
+[22:33:52]   Loading filterscript 'ls_beachside.amx'...
+[22:33:52] 
+
+[22:33:52]   |---------------------------------------------------
+[22:33:52]   |--- LS BeachSide Filterscript
+[22:33:52]   |--  Script v1.03
+[22:33:52]   |--  19th April 2015
+[22:33:52]   |---------------------------------------------------
+[22:33:52]   |--  LS BeachSide Building Elevator created
+[22:33:52]   |---------------------------------------------------
+[22:33:52]   Loaded 10 filterscripts.
+
+[22:33:52] ? Conectado a MySQL correctamente.
+[22:33:52] Reading File: blank
+[22:33:52] Reading File: properties/houses.txt
+[22:33:52] Reading File: properties/businesses.txt
+[22:33:52] Reading File: properties/banks.txt
+[22:33:52] Reading File: properties/police.txt
+[22:33:52] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:33:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:33:52] 
+[22:33:52] Server Plugins
+[22:33:52] --------------
+[22:33:52]  Loading plugin: sscanf
+[22:33:52] 
+[22:33:52]  ===============================
+[22:33:52] 
+[22:33:52]       sscanf plugin loaded.     
+[22:33:52] 
+[22:33:52]          Version: 2.13.8
+[22:33:52] 
+[22:33:52]    (c) 2022 Alex "Y_Less" Cole  
+[22:33:52] 
+[22:33:52]  ===============================
+[22:33:52] 
+[22:33:52]   Loaded.
+[22:33:52]  Loading plugin: mysql
+[22:33:52]  >> plugin.mysql: R41-4 successfully loaded.
+[22:33:52]   Loaded.
+[22:33:52]  Loaded 2 plugins.
+
+[22:33:52] 
+[22:33:52] Filterscripts
+[22:33:52] ---------------
+[22:33:52]   Loading filterscript 'gl_actions.amx'...
+[22:33:52]   Loading filterscript 'gl_realtime.amx'...
+[22:33:52]   Loading filterscript 'gl_property.amx'...
+[22:33:52] 
+-----------------------------------
+[22:33:52] Grand Larceny Property Filterscript		
+[22:33:52] -----------------------------------
+
+[22:33:52]   Loading filterscript 'gl_mapicon.amx'...
+[22:33:52]   Loading filterscript 'ls_elevator.amx'...
+[22:33:52]   Loading filterscript 'attachments.amx'...
+[22:33:52]   Loading filterscript 'skinchanger.amx'...
+[22:33:52] 
+--Admin Player Skin Changer Loaded
+
+[22:33:52]   Loading filterscript 'vspawner.amx'...
+[22:33:52] 
+--Admin Vehicle Spawner Loaded
+
+[22:33:52]   Loading filterscript 'ls_mall.amx'...
+[22:33:52]   Loading filterscript 'ls_beachside.amx'...
+[22:33:52] 
+
+[22:33:52]   |---------------------------------------------------
+[22:33:52]   |--- LS BeachSide Filterscript
+[22:33:52]   |--  Script v1.03
+[22:33:52]   |--  19th April 2015
+[22:33:52]   |---------------------------------------------------
+[22:33:52]   |--  LS BeachSide Building Elevator created
+[22:33:52]   |---------------------------------------------------
+[22:33:52]   Loaded 10 filterscripts.
+
+[22:33:52] ? Conectado a MySQL correctamente.
+[22:33:52] Reading File: blank
+[22:33:52] Reading File: properties/houses.txt
+[22:33:52] Reading File: properties/businesses.txt
+[22:33:52] Reading File: properties/banks.txt
+[22:33:52] Reading File: properties/police.txt
+[22:33:52] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:33:52] Number of vehicle models: 0
+[22:34:16] [connection] incoming connection: 127.0.0.1:63160 id: 0
+[22:34:16] [join] David has joined the server (0:127.0.0.1)
+[22:36:42] [part] David has left the server (0:1)
+[22:37:09] [connection] incoming connection: 127.0.0.1:63093 id: 0
+[22:37:09] [join] David has joined the server (0:127.0.0.1)
+[22:37:22] [part] David has left the server (0:1)
+Console input: exit
+[22:39:32] --- Server Shutting Down.
+[22:39:32]   |--  LS BeachSide Building Elevator destroyed
+[22:39:32]   |---------------------------------------------------
+[22:39:32] 
+[22:39:32]  ===============================
+[22:39:32] 
+[22:39:32]      sscanf plugin unloaded.    
+[22:39:32] 
+[22:39:32]  ===============================
+[22:39:32] 
+[22:39:32] plugin.mysql: Unloading plugin...
+[22:39:32] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:43:58] 
+[22:43:58] Server Plugins
+[22:43:58] --------------
+[22:43:58]  Loading plugin: sscanf
+[22:43:58] 
+[22:43:58]  ===============================
+[22:43:58] 
+[22:43:58]       sscanf plugin loaded.     
+[22:43:58] 
+[22:43:58]          Version: 2.13.8
+[22:43:58] 
+[22:43:58]    (c) 2022 Alex "Y_Less" Cole  
+[22:43:58] 
+[22:43:58]  ===============================
+[22:43:58] 
+[22:43:58]   Loaded.
+[22:43:58]  Loading plugin: mysql
+[22:43:58]  >> plugin.mysql: R41-4 successfully loaded.
+[22:43:58]   Loaded.
+[22:43:58]  Loaded 2 plugins.
+
+[22:43:58] 
+[22:43:58] Filterscripts
+[22:43:58] ---------------
+[22:43:58]   Loading filterscript 'gl_actions.amx'...
+[22:43:58]   Loading filterscript 'gl_realtime.amx'...
+[22:43:58]   Loading filterscript 'gl_property.amx'...
+[22:43:58] 
+-----------------------------------
+[22:43:58] Grand Larceny Property Filterscript		
+[22:43:58] -----------------------------------
+
+[22:43:58]   Loading filterscript 'gl_mapicon.amx'...
+[22:43:58]   Loading filterscript 'ls_elevator.amx'...
+[22:43:58]   Loading filterscript 'attachments.amx'...
+[22:43:58]   Loading filterscript 'skinchanger.amx'...
+[22:43:58] 
+--Admin Player Skin Changer Loaded
+
+[22:43:58]   Loading filterscript 'vspawner.amx'...
+[22:43:58] 
+--Admin Vehicle Spawner Loaded
+
+[22:43:58]   Loading filterscript 'ls_mall.amx'...
+[22:43:58]   Loading filterscript 'ls_beachside.amx'...
+[22:43:58] 
+
+[22:43:58]   |---------------------------------------------------
+[22:43:58]   |--- LS BeachSide Filterscript
+[22:43:58]   |--  Script v1.03
+[22:43:58]   |--  19th April 2015
+[22:43:58]   |---------------------------------------------------
+[22:43:58]   |--  LS BeachSide Building Elevator created
+[22:43:58]   |---------------------------------------------------
+[22:43:58]   Loaded 10 filterscripts.
+
+[22:43:58] ?? Conectado a MySQL correctamente.
+[22:43:58] Reading File: blank
+[22:43:58] Reading File: properties/houses.txt
+[22:43:58] Reading File: properties/businesses.txt
+[22:43:58] Reading File: properties/banks.txt
+[22:43:58] Reading File: properties/police.txt
+[22:43:58] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:43:58] Number of vehicle models: 0
+[22:44:21] [connection] incoming connection: 127.0.0.1:58033 id: 0
+[22:44:21] [join] David has joined the server (0:127.0.0.1)
+[22:46:15] [part] David has left the server (0:1)
+Console input: exit
+[22:46:23] --- Server Shutting Down.
+[22:46:23]   |--  LS BeachSide Building Elevator destroyed
+[22:46:23]   |---------------------------------------------------
+[22:46:23] 
+[22:46:23]  ===============================
+[22:46:23] 
+[22:46:23]      sscanf plugin unloaded.    
+[22:46:23] 
+[22:46:23]  ===============================
+[22:46:23] 
+[22:46:23] plugin.mysql: Unloading plugin...
+[22:46:23] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:46:25] 
+[22:46:25] Server Plugins
+[22:46:25] --------------
+[22:46:25]  Loading plugin: sscanf
+[22:46:25] 
+[22:46:25]  ===============================
+[22:46:25] 
+[22:46:25]       sscanf plugin loaded.     
+[22:46:25] 
+[22:46:25]          Version: 2.13.8
+[22:46:25] 
+[22:46:25]    (c) 2022 Alex "Y_Less" Cole  
+[22:46:25] 
+[22:46:25]  ===============================
+[22:46:25] 
+[22:46:25]   Loaded.
+[22:46:25]  Loading plugin: mysql
+[22:46:25]  >> plugin.mysql: R41-4 successfully loaded.
+[22:46:25]   Loaded.
+[22:46:25]  Loaded 2 plugins.
+
+[22:46:25] 
+[22:46:25] Filterscripts
+[22:46:25] ---------------
+[22:46:25]   Loading filterscript 'gl_actions.amx'...
+[22:46:25]   Loading filterscript 'gl_realtime.amx'...
+[22:46:25]   Loading filterscript 'gl_property.amx'...
+[22:46:25] 
+-----------------------------------
+[22:46:25] Grand Larceny Property Filterscript		
+[22:46:25] -----------------------------------
+
+[22:46:25]   Loading filterscript 'gl_mapicon.amx'...
+[22:46:25]   Loading filterscript 'ls_elevator.amx'...
+[22:46:25]   Loading filterscript 'attachments.amx'...
+[22:46:25]   Loading filterscript 'skinchanger.amx'...
+[22:46:25] 
+--Admin Player Skin Changer Loaded
+
+[22:46:25]   Loading filterscript 'vspawner.amx'...
+[22:46:25] 
+--Admin Vehicle Spawner Loaded
+
+[22:46:25]   Loading filterscript 'ls_mall.amx'...
+[22:46:25]   Loading filterscript 'ls_beachside.amx'...
+[22:46:25] 
+
+[22:46:25]   |---------------------------------------------------
+[22:46:25]   |--- LS BeachSide Filterscript
+[22:46:25]   |--  Script v1.03
+[22:46:25]   |--  19th April 2015
+[22:46:25]   |---------------------------------------------------
+[22:46:25]   |--  LS BeachSide Building Elevator created
+[22:46:25]   |---------------------------------------------------
+[22:46:25]   Loaded 10 filterscripts.
+
+[22:46:25] ?? Conectado a MySQL correctamente.
+[22:46:25] Reading File: blank
+[22:46:25] Reading File: properties/houses.txt
+[22:46:25] Reading File: properties/businesses.txt
+[22:46:25] Reading File: properties/banks.txt
+[22:46:25] Reading File: properties/police.txt
+[22:46:25] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:46:25] Number of vehicle models: 0
+[22:46:58] [connection] incoming connection: 127.0.0.1:52475 id: 0
+[22:46:58] [join] David has joined the server (0:127.0.0.1)
+[22:47:32] [part] David has left the server (0:1)
+Console input: exit
+[22:49:25] --- Server Shutting Down.
+[22:49:25]   |--  LS BeachSide Building Elevator destroyed
+[22:49:25]   |---------------------------------------------------
+[22:49:25] 
+[22:49:25]  ===============================
+[22:49:25] 
+[22:49:25]      sscanf plugin unloaded.    
+[22:49:25] 
+[22:49:25]  ===============================
+[22:49:25] 
+[22:49:25] plugin.mysql: Unloading plugin...
+[22:49:25] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:49:55] 
+[22:49:55] Server Plugins
+[22:49:55] --------------
+[22:49:55]  Loading plugin: sscanf
+[22:49:55] 
+[22:49:55]  ===============================
+[22:49:55] 
+[22:49:55]       sscanf plugin loaded.     
+[22:49:55] 
+[22:49:55]          Version: 2.13.8
+[22:49:55] 
+[22:49:55]    (c) 2022 Alex "Y_Less" Cole  
+[22:49:55] 
+[22:49:55]  ===============================
+[22:49:55] 
+[22:49:55]   Loaded.
+[22:49:55]  Loading plugin: mysql
+[22:49:55]  >> plugin.mysql: R41-4 successfully loaded.
+[22:49:55]   Loaded.
+[22:49:55]  Loaded 2 plugins.
+
+[22:49:55] 
+[22:49:55] Filterscripts
+[22:49:55] ---------------
+[22:49:55]   Loading filterscript 'gl_actions.amx'...
+[22:49:55]   Loading filterscript 'gl_realtime.amx'...
+[22:49:55]   Loading filterscript 'gl_property.amx'...
+[22:49:55] 
+-----------------------------------
+[22:49:55] Grand Larceny Property Filterscript		
+[22:49:55] -----------------------------------
+
+[22:49:55]   Loading filterscript 'gl_mapicon.amx'...
+[22:49:55]   Loading filterscript 'ls_elevator.amx'...
+[22:49:55]   Loading filterscript 'attachments.amx'...
+[22:49:55]   Loading filterscript 'skinchanger.amx'...
+[22:49:55] 
+--Admin Player Skin Changer Loaded
+
+[22:49:55]   Loading filterscript 'vspawner.amx'...
+[22:49:55] 
+--Admin Vehicle Spawner Loaded
+
+[22:49:55]   Loading filterscript 'ls_mall.amx'...
+[22:49:55]   Loading filterscript 'ls_beachside.amx'...
+[22:49:55] 
+
+[22:49:55]   |---------------------------------------------------
+[22:49:55]   |--- LS BeachSide Filterscript
+[22:49:55]   |--  Script v1.03
+[22:49:55]   |--  19th April 2015
+[22:49:55]   |---------------------------------------------------
+[22:49:55]   |--  LS BeachSide Building Elevator created
+[22:49:55]   |---------------------------------------------------
+[22:49:55]   Loaded 10 filterscripts.
+
+[22:49:55] ?? Conectado a MySQL correctamente.
+[22:49:55] Reading File: blank
+[22:49:55] Reading File: properties/houses.txt
+[22:49:55] Reading File: properties/businesses.txt
+[22:49:55] Reading File: properties/banks.txt
+[22:49:55] Reading File: properties/police.txt
+[22:49:55] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:49:55] Number of vehicle models: 0
+[22:50:16] [connection] incoming connection: 127.0.0.1:56175 id: 0
+[22:50:17] [join] David has joined the server (0:127.0.0.1)
+[22:52:28] [part] David has left the server (0:1)
+Console input: exit
+[22:52:31] --- Server Shutting Down.
+[22:52:31]   |--  LS BeachSide Building Elevator destroyed
+[22:52:31]   |---------------------------------------------------
+[22:52:31] 
+[22:52:31]  ===============================
+[22:52:31] 
+[22:52:31]      sscanf plugin unloaded.    
+[22:52:31] 
+[22:52:31]  ===============================
+[22:52:31] 
+[22:52:31] plugin.mysql: Unloading plugin...
+[22:52:31] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:52:46] 
+[22:52:46] Server Plugins
+[22:52:46] --------------
+[22:52:46]  Loading plugin: sscanf
+[22:52:46] 
+[22:52:46]  ===============================
+[22:52:46] 
+[22:52:46]       sscanf plugin loaded.     
+[22:52:46] 
+[22:52:46]          Version: 2.13.8
+[22:52:46] 
+[22:52:46]    (c) 2022 Alex "Y_Less" Cole  
+[22:52:46] 
+[22:52:46]  ===============================
+[22:52:46] 
+[22:52:46]   Loaded.
+[22:52:46]  Loading plugin: mysql
+[22:52:46]  >> plugin.mysql: R41-4 successfully loaded.
+[22:52:46]   Loaded.
+[22:52:46]  Loaded 2 plugins.
+
+[22:52:46] 
+[22:52:46] Filterscripts
+[22:52:46] ---------------
+[22:52:46]   Loading filterscript 'gl_actions.amx'...
+[22:52:46]   Loading filterscript 'gl_realtime.amx'...
+[22:52:46]   Loading filterscript 'gl_property.amx'...
+[22:52:46] 
+-----------------------------------
+[22:52:46] Grand Larceny Property Filterscript		
+[22:52:46] -----------------------------------
+
+[22:52:46]   Loading filterscript 'gl_mapicon.amx'...
+[22:52:46]   Loading filterscript 'ls_elevator.amx'...
+[22:52:46]   Loading filterscript 'attachments.amx'...
+[22:52:46]   Loading filterscript 'skinchanger.amx'...
+[22:52:46] 
+--Admin Player Skin Changer Loaded
+
+[22:52:46]   Loading filterscript 'vspawner.amx'...
+[22:52:46] 
+--Admin Vehicle Spawner Loaded
+
+[22:52:46]   Loading filterscript 'ls_mall.amx'...
+[22:52:46]   Loading filterscript 'ls_beachside.amx'...
+[22:52:46] 
+
+[22:52:46]   |---------------------------------------------------
+[22:52:46]   |--- LS BeachSide Filterscript
+[22:52:46]   |--  Script v1.03
+[22:52:46]   |--  19th April 2015
+[22:52:46]   |---------------------------------------------------
+[22:52:46]   |--  LS BeachSide Building Elevator created
+[22:52:46]   |---------------------------------------------------
+[22:52:46]   Loaded 10 filterscripts.
+
+[22:52:46] ?? Conectado a MySQL correctamente.
+[22:52:46] Reading File: blank
+[22:52:46] Reading File: properties/houses.txt
+[22:52:46] Reading File: properties/businesses.txt
+[22:52:46] Reading File: properties/banks.txt
+[22:52:46] Reading File: properties/police.txt
+[22:52:46] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:52:46] Number of vehicle models: 0
+[22:53:06] [connection] incoming connection: 127.0.0.1:59774 id: 0
+[22:53:06] [join] David has joined the server (0:127.0.0.1)
+[22:54:16] [part] David has left the server (0:2)
+Console input: exit
+[22:54:23] --- Server Shutting Down.
+[22:54:23]   |--  LS BeachSide Building Elevator destroyed
+[22:54:23]   |---------------------------------------------------
+[22:54:23] 
+[22:54:23]  ===============================
+[22:54:23] 
+[22:54:23]      sscanf plugin unloaded.    
+[22:54:23] 
+[22:54:23]  ===============================
+[22:54:23] 
+[22:54:23] plugin.mysql: Unloading plugin...
+[22:54:23] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:56:56] 
+[07:56:56] Server Plugins
+[07:56:56] --------------
+[07:56:56]  Loading plugin: sscanf
+[07:56:56] 
+[07:56:56]  ===============================
+[07:56:56] 
+[07:56:56]       sscanf plugin loaded.     
+[07:56:56] 
+[07:56:56]          Version: 2.13.8
+[07:56:56] 
+[07:56:56]    (c) 2022 Alex "Y_Less" Cole  
+[07:56:56] 
+[07:56:56]  ===============================
+[07:56:56] 
+[07:56:56]   Loaded.
+[07:56:56]  Loading plugin: mysql
+[07:56:56]  >> plugin.mysql: R41-4 successfully loaded.
+[07:56:56]   Loaded.
+[07:56:56]  Loaded 2 plugins.
+
+[07:56:56] 
+[07:56:56] Filterscripts
+[07:56:56] ---------------
+[07:56:56]   Loading filterscript 'gl_actions.amx'...
+[07:56:57]   Loading filterscript 'gl_realtime.amx'...
+[07:56:57]   Loading filterscript 'gl_property.amx'...
+[07:56:57] 
+-----------------------------------
+[07:56:57] Grand Larceny Property Filterscript		
+[07:56:57] -----------------------------------
+
+[07:56:57]   Loading filterscript 'gl_mapicon.amx'...
+[07:56:57]   Loading filterscript 'ls_elevator.amx'...
+[07:56:57]   Loading filterscript 'attachments.amx'...
+[07:56:57]   Loading filterscript 'skinchanger.amx'...
+[07:56:57] 
+--Admin Player Skin Changer Loaded
+
+[07:56:57]   Loading filterscript 'vspawner.amx'...
+[07:56:57] 
+--Admin Vehicle Spawner Loaded
+
+[07:56:57]   Loading filterscript 'ls_mall.amx'...
+[07:56:57]   Loading filterscript 'ls_beachside.amx'...
+[07:56:57] 
+
+[07:56:57]   |---------------------------------------------------
+[07:56:57]   |--- LS BeachSide Filterscript
+[07:56:57]   |--  Script v1.03
+[07:56:57]   |--  19th April 2015
+[07:56:57]   |---------------------------------------------------
+[07:56:57]   |--  LS BeachSide Building Elevator created
+[07:56:57]   |---------------------------------------------------
+[07:56:57]   Loaded 10 filterscripts.
+
+[07:56:57] ?? Conectado a MySQL correctamente.
+[07:56:57] Reading File: blank
+[07:56:57] Reading File: properties/houses.txt
+[07:56:57] Reading File: properties/businesses.txt
+[07:56:57] Reading File: properties/banks.txt
+[07:56:57] Reading File: properties/police.txt
+[07:56:57] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[07:56:57] Number of vehicle models: 0
+[07:57:20] [connection] incoming connection: 127.0.0.1:61544 id: 0
+[07:57:20] [join] David has joined the server (0:127.0.0.1)
+[07:59:42] [part] David has left the server (0:2)
+Console input: exit
+[08:02:52] --- Server Shutting Down.
+[08:02:52]   |--  LS BeachSide Building Elevator destroyed
+[08:02:52]   |---------------------------------------------------
+[08:02:52] 
+[08:02:52]  ===============================
+[08:02:52] 
+[08:02:52]      sscanf plugin unloaded.    
+[08:02:52] 
+[08:02:52]  ===============================
+[08:02:52] 
+[08:02:52] plugin.mysql: Unloading plugin...
+[08:02:52] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:03:06] 
+[08:03:06] Server Plugins
+[08:03:06] --------------
+[08:03:06]  Loading plugin: sscanf
+[08:03:06] 
+[08:03:06]  ===============================
+[08:03:06] 
+[08:03:06]       sscanf plugin loaded.     
+[08:03:06] 
+[08:03:06]          Version: 2.13.8
+[08:03:06] 
+[08:03:06]    (c) 2022 Alex "Y_Less" Cole  
+[08:03:06] 
+[08:03:06]  ===============================
+[08:03:06] 
+[08:03:06]   Loaded.
+[08:03:06]  Loading plugin: mysql
+[08:03:06]  >> plugin.mysql: R41-4 successfully loaded.
+[08:03:06]   Loaded.
+[08:03:06]  Loaded 2 plugins.
+
+[08:03:06] 
+[08:03:06] Filterscripts
+[08:03:06] ---------------
+[08:03:06]   Loading filterscript 'gl_actions.amx'...
+[08:03:06]   Loading filterscript 'gl_realtime.amx'...
+[08:03:06]   Loading filterscript 'gl_property.amx'...
+[08:03:06] 
+-----------------------------------
+[08:03:06] Grand Larceny Property Filterscript		
+[08:03:06] -----------------------------------
+
+[08:03:06]   Loading filterscript 'gl_mapicon.amx'...
+[08:03:06]   Loading filterscript 'ls_elevator.amx'...
+[08:03:06]   Loading filterscript 'attachments.amx'...
+[08:03:06]   Loading filterscript 'skinchanger.amx'...
+[08:03:06] 
+--Admin Player Skin Changer Loaded
+
+[08:03:06]   Loading filterscript 'vspawner.amx'...
+[08:03:06] 
+--Admin Vehicle Spawner Loaded
+
+[08:03:06]   Loading filterscript 'ls_mall.amx'...
+[08:03:06]   Loading filterscript 'ls_beachside.amx'...
+[08:03:06] 
+
+[08:03:06]   |---------------------------------------------------
+[08:03:06]   |--- LS BeachSide Filterscript
+[08:03:06]   |--  Script v1.03
+[08:03:06]   |--  19th April 2015
+[08:03:06]   |---------------------------------------------------
+[08:03:06]   |--  LS BeachSide Building Elevator created
+[08:03:06]   |---------------------------------------------------
+[08:03:06]   Loaded 10 filterscripts.
+
+[08:03:06] ?? Conectado a MySQL correctamente.
+[08:03:06] Reading File: blank
+[08:03:06] Reading File: properties/houses.txt
+[08:03:06] Reading File: properties/businesses.txt
+[08:03:06] Reading File: properties/banks.txt
+[08:03:06] Reading File: properties/police.txt
+[08:03:06] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:03:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:04:50] 
+[08:04:50] Server Plugins
+[08:04:50] --------------
+[08:04:50]  Loading plugin: sscanf
+[08:04:50] 
+[08:04:50]  ===============================
+[08:04:50] 
+[08:04:50]       sscanf plugin loaded.     
+[08:04:50] 
+[08:04:50]          Version: 2.13.8
+[08:04:50] 
+[08:04:50]    (c) 2022 Alex "Y_Less" Cole  
+[08:04:50] 
+[08:04:50]  ===============================
+[08:04:50] 
+[08:04:50]   Loaded.
+[08:04:50]  Loading plugin: mysql
+[08:04:50]  >> plugin.mysql: R41-4 successfully loaded.
+[08:04:50]   Loaded.
+[08:04:50]  Loaded 2 plugins.
+
+[08:04:50] 
+[08:04:50] Filterscripts
+[08:04:50] ---------------
+[08:04:50]   Loading filterscript 'gl_actions.amx'...
+[08:04:50]   Loading filterscript 'gl_realtime.amx'...
+[08:04:50]   Loading filterscript 'gl_property.amx'...
+[08:04:50] 
+-----------------------------------
+[08:04:50] Grand Larceny Property Filterscript		
+[08:04:50] -----------------------------------
+
+[08:04:50]   Loading filterscript 'gl_mapicon.amx'...
+[08:04:50]   Loading filterscript 'ls_elevator.amx'...
+[08:04:50]   Loading filterscript 'attachments.amx'...
+[08:04:50]   Loading filterscript 'skinchanger.amx'...
+[08:04:50] 
+--Admin Player Skin Changer Loaded
+
+[08:04:50]   Loading filterscript 'vspawner.amx'...
+[08:04:50] 
+--Admin Vehicle Spawner Loaded
+
+[08:04:50]   Loading filterscript 'ls_mall.amx'...
+[08:04:50]   Loading filterscript 'ls_beachside.amx'...
+[08:04:50] 
+
+[08:04:50]   |---------------------------------------------------
+[08:04:50]   |--- LS BeachSide Filterscript
+[08:04:50]   |--  Script v1.03
+[08:04:50]   |--  19th April 2015
+[08:04:50]   |---------------------------------------------------
+[08:04:50]   |--  LS BeachSide Building Elevator created
+[08:04:50]   |---------------------------------------------------
+[08:04:50]   Loaded 10 filterscripts.
+
+[08:04:50] ?? Conectado a MySQL correctamente.
+[08:04:50] Reading File: blank
+[08:04:50] Reading File: properties/houses.txt
+[08:04:50] Reading File: properties/businesses.txt
+[08:04:50] Reading File: properties/banks.txt
+[08:04:50] Reading File: properties/police.txt
+[08:04:50] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:04:50] Number of vehicle models: 0
+[08:05:11] [connection] incoming connection: 127.0.0.1:62592 id: 0
+[08:05:11] [join] David has joined the server (0:127.0.0.1)
+[08:06:51] [part] David has left the server (0:2)
+Console input: exit
+[08:07:42] --- Server Shutting Down.
+[08:07:42]   |--  LS BeachSide Building Elevator destroyed
+[08:07:42]   |---------------------------------------------------
+[08:07:42] 
+[08:07:42]  ===============================
+[08:07:42] 
+[08:07:42]      sscanf plugin unloaded.    
+[08:07:42] 
+[08:07:42]  ===============================
+[08:07:42] 
+[08:07:42] plugin.mysql: Unloading plugin...
+[08:07:42] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:07:49] 
+[08:07:49] Server Plugins
+[08:07:49] --------------
+[08:07:49]  Loading plugin: sscanf
+[08:07:49] 
+[08:07:49]  ===============================
+[08:07:49] 
+[08:07:49]       sscanf plugin loaded.     
+[08:07:49] 
+[08:07:49]          Version: 2.13.8
+[08:07:49] 
+[08:07:49]    (c) 2022 Alex "Y_Less" Cole  
+[08:07:49] 
+[08:07:49]  ===============================
+[08:07:49] 
+[08:07:49]   Loaded.
+[08:07:49]  Loading plugin: mysql
+[08:07:49]  >> plugin.mysql: R41-4 successfully loaded.
+[08:07:49]   Loaded.
+[08:07:49]  Loaded 2 plugins.
+
+[08:07:49] 
+[08:07:49] Filterscripts
+[08:07:49] ---------------
+[08:07:49]   Loading filterscript 'gl_actions.amx'...
+[08:07:49]   Loading filterscript 'gl_realtime.amx'...
+[08:07:49]   Loading filterscript 'gl_property.amx'...
+[08:07:49] 
+-----------------------------------
+[08:07:49] Grand Larceny Property Filterscript		
+[08:07:49] -----------------------------------
+
+[08:07:49]   Loading filterscript 'gl_mapicon.amx'...
+[08:07:49]   Loading filterscript 'ls_elevator.amx'...
+[08:07:49]   Loading filterscript 'attachments.amx'...
+[08:07:49]   Loading filterscript 'skinchanger.amx'...
+[08:07:49] 
+--Admin Player Skin Changer Loaded
+
+[08:07:49]   Loading filterscript 'vspawner.amx'...
+[08:07:49] 
+--Admin Vehicle Spawner Loaded
+
+[08:07:49]   Loading filterscript 'ls_mall.amx'...
+[08:07:49]   Loading filterscript 'ls_beachside.amx'...
+[08:07:49] 
+
+[08:07:49]   |---------------------------------------------------
+[08:07:49]   |--- LS BeachSide Filterscript
+[08:07:49]   |--  Script v1.03
+[08:07:49]   |--  19th April 2015
+[08:07:49]   |---------------------------------------------------
+[08:07:49]   |--  LS BeachSide Building Elevator created
+[08:07:49]   |---------------------------------------------------
+[08:07:49]   Loaded 10 filterscripts.
+
+[08:07:49] ?? Conectado a MySQL correctamente.
+[08:07:49] Reading File: blank
+[08:07:49] Reading File: properties/houses.txt
+[08:07:49] Reading File: properties/businesses.txt
+[08:07:49] Reading File: properties/banks.txt
+[08:07:49] Reading File: properties/police.txt
+[08:07:49] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:07:49] Number of vehicle models: 0
+[08:08:12] [connection] incoming connection: 127.0.0.1:50683 id: 0
+[08:08:12] [join] David has joined the server (0:127.0.0.1)
+[08:08:53] [part] David has left the server (0:1)
+Console input: exit
+[08:09:00] --- Server Shutting Down.
+[08:09:00]   |--  LS BeachSide Building Elevator destroyed
+[08:09:00]   |---------------------------------------------------
+[08:09:00] 
+[08:09:00]  ===============================
+[08:09:00] 
+[08:09:00]      sscanf plugin unloaded.    
+[08:09:00] 
+[08:09:00]  ===============================
+[08:09:00] 
+[08:09:00] plugin.mysql: Unloading plugin...
+[08:09:00] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:09:11] 
+[08:09:11] Server Plugins
+[08:09:11] --------------
+[08:09:11]  Loading plugin: sscanf
+[08:09:11] 
+[08:09:11]  ===============================
+[08:09:11] 
+[08:09:11]       sscanf plugin loaded.     
+[08:09:11] 
+[08:09:11]          Version: 2.13.8
+[08:09:11] 
+[08:09:11]    (c) 2022 Alex "Y_Less" Cole  
+[08:09:11] 
+[08:09:11]  ===============================
+[08:09:11] 
+[08:09:11]   Loaded.
+[08:09:11]  Loading plugin: mysql
+[08:09:11]  >> plugin.mysql: R41-4 successfully loaded.
+[08:09:11]   Loaded.
+[08:09:11]  Loaded 2 plugins.
+
+[08:09:11] 
+[08:09:11] Filterscripts
+[08:09:11] ---------------
+[08:09:11]   Loading filterscript 'gl_actions.amx'...
+[08:09:11]   Loading filterscript 'gl_realtime.amx'...
+[08:09:11]   Loading filterscript 'gl_property.amx'...
+[08:09:11] 
+-----------------------------------
+[08:09:11] Grand Larceny Property Filterscript		
+[08:09:11] -----------------------------------
+
+[08:09:11]   Loading filterscript 'gl_mapicon.amx'...
+[08:09:11]   Loading filterscript 'ls_elevator.amx'...
+[08:09:11]   Loading filterscript 'attachments.amx'...
+[08:09:11]   Loading filterscript 'skinchanger.amx'...
+[08:09:11] 
+--Admin Player Skin Changer Loaded
+
+[08:09:11]   Loading filterscript 'vspawner.amx'...
+[08:09:11] 
+--Admin Vehicle Spawner Loaded
+
+[08:09:11]   Loading filterscript 'ls_mall.amx'...
+[08:09:11]   Loading filterscript 'ls_beachside.amx'...
+[08:09:11] 
+
+[08:09:11]   |---------------------------------------------------
+[08:09:11]   |--- LS BeachSide Filterscript
+[08:09:11]   |--  Script v1.03
+[08:09:11]   |--  19th April 2015
+[08:09:11]   |---------------------------------------------------
+[08:09:11]   |--  LS BeachSide Building Elevator created
+[08:09:11]   |---------------------------------------------------
+[08:09:11]   Loaded 10 filterscripts.
+
+[08:09:11] ?? Conectado a MySQL correctamente.
+[08:09:11] Reading File: blank
+[08:09:11] Reading File: properties/houses.txt
+[08:09:11] Reading File: properties/businesses.txt
+[08:09:11] Reading File: properties/banks.txt
+[08:09:11] Reading File: properties/police.txt
+[08:09:11] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:09:11] Number of vehicle models: 0
+[08:09:31] [connection] incoming connection: 127.0.0.1:57409 id: 0
+[08:09:32] [join] David has joined the server (0:127.0.0.1)
+[08:10:03] [part] David has left the server (0:1)
+Console input: exit
+[08:10:10] --- Server Shutting Down.
+[08:10:10]   |--  LS BeachSide Building Elevator destroyed
+[08:10:10]   |---------------------------------------------------
+[08:10:10] 
+[08:10:10]  ===============================
+[08:10:10] 
+[08:10:10]      sscanf plugin unloaded.    
+[08:10:10] 
+[08:10:10]  ===============================
+[08:10:10] 
+[08:10:10] plugin.mysql: Unloading plugin...
+[08:10:10] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:14:14] 
+[08:14:14] Server Plugins
+[08:14:14] --------------
+[08:14:14]  Loading plugin: sscanf
+[08:14:14] 
+[08:14:14]  ===============================
+[08:14:14] 
+[08:14:14]       sscanf plugin loaded.     
+[08:14:14] 
+[08:14:14]          Version: 2.13.8
+[08:14:14] 
+[08:14:14]    (c) 2022 Alex "Y_Less" Cole  
+[08:14:14] 
+[08:14:14]  ===============================
+[08:14:14] 
+[08:14:14]   Loaded.
+[08:14:14]  Loading plugin: mysql
+[08:14:14]  >> plugin.mysql: R41-4 successfully loaded.
+[08:14:14]   Loaded.
+[08:14:14]  Loaded 2 plugins.
+
+[08:14:14] 
+[08:14:14] Filterscripts
+[08:14:14] ---------------
+[08:14:14]   Loading filterscript 'gl_actions.amx'...
+[08:14:14]   Loading filterscript 'gl_realtime.amx'...
+[08:14:14]   Loading filterscript 'gl_property.amx'...
+[08:14:14] 
+-----------------------------------
+[08:14:14] Grand Larceny Property Filterscript		
+[08:14:14] -----------------------------------
+
+[08:14:14]   Loading filterscript 'gl_mapicon.amx'...
+[08:14:14]   Loading filterscript 'ls_elevator.amx'...
+[08:14:14]   Loading filterscript 'attachments.amx'...
+[08:14:14]   Loading filterscript 'skinchanger.amx'...
+[08:14:14] 
+--Admin Player Skin Changer Loaded
+
+[08:14:14]   Loading filterscript 'vspawner.amx'...
+[08:14:14] 
+--Admin Vehicle Spawner Loaded
+
+[08:14:14]   Loading filterscript 'ls_mall.amx'...
+[08:14:14]   Loading filterscript 'ls_beachside.amx'...
+[08:14:14] 
+
+[08:14:14]   |---------------------------------------------------
+[08:14:14]   |--- LS BeachSide Filterscript
+[08:14:14]   |--  Script v1.03
+[08:14:14]   |--  19th April 2015
+[08:14:14]   |---------------------------------------------------
+[08:14:14]   |--  LS BeachSide Building Elevator created
+[08:14:14]   |---------------------------------------------------
+[08:14:14]   Loaded 10 filterscripts.
+
+[08:14:14] ?? Conectado a MySQL correctamente.
+[08:14:14] Reading File: blank
+[08:14:14] Reading File: properties/houses.txt
+[08:14:14] Reading File: properties/businesses.txt
+[08:14:14] Reading File: properties/banks.txt
+[08:14:14] Reading File: properties/police.txt
+[08:14:14] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:14:14] Number of vehicle models: 0
+[08:14:36] [connection] incoming connection: 127.0.0.1:54370 id: 0
+[08:14:36] [join] David has joined the server (0:127.0.0.1)
+[08:16:29] [part] David has left the server (0:1)
+Console input: exit
+[08:16:33] --- Server Shutting Down.
+[08:16:33]   |--  LS BeachSide Building Elevator destroyed
+[08:16:33]   |---------------------------------------------------
+[08:16:33] 
+[08:16:33]  ===============================
+[08:16:33] 
+[08:16:33]      sscanf plugin unloaded.    
+[08:16:33] 
+[08:16:33]  ===============================
+[08:16:33] 
+[08:16:33] plugin.mysql: Unloading plugin...
+[08:16:33] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:20:55] 
+[08:20:55] Server Plugins
+[08:20:55] --------------
+[08:20:55]  Loading plugin: sscanf
+[08:20:55] 
+[08:20:55]  ===============================
+[08:20:55] 
+[08:20:55]       sscanf plugin loaded.     
+[08:20:55] 
+[08:20:55]          Version: 2.13.8
+[08:20:55] 
+[08:20:55]    (c) 2022 Alex "Y_Less" Cole  
+[08:20:55] 
+[08:20:55]  ===============================
+[08:20:55] 
+[08:20:55]   Loaded.
+[08:20:55]  Loading plugin: mysql
+[08:20:55]  >> plugin.mysql: R41-4 successfully loaded.
+[08:20:55]   Loaded.
+[08:20:55]  Loaded 2 plugins.
+
+[08:20:55] 
+[08:20:55] Filterscripts
+[08:20:55] ---------------
+[08:20:55]   Loading filterscript 'gl_actions.amx'...
+[08:20:55]   Loading filterscript 'gl_realtime.amx'...
+[08:20:55]   Loading filterscript 'gl_property.amx'...
+[08:20:55] 
+-----------------------------------
+[08:20:55] Grand Larceny Property Filterscript		
+[08:20:55] -----------------------------------
+
+[08:20:55]   Loading filterscript 'gl_mapicon.amx'...
+[08:20:55]   Loading filterscript 'ls_elevator.amx'...
+[08:20:55]   Loading filterscript 'attachments.amx'...
+[08:20:55]   Loading filterscript 'skinchanger.amx'...
+[08:20:55] 
+--Admin Player Skin Changer Loaded
+
+[08:20:55]   Loading filterscript 'vspawner.amx'...
+[08:20:55] 
+--Admin Vehicle Spawner Loaded
+
+[08:20:55]   Loading filterscript 'ls_mall.amx'...
+[08:20:55]   Loading filterscript 'ls_beachside.amx'...
+[08:20:55] 
+
+[08:20:55]   |---------------------------------------------------
+[08:20:55]   |--- LS BeachSide Filterscript
+[08:20:55]   |--  Script v1.03
+[08:20:55]   |--  19th April 2015
+[08:20:55]   |---------------------------------------------------
+[08:20:55]   |--  LS BeachSide Building Elevator created
+[08:20:55]   |---------------------------------------------------
+[08:20:55]   Loaded 10 filterscripts.
+
+[08:20:55] ?? Conectado a MySQL correctamente.
+[08:20:55] Reading File: blank
+[08:20:55] Reading File: properties/houses.txt
+[08:20:55] Reading File: properties/businesses.txt
+[08:20:55] Reading File: properties/banks.txt
+[08:20:55] Reading File: properties/police.txt
+[08:20:55] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:20:55] Number of vehicle models: 0
+[08:21:18] [connection] incoming connection: 127.0.0.1:56920 id: 0
+[08:21:18] [join] David has joined the server (0:127.0.0.1)
+[08:21:39] [part] David has left the server (0:1)
+Console input: exit
+[08:21:44] --- Server Shutting Down.
+[08:21:44]   |--  LS BeachSide Building Elevator destroyed
+[08:21:44]   |---------------------------------------------------
+[08:21:44] 
+[08:21:44]  ===============================
+[08:21:44] 
+[08:21:44]      sscanf plugin unloaded.    
+[08:21:44] 
+[08:21:44]  ===============================
+[08:21:44] 
+[08:21:44] plugin.mysql: Unloading plugin...
+[08:21:44] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:22:11] 
+[08:22:11] Server Plugins
+[08:22:11] --------------
+[08:22:11]  Loading plugin: sscanf
+[08:22:11] 
+[08:22:11]  ===============================
+[08:22:11] 
+[08:22:11]       sscanf plugin loaded.     
+[08:22:11] 
+[08:22:11]          Version: 2.13.8
+[08:22:11] 
+[08:22:11]    (c) 2022 Alex "Y_Less" Cole  
+[08:22:11] 
+[08:22:11]  ===============================
+[08:22:11] 
+[08:22:11]   Loaded.
+[08:22:11]  Loading plugin: mysql
+[08:22:11]  >> plugin.mysql: R41-4 successfully loaded.
+[08:22:11]   Loaded.
+[08:22:11]  Loaded 2 plugins.
+
+[08:22:11] 
+[08:22:11] Filterscripts
+[08:22:11] ---------------
+[08:22:11]   Loading filterscript 'gl_actions.amx'...
+[08:22:11]   Loading filterscript 'gl_realtime.amx'...
+[08:22:11]   Loading filterscript 'gl_property.amx'...
+[08:22:11] 
+-----------------------------------
+[08:22:11] Grand Larceny Property Filterscript		
+[08:22:11] -----------------------------------
+
+[08:22:11]   Loading filterscript 'gl_mapicon.amx'...
+[08:22:11]   Loading filterscript 'ls_elevator.amx'...
+[08:22:11]   Loading filterscript 'attachments.amx'...
+[08:22:11]   Loading filterscript 'skinchanger.amx'...
+[08:22:11] 
+--Admin Player Skin Changer Loaded
+
+[08:22:11]   Loading filterscript 'vspawner.amx'...
+[08:22:11] 
+--Admin Vehicle Spawner Loaded
+
+[08:22:11]   Loading filterscript 'ls_mall.amx'...
+[08:22:11]   Loading filterscript 'ls_beachside.amx'...
+[08:22:11] 
+
+[08:22:11]   |---------------------------------------------------
+[08:22:11]   |--- LS BeachSide Filterscript
+[08:22:11]   |--  Script v1.03
+[08:22:11]   |--  19th April 2015
+[08:22:11]   |---------------------------------------------------
+[08:22:11]   |--  LS BeachSide Building Elevator created
+[08:22:11]   |---------------------------------------------------
+[08:22:11]   Loaded 10 filterscripts.
+
+[08:22:11] ?? Conectado a MySQL correctamente.
+[08:22:11] Reading File: blank
+[08:22:11] Reading File: properties/houses.txt
+[08:22:11] Reading File: properties/businesses.txt
+[08:22:11] Reading File: properties/banks.txt
+[08:22:11] Reading File: properties/police.txt
+[08:22:11] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:22:11] Number of vehicle models: 0
+[08:22:32] [connection] incoming connection: 127.0.0.1:60771 id: 0
+[08:22:32] [join] David has joined the server (0:127.0.0.1)
+[08:23:48] [part] David has left the server (0:1)
+Console input: exit
+[08:23:52] --- Server Shutting Down.
+[08:23:52]   |--  LS BeachSide Building Elevator destroyed
+[08:23:52]   |---------------------------------------------------
+[08:23:52] 
+[08:23:52]  ===============================
+[08:23:52] 
+[08:23:52]      sscanf plugin unloaded.    
+[08:23:52] 
+[08:23:52]  ===============================
+[08:23:52] 
+[08:23:52] plugin.mysql: Unloading plugin...
+[08:23:52] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:37:15] 
+[08:37:15] Server Plugins
+[08:37:15] --------------
+[08:37:15]  Loading plugin: sscanf
+[08:37:15] 
+[08:37:15]  ===============================
+[08:37:15] 
+[08:37:15]       sscanf plugin loaded.     
+[08:37:15] 
+[08:37:15]          Version: 2.13.8
+[08:37:15] 
+[08:37:15]    (c) 2022 Alex "Y_Less" Cole  
+[08:37:15] 
+[08:37:15]  ===============================
+[08:37:15] 
+[08:37:15]   Loaded.
+[08:37:15]  Loading plugin: mysql
+[08:37:15]  >> plugin.mysql: R41-4 successfully loaded.
+[08:37:15]   Loaded.
+[08:37:15]  Loaded 2 plugins.
+
+[08:37:15] 
+[08:37:15] Filterscripts
+[08:37:15] ---------------
+[08:37:15]   Loading filterscript 'gl_actions.amx'...
+[08:37:15]   Loading filterscript 'gl_realtime.amx'...
+[08:37:15]   Loading filterscript 'gl_property.amx'...
+[08:37:15] 
+-----------------------------------
+[08:37:15] Grand Larceny Property Filterscript		
+[08:37:15] -----------------------------------
+
+[08:37:15]   Loading filterscript 'gl_mapicon.amx'...
+[08:37:15]   Loading filterscript 'ls_elevator.amx'...
+[08:37:15]   Loading filterscript 'attachments.amx'...
+[08:37:15]   Loading filterscript 'skinchanger.amx'...
+[08:37:15] 
+--Admin Player Skin Changer Loaded
+
+[08:37:15]   Loading filterscript 'vspawner.amx'...
+[08:37:15] 
+--Admin Vehicle Spawner Loaded
+
+[08:37:15]   Loading filterscript 'ls_mall.amx'...
+[08:37:15]   Loading filterscript 'ls_beachside.amx'...
+[08:37:15] 
+
+[08:37:15]   |---------------------------------------------------
+[08:37:15]   |--- LS BeachSide Filterscript
+[08:37:15]   |--  Script v1.03
+[08:37:15]   |--  19th April 2015
+[08:37:15]   |---------------------------------------------------
+[08:37:15]   |--  LS BeachSide Building Elevator created
+[08:37:15]   |---------------------------------------------------
+[08:37:15]   Loaded 10 filterscripts.
+
+[08:37:15] Conectado a MySQL correctamente.
+[08:37:15] Reading File: blank
+[08:37:15] Reading File: properties/houses.txt
+[08:37:15] Reading File: properties/businesses.txt
+[08:37:15] Reading File: properties/banks.txt
+[08:37:15] Reading File: properties/police.txt
+[08:37:15] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:37:15] Number of vehicle models: 0
+[08:37:38] [connection] incoming connection: 127.0.0.1:56499 id: 0
+[08:37:39] [join] David has joined the server (0:127.0.0.1)
+[08:40:54] [part] David has left the server (0:1)
+Console input: exit
+[08:40:58] --- Server Shutting Down.
+[08:40:58]   |--  LS BeachSide Building Elevator destroyed
+[08:40:58]   |---------------------------------------------------
+[08:40:58] 
+[08:40:58]  ===============================
+[08:40:58] 
+[08:40:58]      sscanf plugin unloaded.    
+[08:40:58] 
+[08:40:58]  ===============================
+[08:40:58] 
+[08:40:58] plugin.mysql: Unloading plugin...
+[08:40:58] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:41:01] 
+[08:41:01] Server Plugins
+[08:41:01] --------------
+[08:41:01]  Loading plugin: sscanf
+[08:41:01] 
+[08:41:01]  ===============================
+[08:41:01] 
+[08:41:01]       sscanf plugin loaded.     
+[08:41:01] 
+[08:41:01]          Version: 2.13.8
+[08:41:01] 
+[08:41:01]    (c) 2022 Alex "Y_Less" Cole  
+[08:41:01] 
+[08:41:01]  ===============================
+[08:41:01] 
+[08:41:01]   Loaded.
+[08:41:01]  Loading plugin: mysql
+[08:41:01]  >> plugin.mysql: R41-4 successfully loaded.
+[08:41:01]   Loaded.
+[08:41:01]  Loaded 2 plugins.
+
+[08:41:01] 
+[08:41:01] Filterscripts
+[08:41:01] ---------------
+[08:41:01]   Loading filterscript 'gl_actions.amx'...
+[08:41:01]   Loading filterscript 'gl_realtime.amx'...
+[08:41:01]   Loading filterscript 'gl_property.amx'...
+[08:41:01] 
+-----------------------------------
+[08:41:01] Grand Larceny Property Filterscript		
+[08:41:01] -----------------------------------
+
+[08:41:01]   Loading filterscript 'gl_mapicon.amx'...
+[08:41:01]   Loading filterscript 'ls_elevator.amx'...
+[08:41:01]   Loading filterscript 'attachments.amx'...
+[08:41:01]   Loading filterscript 'skinchanger.amx'...
+[08:41:01] 
+--Admin Player Skin Changer Loaded
+
+[08:41:01]   Loading filterscript 'vspawner.amx'...
+[08:41:01] 
+--Admin Vehicle Spawner Loaded
+
+[08:41:01]   Loading filterscript 'ls_mall.amx'...
+[08:41:01]   Loading filterscript 'ls_beachside.amx'...
+[08:41:01] 
+
+[08:41:01]   |---------------------------------------------------
+[08:41:01]   |--- LS BeachSide Filterscript
+[08:41:01]   |--  Script v1.03
+[08:41:01]   |--  19th April 2015
+[08:41:01]   |---------------------------------------------------
+[08:41:01]   |--  LS BeachSide Building Elevator created
+[08:41:01]   |---------------------------------------------------
+[08:41:01]   Loaded 10 filterscripts.
+
+[08:41:01] Conectado a MySQL correctamente.
+[08:41:01] Reading File: blank
+[08:41:01] Reading File: properties/houses.txt
+[08:41:01] Reading File: properties/businesses.txt
+[08:41:01] Reading File: properties/banks.txt
+[08:41:01] Reading File: properties/police.txt
+[08:41:01] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:41:01] Number of vehicle models: 0
+[08:41:25] [connection] incoming connection: 127.0.0.1:57152 id: 0
+[08:41:25] [join] David has joined the server (0:127.0.0.1)
+[08:42:12] [part] David has left the server (0:1)
+[08:42:32] [connection] incoming connection: 127.0.0.1:62973 id: 0
+[08:42:32] [join] David has joined the server (0:127.0.0.1)
+[08:43:10] [part] David has left the server (0:1)
+[08:43:31] [connection] incoming connection: 127.0.0.1:51644 id: 0
+[08:43:31] [join] David has joined the server (0:127.0.0.1)
+[08:43:49] [part] David has left the server (0:1)
+Console input: exit
+[08:43:53] --- Server Shutting Down.
+[08:43:53]   |--  LS BeachSide Building Elevator destroyed
+[08:43:53]   |---------------------------------------------------
+[08:43:53] 
+[08:43:53]  ===============================
+[08:43:53] 
+[08:43:53]      sscanf plugin unloaded.    
+[08:43:53] 
+[08:43:53]  ===============================
+[08:43:53] 
+[08:43:53] plugin.mysql: Unloading plugin...
+[08:43:53] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:58:23] 
+[08:58:23] Server Plugins
+[08:58:23] --------------
+[08:58:23]  Loading plugin: sscanf
+[08:58:23] 
+[08:58:23]  ===============================
+[08:58:23] 
+[08:58:23]       sscanf plugin loaded.     
+[08:58:23] 
+[08:58:23]          Version: 2.13.8
+[08:58:23] 
+[08:58:23]    (c) 2022 Alex "Y_Less" Cole  
+[08:58:23] 
+[08:58:23]  ===============================
+[08:58:23] 
+[08:58:23]   Loaded.
+[08:58:23]  Loading plugin: mysql
+[08:58:23]  >> plugin.mysql: R41-4 successfully loaded.
+[08:58:23]   Loaded.
+[08:58:23]  Loaded 2 plugins.
+
+[08:58:23] 
+[08:58:23] Filterscripts
+[08:58:23] ---------------
+[08:58:23]   Loading filterscript 'gl_actions.amx'...
+[08:58:23]   Loading filterscript 'gl_realtime.amx'...
+[08:58:23]   Loading filterscript 'gl_property.amx'...
+[08:58:23] 
+-----------------------------------
+[08:58:23] Grand Larceny Property Filterscript		
+[08:58:23] -----------------------------------
+
+[08:58:23]   Loading filterscript 'gl_mapicon.amx'...
+[08:58:23]   Loading filterscript 'ls_elevator.amx'...
+[08:58:23]   Loading filterscript 'attachments.amx'...
+[08:58:23]   Loading filterscript 'skinchanger.amx'...
+[08:58:23] 
+--Admin Player Skin Changer Loaded
+
+[08:58:23]   Loading filterscript 'vspawner.amx'...
+[08:58:23] 
+--Admin Vehicle Spawner Loaded
+
+[08:58:23]   Loading filterscript 'ls_mall.amx'...
+[08:58:23]   Loading filterscript 'ls_beachside.amx'...
+[08:58:23] 
+
+[08:58:23]   |---------------------------------------------------
+[08:58:23]   |--- LS BeachSide Filterscript
+[08:58:23]   |--  Script v1.03
+[08:58:23]   |--  19th April 2015
+[08:58:23]   |---------------------------------------------------
+[08:58:23]   |--  LS BeachSide Building Elevator created
+[08:58:23]   |---------------------------------------------------
+[08:58:23]   Loaded 10 filterscripts.
+
+[08:58:23] Conectado a MySQL correctamente.
+[08:58:23] Reading File: blank
+[08:58:23] Reading File: properties/houses.txt
+[08:58:23] Reading File: properties/businesses.txt
+[08:58:23] Reading File: properties/banks.txt
+[08:58:23] Reading File: properties/police.txt
+[08:58:23] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[08:58:23] Number of vehicle models: 0
+[08:58:45] [connection] incoming connection: 127.0.0.1:60736 id: 0
+[08:58:45] [join] David has joined the server (0:127.0.0.1)
+[08:59:15] [part] David has left the server (0:1)
+[08:59:36] [connection] incoming connection: 127.0.0.1:58888 id: 0
+[08:59:36] [join] David has joined the server (0:127.0.0.1)
+[09:00:00] [part] David has left the server (0:1)
+Console input: exit
+[09:03:03] --- Server Shutting Down.
+[09:03:03]   |--  LS BeachSide Building Elevator destroyed
+[09:03:03]   |---------------------------------------------------
+[09:03:03] 
+[09:03:03]  ===============================
+[09:03:03] 
+[09:03:03]      sscanf plugin unloaded.    
+[09:03:03] 
+[09:03:03]  ===============================
+[09:03:03] 
+[09:03:03] plugin.mysql: Unloading plugin...
+[09:03:03] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:08:03] 
+[09:08:03] Server Plugins
+[09:08:03] --------------
+[09:08:03]  Loading plugin: sscanf
+[09:08:03] 
+[09:08:03]  ===============================
+[09:08:03] 
+[09:08:03]       sscanf plugin loaded.     
+[09:08:03] 
+[09:08:03]          Version: 2.13.8
+[09:08:03] 
+[09:08:03]    (c) 2022 Alex "Y_Less" Cole  
+[09:08:03] 
+[09:08:03]  ===============================
+[09:08:03] 
+[09:08:03]   Loaded.
+[09:08:03]  Loading plugin: mysql
+[09:08:03]  >> plugin.mysql: R41-4 successfully loaded.
+[09:08:03]   Loaded.
+[09:08:03]  Loaded 2 plugins.
+
+[09:08:03] 
+[09:08:03] Filterscripts
+[09:08:03] ---------------
+[09:08:03]   Loading filterscript 'gl_actions.amx'...
+[09:08:03]   Loading filterscript 'gl_realtime.amx'...
+[09:08:03]   Loading filterscript 'gl_property.amx'...
+[09:08:03] 
+-----------------------------------
+[09:08:03] Grand Larceny Property Filterscript		
+[09:08:03] -----------------------------------
+
+[09:08:03]   Loading filterscript 'gl_mapicon.amx'...
+[09:08:03]   Loading filterscript 'ls_elevator.amx'...
+[09:08:03]   Loading filterscript 'attachments.amx'...
+[09:08:03]   Loading filterscript 'skinchanger.amx'...
+[09:08:03] 
+--Admin Player Skin Changer Loaded
+
+[09:08:03]   Loading filterscript 'vspawner.amx'...
+[09:08:03] 
+--Admin Vehicle Spawner Loaded
+
+[09:08:03]   Loading filterscript 'ls_mall.amx'...
+[09:08:03]   Loading filterscript 'ls_beachside.amx'...
+[09:08:03] 
+
+[09:08:03]   |---------------------------------------------------
+[09:08:03]   |--- LS BeachSide Filterscript
+[09:08:03]   |--  Script v1.03
+[09:08:03]   |--  19th April 2015
+[09:08:03]   |---------------------------------------------------
+[09:08:03]   |--  LS BeachSide Building Elevator created
+[09:08:03]   |---------------------------------------------------
+[09:08:03]   Loaded 10 filterscripts.
+
+[09:08:03] Conectado a MySQL correctamente.
+[09:08:03] Reading File: blank
+[09:08:03] Reading File: properties/houses.txt
+[09:08:03] Reading File: properties/businesses.txt
+[09:08:03] Reading File: properties/banks.txt
+[09:08:03] Reading File: properties/police.txt
+[09:08:03] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[09:08:03] Number of vehicle models: 0
+[09:08:24] [connection] incoming connection: 127.0.0.1:51884 id: 0
+[09:08:24] [join] David has joined the server (0:127.0.0.1)
+[09:09:21] [part] David has left the server (0:1)
+[09:09:41] [connection] incoming connection: 127.0.0.1:56160 id: 0
+[09:09:41] [join] David has joined the server (0:127.0.0.1)
+[09:09:52] [part] David has left the server (0:1)
+Console input: exit
+[09:09:59] --- Server Shutting Down.
+[09:09:59]   |--  LS BeachSide Building Elevator destroyed
+[09:09:59]   |---------------------------------------------------
+[09:09:59] 
+[09:09:59]  ===============================
+[09:09:59] 
+[09:09:59]      sscanf plugin unloaded.    
+[09:09:59] 
+[09:09:59]  ===============================
+[09:09:59] 
+[09:09:59] plugin.mysql: Unloading plugin...
+[09:09:59] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:11:35] 
+[09:11:35] Server Plugins
+[09:11:35] --------------
+[09:11:35]  Loading plugin: sscanf
+[09:11:35] 
+[09:11:35]  ===============================
+[09:11:35] 
+[09:11:35]       sscanf plugin loaded.     
+[09:11:35] 
+[09:11:35]          Version: 2.13.8
+[09:11:35] 
+[09:11:35]    (c) 2022 Alex "Y_Less" Cole  
+[09:11:35] 
+[09:11:35]  ===============================
+[09:11:35] 
+[09:11:35]   Loaded.
+[09:11:35]  Loading plugin: mysql
+[09:11:35]  >> plugin.mysql: R41-4 successfully loaded.
+[09:11:35]   Loaded.
+[09:11:35]  Loaded 2 plugins.
+
+[09:11:35] 
+[09:11:35] Filterscripts
+[09:11:35] ---------------
+[09:11:35]   Loading filterscript 'gl_actions.amx'...
+[09:11:35]   Loading filterscript 'gl_realtime.amx'...
+[09:11:35]   Loading filterscript 'gl_property.amx'...
+[09:11:35] 
+-----------------------------------
+[09:11:35] Grand Larceny Property Filterscript		
+[09:11:35] -----------------------------------
+
+[09:11:35]   Loading filterscript 'gl_mapicon.amx'...
+[09:11:35]   Loading filterscript 'ls_elevator.amx'...
+[09:11:35]   Loading filterscript 'attachments.amx'...
+[09:11:35]   Loading filterscript 'skinchanger.amx'...
+[09:11:35] 
+--Admin Player Skin Changer Loaded
+
+[09:11:35]   Loading filterscript 'vspawner.amx'...
+[09:11:35] 
+--Admin Vehicle Spawner Loaded
+
+[09:11:35]   Loading filterscript 'ls_mall.amx'...
+[09:11:35]   Loading filterscript 'ls_beachside.amx'...
+[09:11:35] 
+
+[09:11:35]   |---------------------------------------------------
+[09:11:35]   |--- LS BeachSide Filterscript
+[09:11:35]   |--  Script v1.03
+[09:11:35]   |--  19th April 2015
+[09:11:35]   |---------------------------------------------------
+[09:11:35]   |--  LS BeachSide Building Elevator created
+[09:11:35]   |---------------------------------------------------
+[09:11:35]   Loaded 10 filterscripts.
+
+[09:11:35] Conectado a MySQL correctamente.
+[09:11:35] Reading File: blank
+[09:11:35] Reading File: properties/houses.txt
+[09:11:35] Reading File: properties/businesses.txt
+[09:11:35] Reading File: properties/banks.txt
+[09:11:35] Reading File: properties/police.txt
+[09:11:35] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[09:11:35] Number of vehicle models: 0
+[09:11:54] [connection] incoming connection: 127.0.0.1:52763 id: 0
+[09:11:55] [join] David has joined the server (0:127.0.0.1)
+[09:12:30] [part] David has left the server (0:1)
+[09:12:50] [connection] incoming connection: 127.0.0.1:62460 id: 0
+[09:12:50] [join] David has joined the server (0:127.0.0.1)
+Console input: exit
+[09:15:35] --- Server Shutting Down.
+[09:15:35]   |--  LS BeachSide Building Elevator destroyed
+[09:15:35]   |---------------------------------------------------
+[09:15:35] [part] David has left the server (0:0)
+[09:15:35] 
+[09:15:35]  ===============================
+[09:15:35] 
+[09:15:35]      sscanf plugin unloaded.    
+[09:15:35] 
+[09:15:35]  ===============================
+[09:15:35] 
+[09:15:35] plugin.mysql: Unloading plugin...
+[09:15:35] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:15:50] 
+[09:15:50] Server Plugins
+[09:15:50] --------------
+[09:15:50]  Loading plugin: sscanf
+[09:15:50] 
+[09:15:50]  ===============================
+[09:15:50] 
+[09:15:50]       sscanf plugin loaded.     
+[09:15:50] 
+[09:15:50]          Version: 2.13.8
+[09:15:50] 
+[09:15:50]    (c) 2022 Alex "Y_Less" Cole  
+[09:15:50] 
+[09:15:50]  ===============================
+[09:15:50] 
+[09:15:50]   Loaded.
+[09:15:50]  Loading plugin: mysql
+[09:15:50]  >> plugin.mysql: R41-4 successfully loaded.
+[09:15:50]   Loaded.
+[09:15:50]  Loaded 2 plugins.
+
+[09:15:50] 
+[09:15:50] Filterscripts
+[09:15:50] ---------------
+[09:15:50]   Loading filterscript 'gl_actions.amx'...
+[09:15:50]   Loading filterscript 'gl_realtime.amx'...
+[09:15:50]   Loading filterscript 'gl_property.amx'...
+[09:15:50] 
+-----------------------------------
+[09:15:50] Grand Larceny Property Filterscript		
+[09:15:50] -----------------------------------
+
+[09:15:50]   Loading filterscript 'gl_mapicon.amx'...
+[09:15:50]   Loading filterscript 'ls_elevator.amx'...
+[09:15:50]   Loading filterscript 'attachments.amx'...
+[09:15:50]   Loading filterscript 'skinchanger.amx'...
+[09:15:50] 
+--Admin Player Skin Changer Loaded
+
+[09:15:50]   Loading filterscript 'vspawner.amx'...
+[09:15:50] 
+--Admin Vehicle Spawner Loaded
+
+[09:15:50]   Loading filterscript 'ls_mall.amx'...
+[09:15:50]   Loading filterscript 'ls_beachside.amx'...
+[09:15:50] 
+
+[09:15:50]   |---------------------------------------------------
+[09:15:50]   |--- LS BeachSide Filterscript
+[09:15:50]   |--  Script v1.03
+[09:15:50]   |--  19th April 2015
+[09:15:50]   |---------------------------------------------------
+[09:15:50]   |--  LS BeachSide Building Elevator created
+[09:15:50]   |---------------------------------------------------
+[09:15:50]   Loaded 10 filterscripts.
+
+[09:15:51] Conectado a MySQL correctamente.
+[09:15:51] Reading File: blank
+[09:15:51] Reading File: properties/houses.txt
+[09:15:51] Reading File: properties/businesses.txt
+[09:15:51] Reading File: properties/banks.txt
+[09:15:51] Reading File: properties/police.txt
+[09:15:51] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[09:15:51] Number of vehicle models: 0
+Console input: exit
+[09:15:52] --- Server Shutting Down.
+[09:15:52]   |--  LS BeachSide Building Elevator destroyed
+[09:15:52]   |---------------------------------------------------
+[09:15:52] 
+[09:15:52]  ===============================
+[09:15:52] 
+[09:15:52]      sscanf plugin unloaded.    
+[09:15:52] 
+[09:15:52]  ===============================
+[09:15:52] 
+[09:15:52] plugin.mysql: Unloading plugin...
+[09:15:52] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:40:32] 
+[09:40:32] Server Plugins
+[09:40:32] --------------
+[09:40:32]  Loading plugin: sscanf
+[09:40:32] 
+[09:40:32]  ===============================
+[09:40:32] 
+[09:40:32]       sscanf plugin loaded.     
+[09:40:32] 
+[09:40:32]          Version: 2.13.8
+[09:40:32] 
+[09:40:32]    (c) 2022 Alex "Y_Less" Cole  
+[09:40:32] 
+[09:40:32]  ===============================
+[09:40:32] 
+[09:40:32]   Loaded.
+[09:40:32]  Loading plugin: mysql
+[09:40:32]  >> plugin.mysql: R41-4 successfully loaded.
+[09:40:32]   Loaded.
+[09:40:32]  Loaded 2 plugins.
+
+[09:40:32] 
+[09:40:32] Filterscripts
+[09:40:32] ---------------
+[09:40:32]   Loading filterscript 'gl_actions.amx'...
+[09:40:32]   Loading filterscript 'gl_realtime.amx'...
+[09:40:32]   Loading filterscript 'gl_property.amx'...
+[09:40:32] 
+-----------------------------------
+[09:40:32] Grand Larceny Property Filterscript		
+[09:40:32] -----------------------------------
+
+[09:40:32]   Loading filterscript 'gl_mapicon.amx'...
+[09:40:32]   Loading filterscript 'ls_elevator.amx'...
+[09:40:32]   Loading filterscript 'attachments.amx'...
+[09:40:32]   Loading filterscript 'skinchanger.amx'...
+[09:40:32] 
+--Admin Player Skin Changer Loaded
+
+[09:40:32]   Loading filterscript 'vspawner.amx'...
+[09:40:32] 
+--Admin Vehicle Spawner Loaded
+
+[09:40:32]   Loading filterscript 'ls_mall.amx'...
+[09:40:32]   Loading filterscript 'ls_beachside.amx'...
+[09:40:32] 
+
+[09:40:32]   |---------------------------------------------------
+[09:40:32]   |--- LS BeachSide Filterscript
+[09:40:32]   |--  Script v1.03
+[09:40:32]   |--  19th April 2015
+[09:40:32]   |---------------------------------------------------
+[09:40:32]   |--  LS BeachSide Building Elevator created
+[09:40:32]   |---------------------------------------------------
+[09:40:32]   Loaded 10 filterscripts.
+
+[09:40:32] Conectado a MySQL correctamente.
+[09:40:32] Reading File: blank
+[09:40:32] Reading File: properties/houses.txt
+[09:40:32] Reading File: properties/businesses.txt
+[09:40:32] Reading File: properties/banks.txt
+[09:40:32] Reading File: properties/police.txt
+[09:40:32] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[09:40:32] Number of vehicle models: 0
+[09:40:53] [connection] incoming connection: 127.0.0.1:57020 id: 0
+[09:40:54] [join] David has joined the server (0:127.0.0.1)
+[09:50:19] [part] David has left the server (0:1)
+Console input: exit
+[15:14:36] --- Server Shutting Down.
+[15:14:36]   |--  LS BeachSide Building Elevator destroyed
+[15:14:36]   |---------------------------------------------------
+[15:14:36] 
+[15:14:36]  ===============================
+[15:14:36] 
+[15:14:36]      sscanf plugin unloaded.    
+[15:14:36] 
+[15:14:36]  ===============================
+[15:14:36] 
+[15:14:36] plugin.mysql: Unloading plugin...
+[15:14:37] plugin.mysql: Plugin unloaded.
