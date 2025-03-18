@@ -1,2 +1,10 @@
-# servidorSamp
-Este es un proyecto de crear un servidor de GTA:SAMP, es un proyecto para ir avanzando poco a poco en la creación y modificación de las funciones, hasta tenerlo avanzado.
+# GM Samp
+
+Esta es un proyecto para la creación de un servidor de gta samp, conectado con mysql, cuenta con login register y actualizaciones frecuentes para incorporar funcionalidades.
+
+(Este es un proyecto que inicié para practicar un nuevo lenguaje y experimentar algo nuevo.)
+
+
+## Autores
+
+- [@Andres Benavidez](https://www.github.com/andresdbenavidez)

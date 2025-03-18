@@ -6656,3 +6656,16 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [23:29:37] [connection] incoming connection: 127.0.0.1:52784 id: 0
 [23:29:37] [join] Juli has joined the server (0:127.0.0.1)
 [08:24:37] [part] Juli has left the server (0:2)
+Console input: exit
+[08:34:36] --- Server Shutting Down.
+[08:34:36]   |--  LS BeachSide Building Elevator destroyed
+[08:34:36]   |---------------------------------------------------
+[08:34:36] 
+[08:34:36]  ===============================
+[08:34:36] 
+[08:34:36]      sscanf plugin unloaded.    
+[08:34:36] 
+[08:34:36]  ===============================
+[08:34:36] 
+[08:34:36] plugin.mysql: Unloading plugin...
+[08:34:36] plugin.mysql: Plugin unloaded.
