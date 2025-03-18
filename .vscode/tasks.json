@@ -4,7 +4,7 @@
         {
             "label": "Compile Pawn",
             "type": "shell",
-            "command": "C:\\Users\\Asus\\Downloads\\samp037_svr_R2-2-1_win32\\pawno\\pawncc.exe",
+            "command": "C:\\xampp\\htdocs\\servidorSamp\\pawno\\pawncc.exe",
             "args": [
                 "${file}",
                 "-o${fileDirname}\\${fileBasenameNoExtension}.amx",

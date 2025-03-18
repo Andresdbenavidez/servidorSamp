@@ -3996,3 +3996,2663 @@ Console input: exit
 [15:14:36] 
 [15:14:36] plugin.mysql: Unloading plugin...
 [15:14:37] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:41:51] 
+[15:41:51] Server Plugins
+[15:41:51] --------------
+[15:41:51]  Loading plugin: sscanf
+[15:41:51] 
+[15:41:51]  ===============================
+[15:41:51] 
+[15:41:51]       sscanf plugin loaded.     
+[15:41:51] 
+[15:41:51]          Version: 2.13.8
+[15:41:51] 
+[15:41:51]    (c) 2022 Alex "Y_Less" Cole  
+[15:41:51] 
+[15:41:51]  ===============================
+[15:41:51] 
+[15:41:51]   Loaded.
+[15:41:51]  Loading plugin: mysql
+[15:41:51]  >> plugin.mysql: R41-4 successfully loaded.
+[15:41:51]   Loaded.
+[15:41:51]  Loaded 2 plugins.
+
+[15:41:51] 
+[15:41:51] Filterscripts
+[15:41:51] ---------------
+[15:41:51]   Loading filterscript 'gl_actions.amx'...
+[15:41:52]   Loading filterscript 'gl_realtime.amx'...
+[15:41:52]   Loading filterscript 'gl_property.amx'...
+[15:41:52] 
+-----------------------------------
+[15:41:52] Grand Larceny Property Filterscript		
+[15:41:52] -----------------------------------
+
+[15:41:52]   Loading filterscript 'gl_mapicon.amx'...
+[15:41:52]   Loading filterscript 'ls_elevator.amx'...
+[15:41:52]   Loading filterscript 'attachments.amx'...
+[15:41:52]   Loading filterscript 'skinchanger.amx'...
+[15:41:52] 
+--Admin Player Skin Changer Loaded
+
+[15:41:52]   Loading filterscript 'vspawner.amx'...
+[15:41:52] 
+--Admin Vehicle Spawner Loaded
+
+[15:41:52]   Loading filterscript 'ls_mall.amx'...
+[15:41:52]   Loading filterscript 'ls_beachside.amx'...
+[15:41:52] 
+
+[15:41:52]   |---------------------------------------------------
+[15:41:52]   |--- LS BeachSide Filterscript
+[15:41:52]   |--  Script v1.03
+[15:41:52]   |--  19th April 2015
+[15:41:52]   |---------------------------------------------------
+[15:41:52]   |--  LS BeachSide Building Elevator created
+[15:41:52]   |---------------------------------------------------
+[15:41:52]   Loaded 10 filterscripts.
+
+[15:41:52] Conectado a MySQL correctamente.
+[15:41:52] Reading File: blank
+[15:41:52] Reading File: properties/houses.txt
+[15:41:52] Reading File: properties/businesses.txt
+[15:41:52] Reading File: properties/banks.txt
+[15:41:52] Reading File: properties/police.txt
+[15:41:52] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:41:52] Number of vehicle models: 0
+[15:43:26] [connection] incoming connection: 127.0.0.1:49666 id: 0
+[15:43:26] [join] David has joined the server (0:127.0.0.1)
+[15:44:04] [part] David has left the server (0:1)
+Console input: exit
+[15:44:09] --- Server Shutting Down.
+[15:44:09]   |--  LS BeachSide Building Elevator destroyed
+[15:44:09]   |---------------------------------------------------
+[15:44:09] 
+[15:44:09]  ===============================
+[15:44:09] 
+[15:44:09]      sscanf plugin unloaded.    
+[15:44:09] 
+[15:44:09]  ===============================
+[15:44:09] 
+[15:44:09] plugin.mysql: Unloading plugin...
+[15:44:09] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:47:29] 
+[17:47:29] Server Plugins
+[17:47:29] --------------
+[17:47:29]  Loading plugin: sscanf
+[17:47:29] 
+[17:47:29]  ===============================
+[17:47:29] 
+[17:47:29]       sscanf plugin loaded.     
+[17:47:29] 
+[17:47:29]          Version: 2.13.8
+[17:47:29] 
+[17:47:29]    (c) 2022 Alex "Y_Less" Cole  
+[17:47:29] 
+[17:47:29]  ===============================
+[17:47:29] 
+[17:47:29]   Loaded.
+[17:47:29]  Loading plugin: mysql
+[17:47:29]  >> plugin.mysql: R41-4 successfully loaded.
+[17:47:29]   Loaded.
+[17:47:29]  Loaded 2 plugins.
+
+[17:47:29] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:47:29] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:47:32] 
+[17:47:32] Server Plugins
+[17:47:32] --------------
+[17:47:32]  Loading plugin: sscanf
+[17:47:32] 
+[17:47:32]  ===============================
+[17:47:32] 
+[17:47:32]       sscanf plugin loaded.     
+[17:47:32] 
+[17:47:32]          Version: 2.13.8
+[17:47:32] 
+[17:47:32]    (c) 2022 Alex "Y_Less" Cole  
+[17:47:32] 
+[17:47:32]  ===============================
+[17:47:32] 
+[17:47:32]   Loaded.
+[17:47:32]  Loading plugin: mysql
+[17:47:32]  >> plugin.mysql: R41-4 successfully loaded.
+[17:47:32]   Loaded.
+[17:47:32]  Loaded 2 plugins.
+
+[17:47:32] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:47:32] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:47:34] 
+[17:47:34] Server Plugins
+[17:47:34] --------------
+[17:47:34]  Loading plugin: sscanf
+[17:47:34] 
+[17:47:34]  ===============================
+[17:47:34] 
+[17:47:34]       sscanf plugin loaded.     
+[17:47:34] 
+[17:47:34]          Version: 2.13.8
+[17:47:34] 
+[17:47:34]    (c) 2022 Alex "Y_Less" Cole  
+[17:47:34] 
+[17:47:34]  ===============================
+[17:47:34] 
+[17:47:34]   Loaded.
+[17:47:34]  Loading plugin: mysql
+[17:47:34]  >> plugin.mysql: R41-4 successfully loaded.
+[17:47:34]   Loaded.
+[17:47:34]  Loaded 2 plugins.
+
+[17:47:34] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:47:34] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:48:24] 
+[17:48:24] Server Plugins
+[17:48:24] --------------
+[17:48:24]  Loading plugin: sscanf
+[17:48:24] 
+[17:48:24]  ===============================
+[17:48:24] 
+[17:48:24]       sscanf plugin loaded.     
+[17:48:24] 
+[17:48:24]          Version: 2.13.8
+[17:48:24] 
+[17:48:24]    (c) 2022 Alex "Y_Less" Cole  
+[17:48:24] 
+[17:48:24]  ===============================
+[17:48:24] 
+[17:48:24]   Loaded.
+[17:48:24]  Loading plugin: mysql
+[17:48:24]  >> plugin.mysql: R41-4 successfully loaded.
+[17:48:24]   Loaded.
+[17:48:24]  Loaded 2 plugins.
+
+[17:48:24] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:48:24] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:48:28] 
+[17:48:28] Server Plugins
+[17:48:28] --------------
+[17:48:28]  Loading plugin: sscanf
+[17:48:29] 
+[17:48:29]  ===============================
+[17:48:29] 
+[17:48:29]       sscanf plugin loaded.     
+[17:48:29] 
+[17:48:29]          Version: 2.13.8
+[17:48:29] 
+[17:48:29]    (c) 2022 Alex "Y_Less" Cole  
+[17:48:29] 
+[17:48:29]  ===============================
+[17:48:29] 
+[17:48:29]   Loaded.
+[17:48:29]  Loading plugin: mysql
+[17:48:29]  >> plugin.mysql: R41-4 successfully loaded.
+[17:48:29]   Loaded.
+[17:48:29]  Loaded 2 plugins.
+
+[17:48:29] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:48:29] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:49:33] 
+[17:49:33] Server Plugins
+[17:49:33] --------------
+[17:49:33]  Loading plugin: sscanf
+[17:49:33] 
+[17:49:33]  ===============================
+[17:49:33] 
+[17:49:33]       sscanf plugin loaded.     
+[17:49:33] 
+[17:49:33]          Version: 2.13.8
+[17:49:33] 
+[17:49:33]    (c) 2022 Alex "Y_Less" Cole  
+[17:49:33] 
+[17:49:33]  ===============================
+[17:49:33] 
+[17:49:33]   Loaded.
+[17:49:33]  Loading plugin: mysql
+[17:49:33]  >> plugin.mysql: R41-4 successfully loaded.
+[17:49:33]   Loaded.
+[17:49:33]  Loaded 2 plugins.
+
+[17:49:33] 
+[17:49:33] Filterscripts
+[17:49:33] ---------------
+[17:49:33]   Loading filterscript 'gl_actions.amx'...
+[17:49:33]   Loading filterscript 'gl_realtime.amx'...
+[17:49:33]   Loading filterscript 'gl_property.amx'...
+[17:49:33] 
+-----------------------------------
+[17:49:33] Grand Larceny Property Filterscript		
+[17:49:33] -----------------------------------
+
+[17:49:33]   Loading filterscript 'gl_mapicon.amx'...
+[17:49:33]   Loading filterscript 'ls_elevator.amx'...
+[17:49:33]   Loading filterscript 'attachments.amx'...
+[17:49:33]   Loading filterscript 'skinchanger.amx'...
+[17:49:33] 
+--Admin Player Skin Changer Loaded
+
+[17:49:33]   Loading filterscript 'vspawner.amx'...
+[17:49:33] 
+--Admin Vehicle Spawner Loaded
+
+[17:49:33]   Loading filterscript 'ls_mall.amx'...
+[17:49:33]   Loading filterscript 'ls_beachside.amx'...
+[17:49:33] 
+
+[17:49:33]   |---------------------------------------------------
+[17:49:33]   |--- LS BeachSide Filterscript
+[17:49:33]   |--  Script v1.03
+[17:49:33]   |--  19th April 2015
+[17:49:33]   |---------------------------------------------------
+[17:49:33]   |--  LS BeachSide Building Elevator created
+[17:49:33]   |---------------------------------------------------
+[17:49:33]   Loaded 10 filterscripts.
+
+[17:49:33] Conectado a MySQL correctamente.
+[17:49:33] Reading File: blank
+[17:49:33] Reading File: properties/houses.txt
+[17:49:33] Reading File: properties/businesses.txt
+[17:49:33] Reading File: properties/banks.txt
+[17:49:33] Reading File: properties/police.txt
+[17:49:33] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:49:33] Number of vehicle models: 0
+[17:50:38] [connection] incoming connection: 127.0.0.1:57435 id: 0
+[17:50:38] [join] David has joined the server (0:127.0.0.1)
+[17:51:55] [part] David has left the server (0:1)
+[17:53:27] [connection] incoming connection: 127.0.0.1:54865 id: 0
+[17:53:28] [join] David has joined the server (0:127.0.0.1)
+[17:56:41] [part] David has left the server (0:1)
+Console input: exit
+[17:56:54] --- Server Shutting Down.
+[17:56:54]   |--  LS BeachSide Building Elevator destroyed
+[17:56:54]   |---------------------------------------------------
+[17:56:54] 
+[17:56:54]  ===============================
+[17:56:54] 
+[17:56:54]      sscanf plugin unloaded.    
+[17:56:54] 
+[17:56:54]  ===============================
+[17:56:54] 
+[17:56:54] plugin.mysql: Unloading plugin...
+[17:56:54] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:01:14] 
+[18:01:14] Server Plugins
+[18:01:14] --------------
+[18:01:14]  Loading plugin: sscanf
+[18:01:14] 
+[18:01:14]  ===============================
+[18:01:14] 
+[18:01:14]       sscanf plugin loaded.     
+[18:01:14] 
+[18:01:14]          Version: 2.13.8
+[18:01:14] 
+[18:01:14]    (c) 2022 Alex "Y_Less" Cole  
+[18:01:14] 
+[18:01:14]  ===============================
+[18:01:14] 
+[18:01:14]   Loaded.
+[18:01:14]  Loading plugin: mysql
+[18:01:14]  >> plugin.mysql: R41-4 successfully loaded.
+[18:01:14]   Loaded.
+[18:01:14]  Loaded 2 plugins.
+
+[18:01:14] 
+[18:01:14] Filterscripts
+[18:01:14] ---------------
+[18:01:14]   Loading filterscript 'gl_actions.amx'...
+[18:01:14]   Loading filterscript 'gl_realtime.amx'...
+[18:01:14]   Loading filterscript 'gl_property.amx'...
+[18:01:14] 
+-----------------------------------
+[18:01:14] Grand Larceny Property Filterscript		
+[18:01:14] -----------------------------------
+
+[18:01:14]   Loading filterscript 'gl_mapicon.amx'...
+[18:01:14]   Loading filterscript 'ls_elevator.amx'...
+[18:01:14]   Loading filterscript 'attachments.amx'...
+[18:01:14]   Loading filterscript 'skinchanger.amx'...
+[18:01:14] 
+--Admin Player Skin Changer Loaded
+
+[18:01:14]   Loading filterscript 'vspawner.amx'...
+[18:01:14] 
+--Admin Vehicle Spawner Loaded
+
+[18:01:14]   Loading filterscript 'ls_mall.amx'...
+[18:01:14]   Loading filterscript 'ls_beachside.amx'...
+[18:01:14] 
+
+[18:01:14]   |---------------------------------------------------
+[18:01:14]   |--- LS BeachSide Filterscript
+[18:01:14]   |--  Script v1.03
+[18:01:14]   |--  19th April 2015
+[18:01:14]   |---------------------------------------------------
+[18:01:14]   |--  LS BeachSide Building Elevator created
+[18:01:14]   |---------------------------------------------------
+[18:01:14]   Loaded 10 filterscripts.
+
+[18:01:14] Conectado a MySQL correctamente.
+[18:01:14] Reading File: blank
+[18:01:14] Reading File: properties/houses.txt
+[18:01:14] Reading File: properties/businesses.txt
+[18:01:14] Reading File: properties/banks.txt
+[18:01:14] Reading File: properties/police.txt
+[18:01:14] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:01:14] Number of vehicle models: 0
+[18:01:51] [connection] incoming connection: 127.0.0.1:53375 id: 0
+[18:01:51] [join] Juli has joined the server (0:127.0.0.1)
+[18:03:06] [part] Juli has left the server (0:1)
+[18:03:59] [connection] incoming connection: 127.0.0.1:53992 id: 0
+[18:03:59] [join] Juli has joined the server (0:127.0.0.1)
+[18:39:33] [part] Juli has left the server (0:1)
+[18:40:41] [connection] incoming connection: 127.0.0.1:58360 id: 0
+[18:40:42] [join] Juli has joined the server (0:127.0.0.1)
+[18:44:24] [part] Juli has left the server (0:1)
+Console input: exit
+[18:46:45] --- Server Shutting Down.
+[18:46:45]   |--  LS BeachSide Building Elevator destroyed
+[18:46:45]   |---------------------------------------------------
+[18:46:45] 
+[18:46:45]  ===============================
+[18:46:45] 
+[18:46:45]      sscanf plugin unloaded.    
+[18:46:45] 
+[18:46:45]  ===============================
+[18:46:45] 
+[18:46:45] plugin.mysql: Unloading plugin...
+[18:46:45] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:08:34] 
+[19:08:34] Server Plugins
+[19:08:34] --------------
+[19:08:34]  Loading plugin: sscanf
+[19:08:34] 
+[19:08:34]  ===============================
+[19:08:34] 
+[19:08:34]       sscanf plugin loaded.     
+[19:08:34] 
+[19:08:34]          Version: 2.13.8
+[19:08:34] 
+[19:08:34]    (c) 2022 Alex "Y_Less" Cole  
+[19:08:34] 
+[19:08:34]  ===============================
+[19:08:34] 
+[19:08:34]   Loaded.
+[19:08:34]  Loading plugin: mysql
+[19:08:34]  >> plugin.mysql: R41-4 successfully loaded.
+[19:08:34]   Loaded.
+[19:08:34]  Loaded 2 plugins.
+
+[19:08:34] 
+[19:08:34] Filterscripts
+[19:08:34] ---------------
+[19:08:34]   Loading filterscript 'gl_actions.amx'...
+[19:08:34]   Loading filterscript 'gl_realtime.amx'...
+[19:08:34]   Loading filterscript 'gl_property.amx'...
+[19:08:34] 
+-----------------------------------
+[19:08:34] Grand Larceny Property Filterscript		
+[19:08:34] -----------------------------------
+
+[19:08:34]   Loading filterscript 'gl_mapicon.amx'...
+[19:08:34]   Loading filterscript 'ls_elevator.amx'...
+[19:08:34]   Loading filterscript 'attachments.amx'...
+[19:08:34]   Loading filterscript 'skinchanger.amx'...
+[19:08:34] 
+--Admin Player Skin Changer Loaded
+
+[19:08:34]   Loading filterscript 'vspawner.amx'...
+[19:08:34] 
+--Admin Vehicle Spawner Loaded
+
+[19:08:34]   Loading filterscript 'ls_mall.amx'...
+[19:08:34]   Loading filterscript 'ls_beachside.amx'...
+[19:08:34] 
+
+[19:08:34]   |---------------------------------------------------
+[19:08:34]   |--- LS BeachSide Filterscript
+[19:08:34]   |--  Script v1.03
+[19:08:34]   |--  19th April 2015
+[19:08:34]   |---------------------------------------------------
+[19:08:34]   |--  LS BeachSide Building Elevator created
+[19:08:34]   |---------------------------------------------------
+[19:08:34]   Loaded 10 filterscripts.
+
+[19:08:34] Gamemode iniciado.
+[19:08:34] Conectado a MySQL correctamente.
+[19:08:34] Reading File: blank
+[19:08:34] Reading File: properties/houses.txt
+[19:08:34] Reading File: properties/businesses.txt
+[19:08:34] Reading File: properties/banks.txt
+[19:08:34] Reading File: properties/police.txt
+[19:08:34] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[19:08:34] Number of vehicle models: 0
+[19:08:56] [connection] incoming connection: 127.0.0.1:56704 id: 0
+[19:08:57] [join] Juli has joined the server (0:127.0.0.1)
+[19:09:46] [part] Juli has left the server (0:1)
+Console input: exit
+[19:09:51] --- Server Shutting Down.
+[19:09:51]   |--  LS BeachSide Building Elevator destroyed
+[19:09:51]   |---------------------------------------------------
+[19:09:51] 
+[19:09:51]  ===============================
+[19:09:51] 
+[19:09:51]      sscanf plugin unloaded.    
+[19:09:51] 
+[19:09:51]  ===============================
+[19:09:51] 
+[19:09:51] plugin.mysql: Unloading plugin...
+[19:09:51] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:41:32] 
+[20:41:32] Server Plugins
+[20:41:32] --------------
+[20:41:32]  Loading plugin: sscanf
+[20:41:32] 
+[20:41:32]  ===============================
+[20:41:32] 
+[20:41:32]       sscanf plugin loaded.     
+[20:41:32] 
+[20:41:32]          Version: 2.13.8
+[20:41:32] 
+[20:41:32]    (c) 2022 Alex "Y_Less" Cole  
+[20:41:32] 
+[20:41:32]  ===============================
+[20:41:32] 
+[20:41:32]   Loaded.
+[20:41:32]  Loading plugin: mysql
+[20:41:32]  >> plugin.mysql: R41-4 successfully loaded.
+[20:41:32]   Loaded.
+[20:41:32]  Loaded 2 plugins.
+
+[20:41:32] 
+[20:41:32] Filterscripts
+[20:41:32] ---------------
+[20:41:32]   Loading filterscript 'gl_actions.amx'...
+[20:41:33]   Loading filterscript 'gl_realtime.amx'...
+[20:41:33]   Loading filterscript 'gl_property.amx'...
+[20:41:33] 
+-----------------------------------
+[20:41:33] Grand Larceny Property Filterscript		
+[20:41:33] -----------------------------------
+
+[20:41:33]   Loading filterscript 'gl_mapicon.amx'...
+[20:41:33]   Loading filterscript 'ls_elevator.amx'...
+[20:41:33]   Loading filterscript 'attachments.amx'...
+[20:41:33]   Loading filterscript 'skinchanger.amx'...
+[20:41:33] 
+--Admin Player Skin Changer Loaded
+
+[20:41:33]   Loading filterscript 'vspawner.amx'...
+[20:41:33] 
+--Admin Vehicle Spawner Loaded
+
+[20:41:33]   Loading filterscript 'ls_mall.amx'...
+[20:41:33]   Loading filterscript 'ls_beachside.amx'...
+[20:41:33] 
+
+[20:41:33]   |---------------------------------------------------
+[20:41:33]   |--- LS BeachSide Filterscript
+[20:41:33]   |--  Script v1.03
+[20:41:33]   |--  19th April 2015
+[20:41:33]   |---------------------------------------------------
+[20:41:33]   |--  LS BeachSide Building Elevator created
+[20:41:33]   |---------------------------------------------------
+[20:41:33]   Loaded 10 filterscripts.
+
+[20:41:33] Reading File: blank
+[20:41:33] Reading File: properties/houses.txt
+[20:41:33] Reading File: properties/businesses.txt
+[20:41:33] Reading File: properties/banks.txt
+[20:41:33] Reading File: properties/police.txt
+[20:41:33] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[20:41:33] Number of vehicle models: 0
+[20:41:54] [connection] incoming connection: 127.0.0.1:61169 id: 0
+[20:41:54] [join] Juli has joined the server (0:127.0.0.1)
+[20:42:09] [part] Juli has left the server (0:1)
+Console input: exit
+[20:42:14] --- Server Shutting Down.
+[20:42:14]   |--  LS BeachSide Building Elevator destroyed
+[20:42:14]   |---------------------------------------------------
+[20:42:14] 
+[20:42:14]  ===============================
+[20:42:14] 
+[20:42:14]      sscanf plugin unloaded.    
+[20:42:14] 
+[20:42:14]  ===============================
+[20:42:14] 
+[20:42:14] plugin.mysql: Unloading plugin...
+[20:42:14] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:51:35] 
+[20:51:35] Server Plugins
+[20:51:35] --------------
+[20:51:35]  Loading plugin: sscanf
+[20:51:35] 
+[20:51:35]  ===============================
+[20:51:35] 
+[20:51:35]       sscanf plugin loaded.     
+[20:51:35] 
+[20:51:35]          Version: 2.13.8
+[20:51:35] 
+[20:51:35]    (c) 2022 Alex "Y_Less" Cole  
+[20:51:35] 
+[20:51:35]  ===============================
+[20:51:35] 
+[20:51:35]   Loaded.
+[20:51:35]  Loading plugin: mysql
+[20:51:35]  >> plugin.mysql: R41-4 successfully loaded.
+[20:51:35]   Loaded.
+[20:51:35]  Loaded 2 plugins.
+
+[20:51:35] 
+[20:51:35] Filterscripts
+[20:51:35] ---------------
+[20:51:35]   Loading filterscript 'gl_actions.amx'...
+[20:51:35]   Loading filterscript 'gl_realtime.amx'...
+[20:51:35]   Loading filterscript 'gl_property.amx'...
+[20:51:35] 
+-----------------------------------
+[20:51:35] Grand Larceny Property Filterscript		
+[20:51:35] -----------------------------------
+
+[20:51:35]   Loading filterscript 'gl_mapicon.amx'...
+[20:51:35]   Loading filterscript 'ls_elevator.amx'...
+[20:51:35]   Loading filterscript 'attachments.amx'...
+[20:51:35]   Loading filterscript 'skinchanger.amx'...
+[20:51:35] 
+--Admin Player Skin Changer Loaded
+
+[20:51:35]   Loading filterscript 'vspawner.amx'...
+[20:51:35] 
+--Admin Vehicle Spawner Loaded
+
+[20:51:35]   Loading filterscript 'ls_mall.amx'...
+[20:51:35]   Loading filterscript 'ls_beachside.amx'...
+[20:51:35] 
+
+[20:51:35]   |---------------------------------------------------
+[20:51:35]   |--- LS BeachSide Filterscript
+[20:51:35]   |--  Script v1.03
+[20:51:35]   |--  19th April 2015
+[20:51:35]   |---------------------------------------------------
+[20:51:35]   |--  LS BeachSide Building Elevator created
+[20:51:35]   |---------------------------------------------------
+[20:51:35]   Loaded 10 filterscripts.
+
+[20:51:35] Reading File: blank
+[20:51:35] Reading File: properties/houses.txt
+[20:51:35] Reading File: properties/businesses.txt
+[20:51:35] Reading File: properties/banks.txt
+[20:51:35] Reading File: properties/police.txt
+[20:51:35] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[20:51:35] Number of vehicle models: 0
+[20:52:05] [connection] incoming connection: 127.0.0.1:52091 id: 0
+[20:52:05] [join] Sebas has joined the server (0:127.0.0.1)
+[20:52:19] [part] Sebas has left the server (0:1)
+Console input: exit
+[20:52:23] --- Server Shutting Down.
+[20:52:23]   |--  LS BeachSide Building Elevator destroyed
+[20:52:23]   |---------------------------------------------------
+[20:52:23] 
+[20:52:23]  ===============================
+[20:52:23] 
+[20:52:23]      sscanf plugin unloaded.    
+[20:52:23] 
+[20:52:23]  ===============================
+[20:52:23] 
+[20:52:23] plugin.mysql: Unloading plugin...
+[20:52:23] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:52:35] 
+[20:52:35] Server Plugins
+[20:52:35] --------------
+[20:52:35]  Loading plugin: sscanf
+[20:52:35] 
+[20:52:35]  ===============================
+[20:52:35] 
+[20:52:35]       sscanf plugin loaded.     
+[20:52:35] 
+[20:52:35]          Version: 2.13.8
+[20:52:35] 
+[20:52:35]    (c) 2022 Alex "Y_Less" Cole  
+[20:52:35] 
+[20:52:35]  ===============================
+[20:52:35] 
+[20:52:35]   Loaded.
+[20:52:35]  Loading plugin: mysql
+[20:52:35]  >> plugin.mysql: R41-4 successfully loaded.
+[20:52:35]   Loaded.
+[20:52:35]  Loaded 2 plugins.
+
+[20:52:35] 
+[20:52:35] Filterscripts
+[20:52:35] ---------------
+[20:52:35]   Loading filterscript 'gl_actions.amx'...
+[20:52:35]   Loading filterscript 'gl_realtime.amx'...
+[20:52:35]   Loading filterscript 'gl_property.amx'...
+[20:52:35] 
+-----------------------------------
+[20:52:35] Grand Larceny Property Filterscript		
+[20:52:35] -----------------------------------
+
+[20:52:35]   Loading filterscript 'gl_mapicon.amx'...
+[20:52:35]   Loading filterscript 'ls_elevator.amx'...
+[20:52:35]   Loading filterscript 'attachments.amx'...
+[20:52:35]   Loading filterscript 'skinchanger.amx'...
+[20:52:35] 
+--Admin Player Skin Changer Loaded
+
+[20:52:35]   Loading filterscript 'vspawner.amx'...
+[20:52:35] 
+--Admin Vehicle Spawner Loaded
+
+[20:52:35]   Loading filterscript 'ls_mall.amx'...
+[20:52:35]   Loading filterscript 'ls_beachside.amx'...
+[20:52:35] 
+
+[20:52:35]   |---------------------------------------------------
+[20:52:35]   |--- LS BeachSide Filterscript
+[20:52:35]   |--  Script v1.03
+[20:52:35]   |--  19th April 2015
+[20:52:35]   |---------------------------------------------------
+[20:52:35]   |--  LS BeachSide Building Elevator created
+[20:52:35]   |---------------------------------------------------
+[20:52:35]   Loaded 10 filterscripts.
+
+[20:52:35] Reading File: blank
+[20:52:35] Reading File: properties/houses.txt
+[20:52:35] Reading File: properties/businesses.txt
+[20:52:35] Reading File: properties/banks.txt
+[20:52:35] Reading File: properties/police.txt
+[20:52:35] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[20:52:35] Number of vehicle models: 0
+Console input: exit
+[20:52:38] --- Server Shutting Down.
+[20:52:38]   |--  LS BeachSide Building Elevator destroyed
+[20:52:38]   |---------------------------------------------------
+[20:52:38] 
+[20:52:38]  ===============================
+[20:52:38] 
+[20:52:38]      sscanf plugin unloaded.    
+[20:52:38] 
+[20:52:38]  ===============================
+[20:52:38] 
+[20:52:38] plugin.mysql: Unloading plugin...
+[20:52:38] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:53:23] 
+[20:53:23] Server Plugins
+[20:53:23] --------------
+[20:53:23]  Loading plugin: sscanf
+[20:53:23] 
+[20:53:23]  ===============================
+[20:53:23] 
+[20:53:23]       sscanf plugin loaded.     
+[20:53:23] 
+[20:53:23]          Version: 2.13.8
+[20:53:23] 
+[20:53:23]    (c) 2022 Alex "Y_Less" Cole  
+[20:53:23] 
+[20:53:23]  ===============================
+[20:53:23] 
+[20:53:23]   Loaded.
+[20:53:23]  Loading plugin: mysql
+[20:53:23]  >> plugin.mysql: R41-4 successfully loaded.
+[20:53:23]   Loaded.
+[20:53:23]  Loaded 2 plugins.
+
+[20:53:24] 
+[20:53:24] Filterscripts
+[20:53:24] ---------------
+[20:53:24]   Loading filterscript 'gl_actions.amx'...
+[20:53:24]   Loading filterscript 'gl_realtime.amx'...
+[20:53:24]   Loading filterscript 'gl_property.amx'...
+[20:53:24] 
+-----------------------------------
+[20:53:24] Grand Larceny Property Filterscript		
+[20:53:24] -----------------------------------
+
+[20:53:24]   Loading filterscript 'gl_mapicon.amx'...
+[20:53:24]   Loading filterscript 'ls_elevator.amx'...
+[20:53:24]   Loading filterscript 'attachments.amx'...
+[20:53:24]   Loading filterscript 'skinchanger.amx'...
+[20:53:24] 
+--Admin Player Skin Changer Loaded
+
+[20:53:24]   Loading filterscript 'vspawner.amx'...
+[20:53:24] 
+--Admin Vehicle Spawner Loaded
+
+[20:53:24]   Loading filterscript 'ls_mall.amx'...
+[20:53:24]   Loading filterscript 'ls_beachside.amx'...
+[20:53:24] 
+
+[20:53:24]   |---------------------------------------------------
+[20:53:24]   |--- LS BeachSide Filterscript
+[20:53:24]   |--  Script v1.03
+[20:53:24]   |--  19th April 2015
+[20:53:24]   |---------------------------------------------------
+[20:53:24]   |--  LS BeachSide Building Elevator created
+[20:53:24]   |---------------------------------------------------
+[20:53:24]   Loaded 10 filterscripts.
+
+[20:53:24] Reading File: blank
+[20:53:24] Reading File: properties/houses.txt
+[20:53:24] Reading File: properties/businesses.txt
+[20:53:24] Reading File: properties/banks.txt
+[20:53:24] Reading File: properties/police.txt
+[20:53:24] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[20:53:24] Number of vehicle models: 0
+[20:53:50] [connection] incoming connection: 127.0.0.1:63602 id: 0
+[20:53:50] [join] Juli has joined the server (0:127.0.0.1)
+[20:53:57] [part] Juli has left the server (0:1)
+Console input: exit
+[21:01:40] --- Server Shutting Down.
+[21:01:40]   |--  LS BeachSide Building Elevator destroyed
+[21:01:40]   |---------------------------------------------------
+[21:01:40] 
+[21:01:40]  ===============================
+[21:01:40] 
+[21:01:40]      sscanf plugin unloaded.    
+[21:01:40] 
+[21:01:40]  ===============================
+[21:01:40] 
+[21:01:40] plugin.mysql: Unloading plugin...
+[21:01:40] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:01:43] 
+[21:01:43] Server Plugins
+[21:01:43] --------------
+[21:01:43]  Loading plugin: sscanf
+[21:01:43] 
+[21:01:43]  ===============================
+[21:01:43] 
+[21:01:43]       sscanf plugin loaded.     
+[21:01:43] 
+[21:01:43]          Version: 2.13.8
+[21:01:43] 
+[21:01:43]    (c) 2022 Alex "Y_Less" Cole  
+[21:01:43] 
+[21:01:43]  ===============================
+[21:01:43] 
+[21:01:43]   Loaded.
+[21:01:43]  Loading plugin: mysql
+[21:01:43]  >> plugin.mysql: R41-4 successfully loaded.
+[21:01:43]   Loaded.
+[21:01:43]  Loaded 2 plugins.
+
+[21:01:43] 
+[21:01:43] Filterscripts
+[21:01:43] ---------------
+[21:01:43]   Loading filterscript 'gl_actions.amx'...
+[21:01:43]   Loading filterscript 'gl_realtime.amx'...
+[21:01:43]   Loading filterscript 'gl_property.amx'...
+[21:01:43] 
+-----------------------------------
+[21:01:43] Grand Larceny Property Filterscript		
+[21:01:43] -----------------------------------
+
+[21:01:43]   Loading filterscript 'gl_mapicon.amx'...
+[21:01:43]   Loading filterscript 'ls_elevator.amx'...
+[21:01:43]   Loading filterscript 'attachments.amx'...
+[21:01:43]   Loading filterscript 'skinchanger.amx'...
+[21:01:43] 
+--Admin Player Skin Changer Loaded
+
+[21:01:43]   Loading filterscript 'vspawner.amx'...
+[21:01:43] 
+--Admin Vehicle Spawner Loaded
+
+[21:01:43]   Loading filterscript 'ls_mall.amx'...
+[21:01:43]   Loading filterscript 'ls_beachside.amx'...
+[21:01:43] 
+
+[21:01:43]   |---------------------------------------------------
+[21:01:43]   |--- LS BeachSide Filterscript
+[21:01:43]   |--  Script v1.03
+[21:01:43]   |--  19th April 2015
+[21:01:43]   |---------------------------------------------------
+[21:01:43]   |--  LS BeachSide Building Elevator created
+[21:01:43]   |---------------------------------------------------
+[21:01:43]   Loaded 10 filterscripts.
+
+[21:01:43] Reading File: blank
+[21:01:43] Reading File: properties/houses.txt
+[21:01:43] Reading File: properties/businesses.txt
+[21:01:43] Reading File: properties/banks.txt
+[21:01:43] Reading File: properties/police.txt
+[21:01:43] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[21:01:43] Number of vehicle models: 0
+[21:02:06] [connection] incoming connection: 127.0.0.1:50979 id: 0
+[21:02:06] [join] Juli has joined the server (0:127.0.0.1)
+[21:02:24] [part] Juli has left the server (0:1)
+Console input: exit
+[21:02:49] --- Server Shutting Down.
+[21:02:49]   |--  LS BeachSide Building Elevator destroyed
+[21:02:49]   |---------------------------------------------------
+[21:02:49] 
+[21:02:49]  ===============================
+[21:02:49] 
+[21:02:49]      sscanf plugin unloaded.    
+[21:02:49] 
+[21:02:49]  ===============================
+[21:02:49] 
+[21:02:49] plugin.mysql: Unloading plugin...
+[21:02:49] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:02:56] 
+[21:02:56] Server Plugins
+[21:02:56] --------------
+[21:02:56]  Loading plugin: sscanf
+[21:02:56] 
+[21:02:56]  ===============================
+[21:02:56] 
+[21:02:56]       sscanf plugin loaded.     
+[21:02:56] 
+[21:02:56]          Version: 2.13.8
+[21:02:56] 
+[21:02:56]    (c) 2022 Alex "Y_Less" Cole  
+[21:02:56] 
+[21:02:56]  ===============================
+[21:02:56] 
+[21:02:56]   Loaded.
+[21:02:56]  Loading plugin: mysql
+[21:02:56]  >> plugin.mysql: R41-4 successfully loaded.
+[21:02:56]   Loaded.
+[21:02:56]  Loaded 2 plugins.
+
+[21:02:56] 
+[21:02:56] Filterscripts
+[21:02:56] ---------------
+[21:02:56]   Loading filterscript 'gl_actions.amx'...
+[21:02:56]   Loading filterscript 'gl_realtime.amx'...
+[21:02:56]   Loading filterscript 'gl_property.amx'...
+[21:02:56] 
+-----------------------------------
+[21:02:56] Grand Larceny Property Filterscript		
+[21:02:56] -----------------------------------
+
+[21:02:56]   Loading filterscript 'gl_mapicon.amx'...
+[21:02:56]   Loading filterscript 'ls_elevator.amx'...
+[21:02:56]   Loading filterscript 'attachments.amx'...
+[21:02:56]   Loading filterscript 'skinchanger.amx'...
+[21:02:56] 
+--Admin Player Skin Changer Loaded
+
+[21:02:56]   Loading filterscript 'vspawner.amx'...
+[21:02:56] 
+--Admin Vehicle Spawner Loaded
+
+[21:02:56]   Loading filterscript 'ls_mall.amx'...
+[21:02:56]   Loading filterscript 'ls_beachside.amx'...
+[21:02:56] 
+
+[21:02:56]   |---------------------------------------------------
+[21:02:56]   |--- LS BeachSide Filterscript
+[21:02:56]   |--  Script v1.03
+[21:02:56]   |--  19th April 2015
+[21:02:56]   |---------------------------------------------------
+[21:02:56]   |--  LS BeachSide Building Elevator created
+[21:02:56]   |---------------------------------------------------
+[21:02:56]   Loaded 10 filterscripts.
+
+[21:02:56] Reading File: blank
+[21:02:56] Reading File: properties/houses.txt
+[21:02:56] Reading File: properties/businesses.txt
+[21:02:56] Reading File: properties/banks.txt
+[21:02:56] Reading File: properties/police.txt
+[21:02:56] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[21:02:56] Number of vehicle models: 0
+[21:03:19] [connection] incoming connection: 127.0.0.1:64871 id: 0
+[21:03:19] [join] Juli has joined the server (0:127.0.0.1)
+[21:03:24] [part] Juli has left the server (0:1)
+Console input: exit
+[21:03:39] --- Server Shutting Down.
+[21:03:39]   |--  LS BeachSide Building Elevator destroyed
+[21:03:39]   |---------------------------------------------------
+[21:03:39] 
+[21:03:39]  ===============================
+[21:03:39] 
+[21:03:39]      sscanf plugin unloaded.    
+[21:03:39] 
+[21:03:39]  ===============================
+[21:03:39] 
+[21:03:39] plugin.mysql: Unloading plugin...
+[21:03:39] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:04:15] 
+[21:04:15] Server Plugins
+[21:04:15] --------------
+[21:04:15]  Loading plugin: sscanf
+[21:04:15] 
+[21:04:15]  ===============================
+[21:04:15] 
+[21:04:15]       sscanf plugin loaded.     
+[21:04:15] 
+[21:04:15]          Version: 2.13.8
+[21:04:15] 
+[21:04:15]    (c) 2022 Alex "Y_Less" Cole  
+[21:04:15] 
+[21:04:15]  ===============================
+[21:04:15] 
+[21:04:15]   Loaded.
+[21:04:15]  Loading plugin: mysql
+[21:04:15]  >> plugin.mysql: R41-4 successfully loaded.
+[21:04:15]   Loaded.
+[21:04:15]  Loaded 2 plugins.
+
+[21:04:15] 
+[21:04:15] Filterscripts
+[21:04:15] ---------------
+[21:04:15]   Loading filterscript 'gl_actions.amx'...
+[21:04:15]   Loading filterscript 'gl_realtime.amx'...
+[21:04:15]   Loading filterscript 'gl_property.amx'...
+[21:04:15] 
+-----------------------------------
+[21:04:15] Grand Larceny Property Filterscript		
+[21:04:15] -----------------------------------
+
+[21:04:15]   Loading filterscript 'gl_mapicon.amx'...
+[21:04:15]   Loading filterscript 'ls_elevator.amx'...
+[21:04:15]   Loading filterscript 'attachments.amx'...
+[21:04:15]   Loading filterscript 'skinchanger.amx'...
+[21:04:15] 
+--Admin Player Skin Changer Loaded
+
+[21:04:15]   Loading filterscript 'vspawner.amx'...
+[21:04:15] 
+--Admin Vehicle Spawner Loaded
+
+[21:04:15]   Loading filterscript 'ls_mall.amx'...
+[21:04:15]   Loading filterscript 'ls_beachside.amx'...
+[21:04:15] 
+
+[21:04:15]   |---------------------------------------------------
+[21:04:15]   |--- LS BeachSide Filterscript
+[21:04:15]   |--  Script v1.03
+[21:04:15]   |--  19th April 2015
+[21:04:15]   |---------------------------------------------------
+[21:04:15]   |--  LS BeachSide Building Elevator created
+[21:04:15]   |---------------------------------------------------
+[21:04:15]   Loaded 10 filterscripts.
+
+[21:04:15] Reading File: blank
+[21:04:15] Reading File: properties/houses.txt
+[21:04:15] Reading File: properties/businesses.txt
+[21:04:15] Reading File: properties/banks.txt
+[21:04:15] Reading File: properties/police.txt
+[21:04:15] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[21:04:15] Number of vehicle models: 0
+[21:04:35] [connection] incoming connection: 127.0.0.1:60661 id: 0
+[21:04:35] [join] Juli has joined the server (0:127.0.0.1)
+[21:04:42] [part] Juli has left the server (0:1)
+Console input: exit
+[21:15:14] --- Server Shutting Down.
+[21:15:14]   |--  LS BeachSide Building Elevator destroyed
+[21:15:14]   |---------------------------------------------------
+[21:15:14] 
+[21:15:14]  ===============================
+[21:15:14] 
+[21:15:14]      sscanf plugin unloaded.    
+[21:15:14] 
+[21:15:14]  ===============================
+[21:15:14] 
+[21:15:14] plugin.mysql: Unloading plugin...
+[21:15:14] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:15:17] 
+[21:15:17] Server Plugins
+[21:15:17] --------------
+[21:15:17]  Loading plugin: sscanf
+[21:15:17] 
+[21:15:17]  ===============================
+[21:15:17] 
+[21:15:17]       sscanf plugin loaded.     
+[21:15:17] 
+[21:15:17]          Version: 2.13.8
+[21:15:17] 
+[21:15:17]    (c) 2022 Alex "Y_Less" Cole  
+[21:15:17] 
+[21:15:17]  ===============================
+[21:15:17] 
+[21:15:17]   Loaded.
+[21:15:17]  Loading plugin: mysql
+[21:15:17]  >> plugin.mysql: R41-4 successfully loaded.
+[21:15:17]   Loaded.
+[21:15:17]  Loaded 2 plugins.
+
+[21:15:17] 
+[21:15:17] Filterscripts
+[21:15:17] ---------------
+[21:15:17]   Loading filterscript 'gl_actions.amx'...
+[21:15:17]   Loading filterscript 'gl_realtime.amx'...
+[21:15:17]   Loading filterscript 'gl_property.amx'...
+[21:15:17] 
+-----------------------------------
+[21:15:17] Grand Larceny Property Filterscript		
+[21:15:17] -----------------------------------
+
+[21:15:17]   Loading filterscript 'gl_mapicon.amx'...
+[21:15:17]   Loading filterscript 'ls_elevator.amx'...
+[21:15:17]   Loading filterscript 'attachments.amx'...
+[21:15:17]   Loading filterscript 'skinchanger.amx'...
+[21:15:17] 
+--Admin Player Skin Changer Loaded
+
+[21:15:17]   Loading filterscript 'vspawner.amx'...
+[21:15:17] 
+--Admin Vehicle Spawner Loaded
+
+[21:15:17]   Loading filterscript 'ls_mall.amx'...
+[21:15:17]   Loading filterscript 'ls_beachside.amx'...
+[21:15:17] 
+
+[21:15:17]   |---------------------------------------------------
+[21:15:17]   |--- LS BeachSide Filterscript
+[21:15:17]   |--  Script v1.03
+[21:15:17]   |--  19th April 2015
+[21:15:17]   |---------------------------------------------------
+[21:15:17]   |--  LS BeachSide Building Elevator created
+[21:15:17]   |---------------------------------------------------
+[21:15:17]   Loaded 10 filterscripts.
+
+[21:15:17] Reading File: blank
+[21:15:17] Reading File: properties/houses.txt
+[21:15:17] Reading File: properties/businesses.txt
+[21:15:17] Reading File: properties/banks.txt
+[21:15:17] Reading File: properties/police.txt
+[21:15:17] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[21:15:17] Number of vehicle models: 0
+[21:15:38] [connection] incoming connection: 127.0.0.1:59419 id: 0
+[21:15:39] [join] Juli has joined the server (0:127.0.0.1)
+[21:16:19] [part] Juli has left the server (0:1)
+Console input: exit
+[21:16:56] --- Server Shutting Down.
+[21:16:56]   |--  LS BeachSide Building Elevator destroyed
+[21:16:56]   |---------------------------------------------------
+[21:16:56] 
+[21:16:56]  ===============================
+[21:16:56] 
+[21:16:56]      sscanf plugin unloaded.    
+[21:16:56] 
+[21:16:56]  ===============================
+[21:16:56] 
+[21:16:56] plugin.mysql: Unloading plugin...
+[21:16:56] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:16:59] 
+[21:16:59] Server Plugins
+[21:16:59] --------------
+[21:16:59]  Loading plugin: sscanf
+[21:16:59] 
+[21:16:59]  ===============================
+[21:16:59] 
+[21:16:59]       sscanf plugin loaded.     
+[21:16:59] 
+[21:16:59]          Version: 2.13.8
+[21:16:59] 
+[21:16:59]    (c) 2022 Alex "Y_Less" Cole  
+[21:16:59] 
+[21:16:59]  ===============================
+[21:16:59] 
+[21:16:59]   Loaded.
+[21:16:59]  Loading plugin: mysql
+[21:16:59]  >> plugin.mysql: R41-4 successfully loaded.
+[21:16:59]   Loaded.
+[21:16:59]  Loaded 2 plugins.
+
+[21:16:59] 
+[21:16:59] Filterscripts
+[21:16:59] ---------------
+[21:16:59]   Loading filterscript 'gl_actions.amx'...
+[21:16:59]   Loading filterscript 'gl_realtime.amx'...
+[21:16:59]   Loading filterscript 'gl_property.amx'...
+[21:16:59] 
+-----------------------------------
+[21:16:59] Grand Larceny Property Filterscript		
+[21:16:59] -----------------------------------
+
+[21:16:59]   Loading filterscript 'gl_mapicon.amx'...
+[21:16:59]   Loading filterscript 'ls_elevator.amx'...
+[21:16:59]   Loading filterscript 'attachments.amx'...
+[21:16:59]   Loading filterscript 'skinchanger.amx'...
+[21:16:59] 
+--Admin Player Skin Changer Loaded
+
+[21:16:59]   Loading filterscript 'vspawner.amx'...
+[21:16:59] 
+--Admin Vehicle Spawner Loaded
+
+[21:16:59]   Loading filterscript 'ls_mall.amx'...
+[21:16:59]   Loading filterscript 'ls_beachside.amx'...
+[21:16:59] 
+
+[21:16:59]   |---------------------------------------------------
+[21:16:59]   |--- LS BeachSide Filterscript
+[21:16:59]   |--  Script v1.03
+[21:16:59]   |--  19th April 2015
+[21:16:59]   |---------------------------------------------------
+[21:16:59]   |--  LS BeachSide Building Elevator created
+[21:16:59]   |---------------------------------------------------
+[21:16:59]   Loaded 10 filterscripts.
+
+[21:16:59] Gamemode iniciado.
+[21:16:59] Conectado a MySQL correctamente.
+[21:16:59] Reading File: blank
+[21:16:59] Reading File: properties/houses.txt
+[21:16:59] Reading File: properties/businesses.txt
+[21:16:59] Reading File: properties/banks.txt
+[21:16:59] Reading File: properties/police.txt
+[21:16:59] Script[gamemodes/bare.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[21:16:59] Number of vehicle models: 0
+[21:17:36] [connection] incoming connection: 127.0.0.1:59830 id: 0
+[21:17:36] [join] Juli has joined the server (0:127.0.0.1)
+[21:23:44] [part] Juli has left the server (0:2)
+Console input: exit
+[21:23:50] --- Server Shutting Down.
+[21:23:50]   |--  LS BeachSide Building Elevator destroyed
+[21:23:50]   |---------------------------------------------------
+[21:23:50] 
+[21:23:50]  ===============================
+[21:23:50] 
+[21:23:50]      sscanf plugin unloaded.    
+[21:23:50] 
+[21:23:50]  ===============================
+[21:23:50] 
+[21:23:50] plugin.mysql: Unloading plugin...
+[21:23:50] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:06:20] 
+[22:06:20] Server Plugins
+[22:06:20] --------------
+[22:06:20]  Loading plugin: sscanf
+[22:06:20] 
+[22:06:20]  ===============================
+[22:06:20] 
+[22:06:20]       sscanf plugin loaded.     
+[22:06:20] 
+[22:06:20]          Version: 2.13.8
+[22:06:20] 
+[22:06:20]    (c) 2022 Alex "Y_Less" Cole  
+[22:06:20] 
+[22:06:20]  ===============================
+[22:06:20] 
+[22:06:20]   Loaded.
+[22:06:20]  Loading plugin: mysql
+[22:06:20]  >> plugin.mysql: R41-4 successfully loaded.
+[22:06:20]   Loaded.
+[22:06:20]  Loaded 2 plugins.
+
+[22:06:20] 
+[22:06:20] Filterscripts
+[22:06:20] ---------------
+[22:06:20]   Loading filterscript 'gl_actions.amx'...
+[22:06:20]   Loading filterscript 'gl_realtime.amx'...
+[22:06:20]   Loading filterscript 'gl_property.amx'...
+[22:06:20] 
+-----------------------------------
+[22:06:20] Grand Larceny Property Filterscript		
+[22:06:20] -----------------------------------
+
+[22:06:20]   Loading filterscript 'gl_mapicon.amx'...
+[22:06:20]   Loading filterscript 'ls_elevator.amx'...
+[22:06:20]   Loading filterscript 'attachments.amx'...
+[22:06:20]   Loading filterscript 'skinchanger.amx'...
+[22:06:20] 
+--Admin Player Skin Changer Loaded
+
+[22:06:20]   Loading filterscript 'vspawner.amx'...
+[22:06:20] 
+--Admin Vehicle Spawner Loaded
+
+[22:06:20]   Loading filterscript 'ls_mall.amx'...
+[22:06:20]   Loading filterscript 'ls_beachside.amx'...
+[22:06:20] 
+
+[22:06:20]   |---------------------------------------------------
+[22:06:20]   |--- LS BeachSide Filterscript
+[22:06:20]   |--  Script v1.03
+[22:06:20]   |--  19th April 2015
+[22:06:20]   |---------------------------------------------------
+[22:06:20]   |--  LS BeachSide Building Elevator created
+[22:06:20]   |---------------------------------------------------
+[22:06:20]   Loaded 10 filterscripts.
+
+[22:06:21]  
+[22:06:21]  
+[22:06:21]          ==============================================================
+[22:06:21]          |                                                            |
+[22:06:21]          |                                                            |
+[22:06:21]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[22:06:21]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[22:06:21]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[22:06:21]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[22:06:21]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[22:06:21]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[22:06:21]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[22:06:21]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[22:06:21]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[22:06:21]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[22:06:21]          |           Y:::::Y                    S:::::S   I::::I      |
+[22:06:21]          |           Y:::::Y                    S:::::S   I::::I      |
+[22:06:21]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[22:06:21]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[22:06:21]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[22:06:21]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[22:06:21]          |                                                            |
+[22:06:21]          |                                                            |
+[22:06:21]          |                      (c) 2021 MPL v1.1                     |
+[22:06:21]          |            Alex "Y_Less" Cole and contributors.            |
+[22:06:21]          |                                                            |
+[22:06:21]          |                                                            |
+[22:06:21]          ==============================================================
+[22:06:21]  
+[22:06:21]  
+[22:06:21]  ========================================== 
+[22:06:21]  |                                        | 
+[22:06:21]  |  Missing YSI scriptfiles directories:  | 
+[22:06:21]  |                                        | 
+[22:06:21]  |      /scriptfiles/YSI/fixes/           | 
+[22:06:21]  |      /scriptfiles/YSI/temp/            | 
+[22:06:21]  |                                        | 
+[22:06:21]  ========================================== 
+[22:06:21]  |                                        | 
+[22:06:21]  |   Generating code, this may take a     | 
+[22:06:21]  |  little bit of time.  Note that this   | 
+[22:06:21]  |  code generation works best with the   | 
+[22:06:21]  |     JIT plugin, which you are not      | 
+[22:06:21]  |     currently using.  Get it here:     | 
+[22:06:21]  |                                        | 
+[22:06:21]  |       https://git.io/jit-plugin        | 
+[22:06:21]  |                                        | 
+[22:06:21]  |             Please wait...             | 
+[22:06:21]  |                                        | 
+[22:06:21]  |             Done in 16ms!              | 
+[22:06:21]  |                                        | 
+[22:06:21]  ========================================== 
+[22:06:21]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:06:21] *** YSI Info: Script ID: 1
+[22:06:21]  |                                        | 
+[22:06:21]  | Server:      0.3.7-R2 (W)              | 
+[22:06:21]  | Started:     17 Mar 2025 - 22:06:21    | 
+[22:06:21]  |                                        | 
+[22:06:21]  | Compiler:    3.10.10 (Windows)         | 
+[22:06:21]  | Includes:    0.3.7                     | 
+[22:06:21]  | Codepage:    <none>                    | 
+[22:06:21]  | Built:       17 Mar 2025 - 22:06:10    | 
+[22:06:21]  |                                        | 
+[22:06:21]  | YSI:         v05.10.0006               | 
+[22:06:21]  | Master:      1                         | 
+[22:06:21]  |                                        | 
+[22:06:21]  | JIT:         <none>                    | 
+[22:06:21]  | Crashdetect: <none>                    | 
+[22:06:21]  |                                        | 
+[22:06:21]  ========================================== 
+[22:06:21]  |                                        | 
+[22:06:21]  | Unable to check the latest YSI version | 
+[22:06:21]  | - please watch the forums and github:  | 
+[22:06:21]  |                                        | 
+[22:06:21]  |          https://git.io/5.x            | 
+[22:06:21]  |                                        | 
+[22:06:21]  ========================================== 
+[22:06:21]  
+[22:06:21]  
+[22:06:21] Gamemode iniciado.
+[22:06:21] Conectado a MySQL correctamente.
+[22:06:21] Reading File: blank
+[22:06:21] Reading File: properties/houses.txt
+[22:06:21] Reading File: properties/businesses.txt
+[22:06:21] Reading File: properties/banks.txt
+[22:06:21] Reading File: properties/police.txt
+[22:06:21] Number of vehicle models: 0
+[22:07:10] [connection] incoming connection: 127.0.0.1:53547 id: 0
+[22:07:10] [join] Juli has joined the server (0:127.0.0.1)
+[22:08:49] [part] Juli has left the server (0:1)
+[22:09:12] [connection] incoming connection: 127.0.0.1:63161 id: 0
+[22:09:12] [join] Juli has joined the server (0:127.0.0.1)
+[22:09:52] [part] Juli has left the server (0:1)
+Console input: exit
+[22:10:02] --- Server Shutting Down.
+[22:10:02]   |--  LS BeachSide Building Elevator destroyed
+[22:10:02]   |---------------------------------------------------
+[22:10:02] 
+[22:10:02]  ===============================
+[22:10:02] 
+[22:10:02]      sscanf plugin unloaded.    
+[22:10:02] 
+[22:10:02]  ===============================
+[22:10:02] 
+[22:10:02] plugin.mysql: Unloading plugin...
+[22:10:02] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:58:19] 
+[22:58:19] Server Plugins
+[22:58:19] --------------
+[22:58:19]  Loading plugin: sscanf
+[22:58:19] 
+[22:58:19]  ===============================
+[22:58:19] 
+[22:58:19]       sscanf plugin loaded.     
+[22:58:19] 
+[22:58:19]          Version: 2.13.8
+[22:58:19] 
+[22:58:19]    (c) 2022 Alex "Y_Less" Cole  
+[22:58:19] 
+[22:58:19]  ===============================
+[22:58:19] 
+[22:58:19]   Loaded.
+[22:58:19]  Loading plugin: mysql
+[22:58:19]  >> plugin.mysql: R41-4 successfully loaded.
+[22:58:19]   Loaded.
+[22:58:19]  Loaded 2 plugins.
+
+[22:58:19] 
+[22:58:19] Filterscripts
+[22:58:19] ---------------
+[22:58:19]   Loading filterscript 'gl_actions.amx'...
+[22:58:19]   Loading filterscript 'gl_realtime.amx'...
+[22:58:19]   Loading filterscript 'gl_property.amx'...
+[22:58:19] 
+-----------------------------------
+[22:58:19] Grand Larceny Property Filterscript		
+[22:58:19] -----------------------------------
+
+[22:58:19]   Loading filterscript 'gl_mapicon.amx'...
+[22:58:19]   Loading filterscript 'ls_elevator.amx'...
+[22:58:19]   Loading filterscript 'attachments.amx'...
+[22:58:19]   Loading filterscript 'skinchanger.amx'...
+[22:58:19] 
+--Admin Player Skin Changer Loaded
+
+[22:58:19]   Loading filterscript 'vspawner.amx'...
+[22:58:19] 
+--Admin Vehicle Spawner Loaded
+
+[22:58:19]   Loading filterscript 'ls_mall.amx'...
+[22:58:19]   Loading filterscript 'ls_beachside.amx'...
+[22:58:19] 
+
+[22:58:19]   |---------------------------------------------------
+[22:58:19]   |--- LS BeachSide Filterscript
+[22:58:19]   |--  Script v1.03
+[22:58:19]   |--  19th April 2015
+[22:58:19]   |---------------------------------------------------
+[22:58:19]   |--  LS BeachSide Building Elevator created
+[22:58:19]   |---------------------------------------------------
+[22:58:19]   Loaded 10 filterscripts.
+
+[22:58:19]  
+[22:58:19]  
+[22:58:19]          ==============================================================
+[22:58:19]          |                                                            |
+[22:58:19]          |                                                            |
+[22:58:19]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[22:58:19]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[22:58:19]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[22:58:19]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[22:58:19]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[22:58:19]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[22:58:19]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[22:58:19]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[22:58:19]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[22:58:19]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[22:58:19]          |           Y:::::Y                    S:::::S   I::::I      |
+[22:58:19]          |           Y:::::Y                    S:::::S   I::::I      |
+[22:58:19]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[22:58:19]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[22:58:19]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[22:58:19]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[22:58:19]          |                                                            |
+[22:58:19]          |                                                            |
+[22:58:19]          |                      (c) 2021 MPL v1.1                     |
+[22:58:19]          |            Alex "Y_Less" Cole and contributors.            |
+[22:58:19]          |                                                            |
+[22:58:19]          |                                                            |
+[22:58:19]          ==============================================================
+[22:58:19]  
+[22:58:19]  
+[22:58:19]  ========================================== 
+[22:58:19]  |                                        | 
+[22:58:19]  |  Missing YSI scriptfiles directories:  | 
+[22:58:19]  |                                        | 
+[22:58:19]  |      /scriptfiles/YSI/fixes/           | 
+[22:58:19]  |      /scriptfiles/YSI/temp/            | 
+[22:58:19]  |                                        | 
+[22:58:19]  ========================================== 
+[22:58:19]  |                                        | 
+[22:58:19]  |   Generating code, this may take a     | 
+[22:58:19]  |  little bit of time.  Note that this   | 
+[22:58:19]  |  code generation works best with the   | 
+[22:58:19]  |     JIT plugin, which you are not      | 
+[22:58:19]  |     currently using.  Get it here:     | 
+[22:58:19]  |                                        | 
+[22:58:19]  |       https://git.io/jit-plugin        | 
+[22:58:19]  |                                        | 
+[22:58:19]  |             Please wait...             | 
+[22:58:19]  |                                        | 
+[22:58:19]  |             Done in 16ms!              | 
+[22:58:19]  |                                        | 
+[22:58:19]  ========================================== 
+[22:58:19]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:58:19] *** YSI Info: Script ID: 1
+[22:58:19]  |                                        | 
+[22:58:19]  | Server:      0.3.7-R2 (W)              | 
+[22:58:19]  | Started:     17 Mar 2025 - 22:58:19    | 
+[22:58:19]  |                                        | 
+[22:58:19]  | Compiler:    3.10.10 (Windows)         | 
+[22:58:19]  | Includes:    0.3.7                     | 
+[22:58:19]  | Codepage:    <none>                    | 
+[22:58:19]  | Built:       17 Mar 2025 - 22:58:13    | 
+[22:58:19]  |                                        | 
+[22:58:19]  | YSI:         v05.10.0006               | 
+[22:58:19]  | Master:      1                         | 
+[22:58:19]  |                                        | 
+[22:58:19]  | JIT:         <none>                    | 
+[22:58:19]  | Crashdetect: <none>                    | 
+[22:58:19]  |                                        | 
+[22:58:19]  ========================================== 
+[22:58:19]  |                                        | 
+[22:58:19]  | Unable to check the latest YSI version | 
+[22:58:19]  | - please watch the forums and github:  | 
+[22:58:19]  |                                        | 
+[22:58:19]  |          https://git.io/5.x            | 
+[22:58:19]  |                                        | 
+[22:58:19]  ========================================== 
+[22:58:19]  
+[22:58:19]  
+[22:58:19] Gamemode iniciado.
+[22:58:19] Conectado a MySQL correctamente.
+[22:58:19] Reading File: blank
+[22:58:19] Reading File: properties/houses.txt
+[22:58:19] Reading File: properties/businesses.txt
+[22:58:19] Reading File: properties/banks.txt
+[22:58:19] Reading File: properties/police.txt
+[22:58:19] Number of vehicle models: 0
+[22:58:42] [connection] incoming connection: 127.0.0.1:62611 id: 0
+[22:58:42] [join] Juli has joined the server (0:127.0.0.1)
+Console input: exit
+[23:02:45] --- Server Shutting Down.
+[23:02:45]   |--  LS BeachSide Building Elevator destroyed
+[23:02:45]   |---------------------------------------------------
+[23:02:45] [part] Juli has left the server (0:0)
+[23:02:45] 
+[23:02:45]  ===============================
+[23:02:45] 
+[23:02:45]      sscanf plugin unloaded.    
+[23:02:45] 
+[23:02:45]  ===============================
+[23:02:45] 
+[23:02:45] plugin.mysql: Unloading plugin...
+[23:02:45] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:03:28] 
+[23:03:28] Server Plugins
+[23:03:28] --------------
+[23:03:28]  Loading plugin: sscanf
+[23:03:28] 
+[23:03:28]  ===============================
+[23:03:28] 
+[23:03:28]       sscanf plugin loaded.     
+[23:03:28] 
+[23:03:28]          Version: 2.13.8
+[23:03:28] 
+[23:03:28]    (c) 2022 Alex "Y_Less" Cole  
+[23:03:28] 
+[23:03:28]  ===============================
+[23:03:28] 
+[23:03:28]   Loaded.
+[23:03:28]  Loading plugin: mysql
+[23:03:28]  >> plugin.mysql: R41-4 successfully loaded.
+[23:03:28]   Loaded.
+[23:03:28]  Loaded 2 plugins.
+
+[23:03:28] 
+[23:03:28] Filterscripts
+[23:03:28] ---------------
+[23:03:28]   Loading filterscript 'gl_actions.amx'...
+[23:03:28]   Loading filterscript 'gl_realtime.amx'...
+[23:03:28]   Loading filterscript 'gl_property.amx'...
+[23:03:28] 
+-----------------------------------
+[23:03:28] Grand Larceny Property Filterscript		
+[23:03:28] -----------------------------------
+
+[23:03:28]   Loading filterscript 'gl_mapicon.amx'...
+[23:03:28]   Loading filterscript 'ls_elevator.amx'...
+[23:03:28]   Loading filterscript 'attachments.amx'...
+[23:03:28]   Loading filterscript 'skinchanger.amx'...
+[23:03:28] 
+--Admin Player Skin Changer Loaded
+
+[23:03:28]   Loading filterscript 'vspawner.amx'...
+[23:03:28] 
+--Admin Vehicle Spawner Loaded
+
+[23:03:28]   Loading filterscript 'ls_mall.amx'...
+[23:03:28]   Loading filterscript 'ls_beachside.amx'...
+[23:03:28] 
+
+[23:03:28]   |---------------------------------------------------
+[23:03:28]   |--- LS BeachSide Filterscript
+[23:03:28]   |--  Script v1.03
+[23:03:28]   |--  19th April 2015
+[23:03:28]   |---------------------------------------------------
+[23:03:28]   |--  LS BeachSide Building Elevator created
+[23:03:28]   |---------------------------------------------------
+[23:03:28]   Loaded 10 filterscripts.
+
+[23:03:28]  
+[23:03:28]  
+[23:03:28]          ==============================================================
+[23:03:28]          |                                                            |
+[23:03:28]          |                                                            |
+[23:03:28]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[23:03:28]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[23:03:28]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[23:03:28]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[23:03:28]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[23:03:28]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[23:03:28]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[23:03:28]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[23:03:28]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[23:03:28]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[23:03:28]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:03:28]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:03:28]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[23:03:28]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[23:03:28]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[23:03:28]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[23:03:28]          |                                                            |
+[23:03:28]          |                                                            |
+[23:03:28]          |                      (c) 2021 MPL v1.1                     |
+[23:03:28]          |            Alex "Y_Less" Cole and contributors.            |
+[23:03:28]          |                                                            |
+[23:03:28]          |                                                            |
+[23:03:28]          ==============================================================
+[23:03:28]  
+[23:03:28]  
+[23:03:28]  ========================================== 
+[23:03:28]  |                                        | 
+[23:03:28]  |  Missing YSI scriptfiles directories:  | 
+[23:03:28]  |                                        | 
+[23:03:28]  |      /scriptfiles/YSI/fixes/           | 
+[23:03:28]  |      /scriptfiles/YSI/temp/            | 
+[23:03:28]  |                                        | 
+[23:03:28]  ========================================== 
+[23:03:28]  |                                        | 
+[23:03:28]  |   Generating code, this may take a     | 
+[23:03:28]  |  little bit of time.  Note that this   | 
+[23:03:28]  |  code generation works best with the   | 
+[23:03:28]  |     JIT plugin, which you are not      | 
+[23:03:28]  |     currently using.  Get it here:     | 
+[23:03:28]  |                                        | 
+[23:03:28]  |       https://git.io/jit-plugin        | 
+[23:03:28]  |                                        | 
+[23:03:28]  |             Please wait...             | 
+[23:03:28]  |                                        | 
+[23:03:28]  |             Done in 20ms!              | 
+[23:03:28]  |                                        | 
+[23:03:28]  ========================================== 
+[23:03:28]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[23:03:28] *** YSI Info: Script ID: 1
+[23:03:28]  |                                        | 
+[23:03:28]  | Server:      0.3.7-R2 (W)              | 
+[23:03:28]  | Started:     17 Mar 2025 - 23:03:28    | 
+[23:03:28]  |                                        | 
+[23:03:28]  | Compiler:    3.10.10 (Windows)         | 
+[23:03:28]  | Includes:    0.3.7                     | 
+[23:03:28]  | Codepage:    <none>                    | 
+[23:03:28]  | Built:       17 Mar 2025 - 23:02:32    | 
+[23:03:28]  |                                        | 
+[23:03:28]  | YSI:         v05.10.0006               | 
+[23:03:28]  | Master:      1                         | 
+[23:03:28]  |                                        | 
+[23:03:28]  | JIT:         <none>                    | 
+[23:03:28]  | Crashdetect: <none>                    | 
+[23:03:28]  |                                        | 
+[23:03:28]  ========================================== 
+[23:03:28]  |                                        | 
+[23:03:28]  | Unable to check the latest YSI version | 
+[23:03:28]  | - please watch the forums and github:  | 
+[23:03:28]  |                                        | 
+[23:03:28]  |          https://git.io/5.x            | 
+[23:03:28]  |                                        | 
+[23:03:28]  ========================================== 
+[23:03:28]  
+[23:03:28]  
+[23:03:28] Gamemode iniciado.
+[23:03:28] Conectado a MySQL correctamente.
+[23:03:28] Reading File: blank
+[23:03:28] Reading File: properties/houses.txt
+[23:03:28] Reading File: properties/businesses.txt
+[23:03:28] Reading File: properties/banks.txt
+[23:03:28] Reading File: properties/police.txt
+[23:03:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:03:28] 
+[23:03:28] Server Plugins
+[23:03:28] --------------
+[23:03:28]  Loading plugin: sscanf
+[23:03:28] 
+[23:03:28]  ===============================
+[23:03:28] 
+[23:03:28]       sscanf plugin loaded.     
+[23:03:28] 
+[23:03:28]          Version: 2.13.8
+[23:03:28] 
+[23:03:28]    (c) 2022 Alex "Y_Less" Cole  
+[23:03:28] 
+[23:03:28]  ===============================
+[23:03:28] 
+[23:03:28]   Loaded.
+[23:03:28]  Loading plugin: mysql
+[23:03:28]  >> plugin.mysql: R41-4 successfully loaded.
+[23:03:28]   Loaded.
+[23:03:28]  Loaded 2 plugins.
+
+[23:03:28] 
+[23:03:28] Filterscripts
+[23:03:28] ---------------
+[23:03:28]   Loading filterscript 'gl_actions.amx'...
+[23:03:28]   Loading filterscript 'gl_realtime.amx'...
+[23:03:28]   Loading filterscript 'gl_property.amx'...
+[23:03:28] 
+-----------------------------------
+[23:03:28] Grand Larceny Property Filterscript		
+[23:03:28] -----------------------------------
+
+[23:03:28]   Loading filterscript 'gl_mapicon.amx'...
+[23:03:28]   Loading filterscript 'ls_elevator.amx'...
+[23:03:28]   Loading filterscript 'attachments.amx'...
+[23:03:28]   Loading filterscript 'skinchanger.amx'...
+[23:03:28] 
+--Admin Player Skin Changer Loaded
+
+[23:03:28]   Loading filterscript 'vspawner.amx'...
+[23:03:28] 
+--Admin Vehicle Spawner Loaded
+
+[23:03:28]   Loading filterscript 'ls_mall.amx'...
+[23:03:28]   Loading filterscript 'ls_beachside.amx'...
+[23:03:28] 
+
+[23:03:28]   |---------------------------------------------------
+[23:03:28]   |--- LS BeachSide Filterscript
+[23:03:28]   |--  Script v1.03
+[23:03:28]   |--  19th April 2015
+[23:03:28]   |---------------------------------------------------
+[23:03:28]   |--  LS BeachSide Building Elevator created
+[23:03:28]   |---------------------------------------------------
+[23:03:28]   Loaded 10 filterscripts.
+
+[23:03:28]  
+[23:03:28]  
+[23:03:28]          ==============================================================
+[23:03:28]          |                                                            |
+[23:03:28]          |                                                            |
+[23:03:28]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[23:03:28]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[23:03:28]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[23:03:28]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[23:03:28]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[23:03:28]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[23:03:28]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[23:03:28]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[23:03:28]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[23:03:28]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[23:03:28]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:03:28]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:03:28]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[23:03:28]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[23:03:28]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[23:03:28]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[23:03:28]          |                                                            |
+[23:03:28]          |                                                            |
+[23:03:28]          |                      (c) 2021 MPL v1.1                     |
+[23:03:28]          |            Alex "Y_Less" Cole and contributors.            |
+[23:03:28]          |                                                            |
+[23:03:28]          |                                                            |
+[23:03:28]          ==============================================================
+[23:03:28]  
+[23:03:28]  
+[23:03:28]  ========================================== 
+[23:03:28]  |                                        | 
+[23:03:28]  |  Missing YSI scriptfiles directories:  | 
+[23:03:28]  |                                        | 
+[23:03:28]  |      /scriptfiles/YSI/fixes/           | 
+[23:03:28]  |      /scriptfiles/YSI/temp/            | 
+[23:03:28]  |                                        | 
+[23:03:28]  ========================================== 
+[23:03:28]  |                                        | 
+[23:03:28]  |   Generating code, this may take a     | 
+[23:03:28]  |  little bit of time.  Note that this   | 
+[23:03:28]  |  code generation works best with the   | 
+[23:03:28]  |     JIT plugin, which you are not      | 
+[23:03:28]  |     currently using.  Get it here:     | 
+[23:03:28]  |                                        | 
+[23:03:28]  |       https://git.io/jit-plugin        | 
+[23:03:28]  |                                        | 
+[23:03:28]  |             Please wait...             | 
+[23:03:28]  |                                        | 
+[23:03:28]  |             Done in 11ms!              | 
+[23:03:28]  |                                        | 
+[23:03:28]  ========================================== 
+[23:03:28]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[23:03:28] *** YSI Info: Script ID: 1
+[23:03:28]  |                                        | 
+[23:03:28]  | Server:      0.3.7-R2 (W)              | 
+[23:03:28]  | Started:     17 Mar 2025 - 23:03:28    | 
+[23:03:28]  |                                        | 
+[23:03:28]  | Compiler:    3.10.10 (Windows)         | 
+[23:03:28]  | Includes:    0.3.7                     | 
+[23:03:28]  | Codepage:    <none>                    | 
+[23:03:28]  | Built:       17 Mar 2025 - 23:02:32    | 
+[23:03:28]  |                                        | 
+[23:03:28]  | YSI:         v05.10.0006               | 
+[23:03:28]  | Master:      1                         | 
+[23:03:28]  |                                        | 
+[23:03:28]  | JIT:         <none>                    | 
+[23:03:28]  | Crashdetect: <none>                    | 
+[23:03:28]  |                                        | 
+[23:03:28]  ========================================== 
+[23:03:28]  |                                        | 
+[23:03:28]  | Unable to check the latest YSI version | 
+[23:03:28]  | - please watch the forums and github:  | 
+[23:03:28]  |                                        | 
+[23:03:28]  |          https://git.io/5.x            | 
+[23:03:28]  |                                        | 
+[23:03:28]  ========================================== 
+[23:03:28]  
+[23:03:28]  
+[23:03:28] Gamemode iniciado.
+[23:03:28] Conectado a MySQL correctamente.
+[23:03:28] Reading File: blank
+[23:03:28] Reading File: properties/houses.txt
+[23:03:28] Reading File: properties/businesses.txt
+[23:03:28] Reading File: properties/banks.txt
+[23:03:28] Reading File: properties/police.txt
+[23:03:28] Number of vehicle models: 0
+[23:03:32] [connection] incoming connection: 127.0.0.1:51911 id: 0
+[23:03:32] [join] Juli has joined the server (0:127.0.0.1)
+[23:05:29] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:05:29] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:05:29] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "Format specifier does not match parameter count."
+[23:05:36] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:05:36] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:05:36] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "Format specifier does not match parameter count."
+[23:08:00] [connection] incoming connection: 127.0.0.1:57133 id: 0
+Console input: exit
+[23:08:06] --- Server Shutting Down.
+[23:08:06]   |--  LS BeachSide Building Elevator destroyed
+[23:08:06]   |---------------------------------------------------
+[23:08:06] 
+[23:08:06]  ===============================
+[23:08:06] 
+[23:08:06]      sscanf plugin unloaded.    
+[23:08:06] 
+[23:08:06]  ===============================
+[23:08:06] 
+[23:08:06] plugin.mysql: Unloading plugin...
+[23:08:06] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:08:08] 
+[23:08:08] Server Plugins
+[23:08:08] --------------
+[23:08:08]  Loading plugin: sscanf
+[23:08:08] 
+[23:08:08]  ===============================
+[23:08:08] 
+[23:08:08]       sscanf plugin loaded.     
+[23:08:08] 
+[23:08:08]          Version: 2.13.8
+[23:08:08] 
+[23:08:08]    (c) 2022 Alex "Y_Less" Cole  
+[23:08:08] 
+[23:08:08]  ===============================
+[23:08:08] 
+[23:08:08]   Loaded.
+[23:08:08]  Loading plugin: mysql
+[23:08:08]  >> plugin.mysql: R41-4 successfully loaded.
+[23:08:08]   Loaded.
+[23:08:08]  Loaded 2 plugins.
+
+[23:08:08] 
+[23:08:08] Filterscripts
+[23:08:08] ---------------
+[23:08:08]   Loading filterscript 'gl_actions.amx'...
+[23:08:08]   Loading filterscript 'gl_realtime.amx'...
+[23:08:08]   Loading filterscript 'gl_property.amx'...
+[23:08:08] 
+-----------------------------------
+[23:08:08] Grand Larceny Property Filterscript		
+[23:08:08] -----------------------------------
+
+[23:08:08]   Loading filterscript 'gl_mapicon.amx'...
+[23:08:08]   Loading filterscript 'ls_elevator.amx'...
+[23:08:08]   Loading filterscript 'attachments.amx'...
+[23:08:08]   Loading filterscript 'skinchanger.amx'...
+[23:08:08] 
+--Admin Player Skin Changer Loaded
+
+[23:08:08]   Loading filterscript 'vspawner.amx'...
+[23:08:08] 
+--Admin Vehicle Spawner Loaded
+
+[23:08:08]   Loading filterscript 'ls_mall.amx'...
+[23:08:08]   Loading filterscript 'ls_beachside.amx'...
+[23:08:08] 
+
+[23:08:08]   |---------------------------------------------------
+[23:08:08]   |--- LS BeachSide Filterscript
+[23:08:08]   |--  Script v1.03
+[23:08:08]   |--  19th April 2015
+[23:08:08]   |---------------------------------------------------
+[23:08:08]   |--  LS BeachSide Building Elevator created
+[23:08:08]   |---------------------------------------------------
+[23:08:08]   Loaded 10 filterscripts.
+
+[23:08:08]  
+[23:08:08]  
+[23:08:08]          ==============================================================
+[23:08:08]          |                                                            |
+[23:08:08]          |                                                            |
+[23:08:08]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[23:08:08]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[23:08:08]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[23:08:08]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[23:08:08]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[23:08:08]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[23:08:08]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[23:08:08]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[23:08:08]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[23:08:08]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[23:08:08]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:08:08]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:08:08]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[23:08:08]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[23:08:08]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[23:08:08]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[23:08:08]          |                                                            |
+[23:08:08]          |                                                            |
+[23:08:08]          |                      (c) 2021 MPL v1.1                     |
+[23:08:08]          |            Alex "Y_Less" Cole and contributors.            |
+[23:08:08]          |                                                            |
+[23:08:08]          |                                                            |
+[23:08:08]          ==============================================================
+[23:08:08]  
+[23:08:08]  
+[23:08:08]  ========================================== 
+[23:08:08]  |                                        | 
+[23:08:08]  |  Missing YSI scriptfiles directories:  | 
+[23:08:08]  |                                        | 
+[23:08:08]  |      /scriptfiles/YSI/fixes/           | 
+[23:08:08]  |      /scriptfiles/YSI/temp/            | 
+[23:08:08]  |                                        | 
+[23:08:08]  ========================================== 
+[23:08:08]  |                                        | 
+[23:08:08]  |   Generating code, this may take a     | 
+[23:08:08]  |  little bit of time.  Note that this   | 
+[23:08:08]  |  code generation works best with the   | 
+[23:08:08]  |     JIT plugin, which you are not      | 
+[23:08:08]  |     currently using.  Get it here:     | 
+[23:08:08]  |                                        | 
+[23:08:08]  |       https://git.io/jit-plugin        | 
+[23:08:08]  |                                        | 
+[23:08:08]  |             Please wait...             | 
+[23:08:08]  |                                        | 
+[23:08:08]  |             Done in 10ms!              | 
+[23:08:08]  |                                        | 
+[23:08:08]  ========================================== 
+[23:08:08]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[23:08:08] *** YSI Info: Script ID: 1
+[23:08:08]  |                                        | 
+[23:08:08]  | Server:      0.3.7-R2 (W)              | 
+[23:08:08]  | Started:     17 Mar 2025 - 23:08:08    | 
+[23:08:08]  |                                        | 
+[23:08:08]  | Compiler:    3.10.10 (Windows)         | 
+[23:08:08]  | Includes:    0.3.7                     | 
+[23:08:08]  | Codepage:    <none>                    | 
+[23:08:08]  | Built:       17 Mar 2025 - 23:02:32    | 
+[23:08:08]  |                                        | 
+[23:08:08]  | YSI:         v05.10.0006               | 
+[23:08:08]  | Master:      1                         | 
+[23:08:08]  |                                        | 
+[23:08:08]  | JIT:         <none>                    | 
+[23:08:08]  | Crashdetect: <none>                    | 
+[23:08:08]  |                                        | 
+[23:08:08]  ========================================== 
+[23:08:08]  |                                        | 
+[23:08:08]  | Unable to check the latest YSI version | 
+[23:08:08]  | - please watch the forums and github:  | 
+[23:08:08]  |                                        | 
+[23:08:08]  |          https://git.io/5.x            | 
+[23:08:08]  |                                        | 
+[23:08:08]  ========================================== 
+[23:08:08]  
+[23:08:08]  
+[23:08:08] Gamemode iniciado.
+[23:08:08] Conectado a MySQL correctamente.
+[23:08:08] Reading File: blank
+[23:08:08] Reading File: properties/houses.txt
+[23:08:08] Reading File: properties/businesses.txt
+[23:08:08] Reading File: properties/banks.txt
+[23:08:08] Reading File: properties/police.txt
+[23:08:08] Number of vehicle models: 0
+[23:08:11] [connection] incoming connection: 127.0.0.1:60469 id: 0
+[23:08:12] [join] Juli has joined the server (0:127.0.0.1)
+[23:08:31] [part] Juli has left the server (0:1)
+[23:08:55] [connection] incoming connection: 127.0.0.1:51528 id: 0
+[23:08:55] [join] Juli has joined the server (0:127.0.0.1)
+[23:09:50] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:09:50] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:10:01] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:10:01] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:10:13] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:10:13] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:10:20] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:10:20] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:12:01] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:12:01] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:12:01] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "Format specifier does not match parameter count."
+[23:12:04] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:12:04] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:12:11] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:12:11] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "No default value found."
+[23:12:11] sscanf warning (C:\xampp\htdocs\servidorSamp\gamemodes\bare.pwn:292): "Format specifier does not match parameter count."
+Console input: exit
+[23:13:10] --- Server Shutting Down.
+[23:13:10]   |--  LS BeachSide Building Elevator destroyed
+[23:13:10]   |---------------------------------------------------
+[23:13:10] [part] Juli has left the server (0:0)
+[23:13:10] 
+[23:13:10]  ===============================
+[23:13:10] 
+[23:13:10]      sscanf plugin unloaded.    
+[23:13:10] 
+[23:13:10]  ===============================
+[23:13:10] 
+[23:13:10] plugin.mysql: Unloading plugin...
+[23:13:10] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:13:17] 
+[23:13:17] Server Plugins
+[23:13:17] --------------
+[23:13:17]  Loading plugin: sscanf
+[23:13:17] 
+[23:13:17]  ===============================
+[23:13:17] 
+[23:13:17]       sscanf plugin loaded.     
+[23:13:17] 
+[23:13:17]          Version: 2.13.8
+[23:13:17] 
+[23:13:17]    (c) 2022 Alex "Y_Less" Cole  
+[23:13:17] 
+[23:13:17]  ===============================
+[23:13:17] 
+[23:13:17]   Loaded.
+[23:13:17]  Loading plugin: mysql
+[23:13:17]  >> plugin.mysql: R41-4 successfully loaded.
+[23:13:17]   Loaded.
+[23:13:17]  Loaded 2 plugins.
+
+[23:13:17] 
+[23:13:17] Filterscripts
+[23:13:17] ---------------
+[23:13:17]   Loading filterscript 'gl_actions.amx'...
+[23:13:17]   Loading filterscript 'gl_realtime.amx'...
+[23:13:17]   Loading filterscript 'gl_property.amx'...
+[23:13:17] 
+-----------------------------------
+[23:13:17] Grand Larceny Property Filterscript		
+[23:13:17] -----------------------------------
+
+[23:13:17]   Loading filterscript 'gl_mapicon.amx'...
+[23:13:17]   Loading filterscript 'ls_elevator.amx'...
+[23:13:17]   Loading filterscript 'attachments.amx'...
+[23:13:17]   Loading filterscript 'skinchanger.amx'...
+[23:13:17] 
+--Admin Player Skin Changer Loaded
+
+[23:13:17]   Loading filterscript 'vspawner.amx'...
+[23:13:17] 
+--Admin Vehicle Spawner Loaded
+
+[23:13:17]   Loading filterscript 'ls_mall.amx'...
+[23:13:17]   Loading filterscript 'ls_beachside.amx'...
+[23:13:17] 
+
+[23:13:17]   |---------------------------------------------------
+[23:13:17]   |--- LS BeachSide Filterscript
+[23:13:17]   |--  Script v1.03
+[23:13:17]   |--  19th April 2015
+[23:13:17]   |---------------------------------------------------
+[23:13:17]   |--  LS BeachSide Building Elevator created
+[23:13:17]   |---------------------------------------------------
+[23:13:17]   Loaded 10 filterscripts.
+
+[23:13:17]  
+[23:13:17]  
+[23:13:17]          ==============================================================
+[23:13:17]          |                                                            |
+[23:13:17]          |                                                            |
+[23:13:17]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[23:13:17]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[23:13:17]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[23:13:17]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[23:13:17]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[23:13:17]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[23:13:17]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[23:13:17]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[23:13:17]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[23:13:17]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[23:13:17]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:13:17]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:13:17]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[23:13:17]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[23:13:17]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[23:13:17]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[23:13:17]          |                                                            |
+[23:13:17]          |                                                            |
+[23:13:17]          |                      (c) 2021 MPL v1.1                     |
+[23:13:17]          |            Alex "Y_Less" Cole and contributors.            |
+[23:13:17]          |                                                            |
+[23:13:17]          |                                                            |
+[23:13:17]          ==============================================================
+[23:13:17]  
+[23:13:17]  
+[23:13:17]  ========================================== 
+[23:13:17]  |                                        | 
+[23:13:17]  |  Missing YSI scriptfiles directories:  | 
+[23:13:17]  |                                        | 
+[23:13:17]  |      /scriptfiles/YSI/fixes/           | 
+[23:13:17]  |      /scriptfiles/YSI/temp/            | 
+[23:13:17]  |                                        | 
+[23:13:17]  ========================================== 
+[23:13:17]  |                                        | 
+[23:13:17]  |   Generating code, this may take a     | 
+[23:13:17]  |  little bit of time.  Note that this   | 
+[23:13:17]  |  code generation works best with the   | 
+[23:13:17]  |     JIT plugin, which you are not      | 
+[23:13:17]  |     currently using.  Get it here:     | 
+[23:13:17]  |                                        | 
+[23:13:17]  |       https://git.io/jit-plugin        | 
+[23:13:17]  |                                        | 
+[23:13:17]  |             Please wait...             | 
+[23:13:17]  |                                        | 
+[23:13:17]  |             Done in 11ms!              | 
+[23:13:17]  |                                        | 
+[23:13:17]  ========================================== 
+[23:13:17]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[23:13:17] *** YSI Info: Script ID: 1
+[23:13:17]  |                                        | 
+[23:13:17]  | Server:      0.3.7-R2 (W)              | 
+[23:13:17]  | Started:     17 Mar 2025 - 23:13:17    | 
+[23:13:17]  |                                        | 
+[23:13:17]  | Compiler:    3.10.10 (Windows)         | 
+[23:13:17]  | Includes:    0.3.7                     | 
+[23:13:17]  | Codepage:    <none>                    | 
+[23:13:17]  | Built:       17 Mar 2025 - 23:13:14    | 
+[23:13:17]  |                                        | 
+[23:13:17]  | YSI:         v05.10.0006               | 
+[23:13:17]  | Master:      1                         | 
+[23:13:17]  |                                        | 
+[23:13:17]  | JIT:         <none>                    | 
+[23:13:17]  | Crashdetect: <none>                    | 
+[23:13:17]  |                                        | 
+[23:13:17]  ========================================== 
+[23:13:17]  |                                        | 
+[23:13:17]  | Unable to check the latest YSI version | 
+[23:13:17]  | - please watch the forums and github:  | 
+[23:13:17]  |                                        | 
+[23:13:17]  |          https://git.io/5.x            | 
+[23:13:17]  |                                        | 
+[23:13:17]  ========================================== 
+[23:13:17]  
+[23:13:17]  
+[23:13:17] Gamemode iniciado.
+[23:13:17] Conectado a MySQL correctamente.
+[23:13:17] Reading File: blank
+[23:13:17] Reading File: properties/houses.txt
+[23:13:17] Reading File: properties/businesses.txt
+[23:13:17] Reading File: properties/banks.txt
+[23:13:17] Reading File: properties/police.txt
+[23:13:17] Number of vehicle models: 0
+[23:13:43] [connection] incoming connection: 127.0.0.1:63011 id: 0
+[23:13:43] [join] Juli has joined the server (0:127.0.0.1)
+Console input: exit
+[23:24:16] --- Server Shutting Down.
+[23:24:16]   |--  LS BeachSide Building Elevator destroyed
+[23:24:16]   |---------------------------------------------------
+[23:24:16] [part] Juli has left the server (0:0)
+[23:24:16] 
+[23:24:16]  ===============================
+[23:24:16] 
+[23:24:16]      sscanf plugin unloaded.    
+[23:24:16] 
+[23:24:16]  ===============================
+[23:24:16] 
+[23:24:16] plugin.mysql: Unloading plugin...
+[23:24:16] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:24:19] 
+[23:24:19] Server Plugins
+[23:24:19] --------------
+[23:24:19]  Loading plugin: sscanf
+[23:24:19] 
+[23:24:19]  ===============================
+[23:24:19] 
+[23:24:19]       sscanf plugin loaded.     
+[23:24:19] 
+[23:24:19]          Version: 2.13.8
+[23:24:19] 
+[23:24:19]    (c) 2022 Alex "Y_Less" Cole  
+[23:24:19] 
+[23:24:19]  ===============================
+[23:24:19] 
+[23:24:19]   Loaded.
+[23:24:19]  Loading plugin: mysql
+[23:24:19]  >> plugin.mysql: R41-4 successfully loaded.
+[23:24:19]   Loaded.
+[23:24:19]  Loaded 2 plugins.
+
+[23:24:19] 
+[23:24:19] Filterscripts
+[23:24:19] ---------------
+[23:24:19]   Loading filterscript 'gl_actions.amx'...
+[23:24:19]   Loading filterscript 'gl_realtime.amx'...
+[23:24:19]   Loading filterscript 'gl_property.amx'...
+[23:24:19] 
+-----------------------------------
+[23:24:19] Grand Larceny Property Filterscript		
+[23:24:19] -----------------------------------
+
+[23:24:19]   Loading filterscript 'gl_mapicon.amx'...
+[23:24:19]   Loading filterscript 'ls_elevator.amx'...
+[23:24:19]   Loading filterscript 'attachments.amx'...
+[23:24:19]   Loading filterscript 'skinchanger.amx'...
+[23:24:19] 
+--Admin Player Skin Changer Loaded
+
+[23:24:19]   Loading filterscript 'vspawner.amx'...
+[23:24:19] 
+--Admin Vehicle Spawner Loaded
+
+[23:24:19]   Loading filterscript 'ls_mall.amx'...
+[23:24:19]   Loading filterscript 'ls_beachside.amx'...
+[23:24:19] 
+
+[23:24:19]   |---------------------------------------------------
+[23:24:19]   |--- LS BeachSide Filterscript
+[23:24:19]   |--  Script v1.03
+[23:24:19]   |--  19th April 2015
+[23:24:19]   |---------------------------------------------------
+[23:24:19]   |--  LS BeachSide Building Elevator created
+[23:24:19]   |---------------------------------------------------
+[23:24:19]   Loaded 10 filterscripts.
+
+[23:24:19]  
+[23:24:19]  
+[23:24:19]          ==============================================================
+[23:24:19]          |                                                            |
+[23:24:19]          |                                                            |
+[23:24:19]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[23:24:19]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[23:24:19]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[23:24:19]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[23:24:19]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[23:24:19]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[23:24:19]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[23:24:19]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[23:24:19]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[23:24:19]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[23:24:19]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:24:19]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:24:19]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[23:24:19]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[23:24:19]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[23:24:19]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[23:24:19]          |                                                            |
+[23:24:19]          |                                                            |
+[23:24:19]          |                      (c) 2021 MPL v1.1                     |
+[23:24:19]          |            Alex "Y_Less" Cole and contributors.            |
+[23:24:19]          |                                                            |
+[23:24:19]          |                                                            |
+[23:24:19]          ==============================================================
+[23:24:19]  
+[23:24:19]  
+[23:24:19]  ========================================== 
+[23:24:19]  |                                        | 
+[23:24:19]  |  Missing YSI scriptfiles directories:  | 
+[23:24:19]  |                                        | 
+[23:24:19]  |      /scriptfiles/YSI/fixes/           | 
+[23:24:19]  |      /scriptfiles/YSI/temp/            | 
+[23:24:19]  |                                        | 
+[23:24:19]  ========================================== 
+[23:24:19]  |                                        | 
+[23:24:19]  |   Generating code, this may take a     | 
+[23:24:19]  |  little bit of time.  Note that this   | 
+[23:24:19]  |  code generation works best with the   | 
+[23:24:19]  |     JIT plugin, which you are not      | 
+[23:24:19]  |     currently using.  Get it here:     | 
+[23:24:19]  |                                        | 
+[23:24:19]  |       https://git.io/jit-plugin        | 
+[23:24:19]  |                                        | 
+[23:24:19]  |             Please wait...             | 
+[23:24:19]  |                                        | 
+[23:24:19]  |             Done in 12ms!              | 
+[23:24:19]  |                                        | 
+[23:24:19]  ========================================== 
+[23:24:19]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[23:24:19] *** YSI Info: Script ID: 1
+[23:24:19]  |                                        | 
+[23:24:19]  | Server:      0.3.7-R2 (W)              | 
+[23:24:19]  | Started:     17 Mar 2025 - 23:24:19    | 
+[23:24:19]  |                                        | 
+[23:24:19]  | Compiler:    3.10.10 (Windows)         | 
+[23:24:19]  | Includes:    0.3.7                     | 
+[23:24:19]  | Codepage:    <none>                    | 
+[23:24:19]  | Built:       17 Mar 2025 - 23:24:07    | 
+[23:24:19]  |                                        | 
+[23:24:19]  | YSI:         v05.10.0006               | 
+[23:24:19]  | Master:      1                         | 
+[23:24:19]  |                                        | 
+[23:24:19]  | JIT:         <none>                    | 
+[23:24:19]  | Crashdetect: <none>                    | 
+[23:24:19]  |                                        | 
+[23:24:19]  ========================================== 
+[23:24:19]  |                                        | 
+[23:24:19]  | Unable to check the latest YSI version | 
+[23:24:19]  | - please watch the forums and github:  | 
+[23:24:19]  |                                        | 
+[23:24:19]  |          https://git.io/5.x            | 
+[23:24:19]  |                                        | 
+[23:24:19]  ========================================== 
+[23:24:19]  
+[23:24:19]  
+[23:24:19] Gamemode iniciado.
+[23:24:19] Conectado a MySQL correctamente.
+[23:24:19] Reading File: blank
+[23:24:19] Reading File: properties/houses.txt
+[23:24:19] Reading File: properties/businesses.txt
+[23:24:19] Reading File: properties/banks.txt
+[23:24:19] Reading File: properties/police.txt
+[23:24:19] Number of vehicle models: 0
+[23:25:14] [connection] incoming connection: 127.0.0.1:61969 id: 0
+[23:25:15] [join] Juli has joined the server (0:127.0.0.1)
+Console input: exit
+[23:27:01] --- Server Shutting Down.
+[23:27:01]   |--  LS BeachSide Building Elevator destroyed
+[23:27:01]   |---------------------------------------------------
+[23:27:01] [part] Juli has left the server (0:0)
+[23:27:01] 
+[23:27:01]  ===============================
+[23:27:01] 
+[23:27:01]      sscanf plugin unloaded.    
+[23:27:01] 
+[23:27:01]  ===============================
+[23:27:01] 
+[23:27:01] plugin.mysql: Unloading plugin...
+[23:27:01] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:29:16] 
+[23:29:16] Server Plugins
+[23:29:16] --------------
+[23:29:16]  Loading plugin: sscanf
+[23:29:16] 
+[23:29:16]  ===============================
+[23:29:16] 
+[23:29:16]       sscanf plugin loaded.     
+[23:29:16] 
+[23:29:16]          Version: 2.13.8
+[23:29:16] 
+[23:29:16]    (c) 2022 Alex "Y_Less" Cole  
+[23:29:16] 
+[23:29:16]  ===============================
+[23:29:16] 
+[23:29:16]   Loaded.
+[23:29:16]  Loading plugin: mysql
+[23:29:16]  >> plugin.mysql: R41-4 successfully loaded.
+[23:29:16]   Loaded.
+[23:29:16]  Loaded 2 plugins.
+
+[23:29:16] 
+[23:29:16] Filterscripts
+[23:29:16] ---------------
+[23:29:16]   Loading filterscript 'gl_actions.amx'...
+[23:29:16]   Loading filterscript 'gl_realtime.amx'...
+[23:29:16]   Loading filterscript 'gl_property.amx'...
+[23:29:16] 
+-----------------------------------
+[23:29:16] Grand Larceny Property Filterscript		
+[23:29:16] -----------------------------------
+
+[23:29:16]   Loading filterscript 'gl_mapicon.amx'...
+[23:29:16]   Loading filterscript 'ls_elevator.amx'...
+[23:29:16]   Loading filterscript 'attachments.amx'...
+[23:29:16]   Loading filterscript 'skinchanger.amx'...
+[23:29:16] 
+--Admin Player Skin Changer Loaded
+
+[23:29:16]   Loading filterscript 'vspawner.amx'...
+[23:29:16] 
+--Admin Vehicle Spawner Loaded
+
+[23:29:16]   Loading filterscript 'ls_mall.amx'...
+[23:29:16]   Loading filterscript 'ls_beachside.amx'...
+[23:29:16] 
+
+[23:29:16]   |---------------------------------------------------
+[23:29:16]   |--- LS BeachSide Filterscript
+[23:29:16]   |--  Script v1.03
+[23:29:16]   |--  19th April 2015
+[23:29:16]   |---------------------------------------------------
+[23:29:16]   |--  LS BeachSide Building Elevator created
+[23:29:16]   |---------------------------------------------------
+[23:29:16]   Loaded 10 filterscripts.
+
+[23:29:16]  
+[23:29:16]  
+[23:29:16]          ==============================================================
+[23:29:16]          |                                                            |
+[23:29:16]          |                                                            |
+[23:29:16]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[23:29:16]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[23:29:16]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[23:29:16]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[23:29:16]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[23:29:16]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[23:29:16]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[23:29:16]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[23:29:16]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[23:29:16]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[23:29:16]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:29:16]          |           Y:::::Y                    S:::::S   I::::I      |
+[23:29:16]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[23:29:16]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[23:29:16]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[23:29:16]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[23:29:16]          |                                                            |
+[23:29:16]          |                                                            |
+[23:29:16]          |                      (c) 2021 MPL v1.1                     |
+[23:29:16]          |            Alex "Y_Less" Cole and contributors.            |
+[23:29:16]          |                                                            |
+[23:29:16]          |                                                            |
+[23:29:16]          ==============================================================
+[23:29:16]  
+[23:29:16]  
+[23:29:16]  ========================================== 
+[23:29:16]  |                                        | 
+[23:29:16]  |  Missing YSI scriptfiles directories:  | 
+[23:29:16]  |                                        | 
+[23:29:16]  |      /scriptfiles/YSI/fixes/           | 
+[23:29:16]  |      /scriptfiles/YSI/temp/            | 
+[23:29:16]  |                                        | 
+[23:29:16]  ========================================== 
+[23:29:16]  |                                        | 
+[23:29:16]  |   Generating code, this may take a     | 
+[23:29:16]  |  little bit of time.  Note that this   | 
+[23:29:16]  |  code generation works best with the   | 
+[23:29:16]  |     JIT plugin, which you are not      | 
+[23:29:16]  |     currently using.  Get it here:     | 
+[23:29:16]  |                                        | 
+[23:29:16]  |       https://git.io/jit-plugin        | 
+[23:29:16]  |                                        | 
+[23:29:16]  |             Please wait...             | 
+[23:29:16]  |                                        | 
+[23:29:16]  |             Done in 8ms!               | 
+[23:29:16]  |                                        | 
+[23:29:16]  ========================================== 
+[23:29:16]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[23:29:16] *** YSI Info: Script ID: 1
+[23:29:16]  |                                        | 
+[23:29:16]  | Server:      0.3.7-R2 (W)              | 
+[23:29:16]  | Started:     17 Mar 2025 - 23:29:16    | 
+[23:29:16]  |                                        | 
+[23:29:16]  | Compiler:    3.10.10 (Windows)         | 
+[23:29:16]  | Includes:    0.3.7                     | 
+[23:29:16]  | Codepage:    <none>                    | 
+[23:29:16]  | Built:       17 Mar 2025 - 23:29:09    | 
+[23:29:16]  |                                        | 
+[23:29:16]  | YSI:         v05.10.0006               | 
+[23:29:16]  | Master:      1                         | 
+[23:29:16]  |                                        | 
+[23:29:16]  | JIT:         <none>                    | 
+[23:29:16]  | Crashdetect: <none>                    | 
+[23:29:16]  |                                        | 
+[23:29:16]  ========================================== 
+[23:29:16]  |                                        | 
+[23:29:16]  | Unable to check the latest YSI version | 
+[23:29:16]  | - please watch the forums and github:  | 
+[23:29:16]  |                                        | 
+[23:29:16]  |          https://git.io/5.x            | 
+[23:29:16]  |                                        | 
+[23:29:16]  ========================================== 
+[23:29:16]  
+[23:29:16]  
+[23:29:16] Gamemode iniciado.
+[23:29:16] Conectado a MySQL correctamente.
+[23:29:16] Reading File: blank
+[23:29:16] Reading File: properties/houses.txt
+[23:29:16] Reading File: properties/businesses.txt
+[23:29:16] Reading File: properties/banks.txt
+[23:29:16] Reading File: properties/police.txt
+[23:29:16] Number of vehicle models: 0
+[23:29:37] [connection] incoming connection: 127.0.0.1:52784 id: 0
+[23:29:37] [join] Juli has joined the server (0:127.0.0.1)
+[08:24:37] [part] Juli has left the server (0:2)
